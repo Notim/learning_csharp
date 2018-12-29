@@ -1,0 +1,11 @@
+/home/joao/Github/notim/learning_c-cpp-csharp/C#/TiposBasicos/obj/Debug/netcoreapp2.2/TiposBasicos.csprojAssemblyReference.cache
+/home/joao/Github/notim/learning_c-cpp-csharp/C#/TiposBasicos/obj/Debug/netcoreapp2.2/TiposBasicos.csproj.CoreCompileInputs.cache
+/home/joao/Github/notim/learning_c-cpp-csharp/C#/TiposBasicos/obj/Debug/netcoreapp2.2/TiposBasicos.AssemblyInfoInputs.cache
+/home/joao/Github/notim/learning_c-cpp-csharp/C#/TiposBasicos/obj/Debug/netcoreapp2.2/TiposBasicos.AssemblyInfo.cs
+/home/joao/Github/notim/learning_c-cpp-csharp/C#/TiposBasicos/bin/Debug/netcoreapp2.2/TiposBasicos.deps.json
+/home/joao/Github/notim/learning_c-cpp-csharp/C#/TiposBasicos/bin/Debug/netcoreapp2.2/TiposBasicos.runtimeconfig.json
+/home/joao/Github/notim/learning_c-cpp-csharp/C#/TiposBasicos/bin/Debug/netcoreapp2.2/TiposBasicos.runtimeconfig.dev.json
+/home/joao/Github/notim/learning_c-cpp-csharp/C#/TiposBasicos/bin/Debug/netcoreapp2.2/TiposBasicos.dll
+/home/joao/Github/notim/learning_c-cpp-csharp/C#/TiposBasicos/bin/Debug/netcoreapp2.2/TiposBasicos.pdb
+/home/joao/Github/notim/learning_c-cpp-csharp/C#/TiposBasicos/obj/Debug/netcoreapp2.2/TiposBasicos.dll
+/home/joao/Github/notim/learning_c-cpp-csharp/C#/TiposBasicos/obj/Debug/netcoreapp2.2/TiposBasicos.pdb

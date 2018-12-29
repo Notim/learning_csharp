@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_TiposBasicos.1673302763.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Program.cs" t="Include" />
+      <e p="Start.cs" t="Include" />
+      <e p="TiposBasicos.csproj" t="IncludeRecursive" />
+      <e p="Util" t="Include">
+        <e p="BuiltIn" t="Include">
+          <e p="BuiltInTypes.cs" t="Include" />
+          <e p="PartialMethods" t="Include">
+            <e p="ShowBuiltInReferenceTypes.cs" t="Include" />
+            <e p="ShowBuiltInValuesTypes.cs" t="Include" />
+            <e p="ShowMoreInfoTypes.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.2" t="Include">
+            <e p="TiposBasicos.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+/home/joao/Github/learning_c-cpp-csharp/C#/BasicTypes/bin/Debug/netcoreapp2.2/BasicTypes.deps.json
+/home/joao/Github/learning_c-cpp-csharp/C#/BasicTypes/bin/Debug/netcoreapp2.2/BasicTypes.runtimeconfig.json
+/home/joao/Github/learning_c-cpp-csharp/C#/BasicTypes/bin/Debug/netcoreapp2.2/BasicTypes.runtimeconfig.dev.json
+/home/joao/Github/learning_c-cpp-csharp/C#/BasicTypes/bin/Debug/netcoreapp2.2/BasicTypes.dll
+/home/joao/Github/learning_c-cpp-csharp/C#/BasicTypes/bin/Debug/netcoreapp2.2/BasicTypes.pdb
+/home/joao/Github/learning_c-cpp-csharp/C#/BasicTypes/obj/Debug/netcoreapp2.2/BasicTypes.csprojAssemblyReference.cache
+/home/joao/Github/learning_c-cpp-csharp/C#/BasicTypes/obj/Debug/netcoreapp2.2/BasicTypes.csproj.CoreCompileInputs.cache
+/home/joao/Github/learning_c-cpp-csharp/C#/BasicTypes/obj/Debug/netcoreapp2.2/BasicTypes.AssemblyInfoInputs.cache
+/home/joao/Github/learning_c-cpp-csharp/C#/BasicTypes/obj/Debug/netcoreapp2.2/BasicTypes.AssemblyInfo.cs
+/home/joao/Github/learning_c-cpp-csharp/C#/BasicTypes/obj/Debug/netcoreapp2.2/BasicTypes.dll
+/home/joao/Github/learning_c-cpp-csharp/C#/BasicTypes/obj/Debug/netcoreapp2.2/BasicTypes.pdb
