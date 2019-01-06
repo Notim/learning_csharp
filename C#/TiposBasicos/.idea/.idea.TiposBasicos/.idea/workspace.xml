@@ -24,122 +24,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebf935aa-e4fc-4d00-be8e-5f0901db09f3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Terminal-commands.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Terminal-commands.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TiposBasicos/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TiposBasicos/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TiposBasicos/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TiposBasicos/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TiposBasicos/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TiposBasicos/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TiposBasicos/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TiposBasicos/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TiposBasicos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TiposBasicos/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TiposBasicos/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TiposBasicos/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Start.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Start.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TiposBasicos.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TiposBasicos.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Util/BuiltIn/BuiltInTypes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Util/BuiltIn/BuiltInTypes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowBuiltInReferenceTypes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowBuiltInReferenceTypes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowBuiltInValuesTypes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowBuiltInValuesTypes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowMoreInfoTypes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowMoreInfoTypes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/TiposBasicos.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/TiposBasicos.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/TiposBasicos.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/TiposBasicos.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/TiposBasicos.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/TiposBasicos.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/TiposBasicos.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/linux-x64/TiposBasicos.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/linux-x64/TiposBasicos.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/linux-x64/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/linux-x64/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/linux-x64/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/linux-x64/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/linux-x64/TiposBasicos.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/linux-x64/TiposBasicos.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/linux-x64/TiposBasicos.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/linux-x64/TiposBasicos.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/osx-x64/TiposBasicos.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/osx-x64/TiposBasicos.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/osx-x64/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/osx-x64/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/osx-x64/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/osx-x64/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/osx-x64/TiposBasicos.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/osx-x64/TiposBasicos.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/osx-x64/TiposBasicos.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/osx-x64/TiposBasicos.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/rhel-x64/TiposBasicos.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/rhel-x64/TiposBasicos.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/rhel-x64/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/rhel-x64/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/rhel-x64/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/rhel-x64/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/rhel-x64/TiposBasicos.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/rhel-x64/TiposBasicos.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/rhel-x64/TiposBasicos.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/rhel-x64/TiposBasicos.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/ubuntu.18.04-x6/TiposBasicos.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/ubuntu.18.04-x6/TiposBasicos.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/ubuntu.18.04-x6/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/ubuntu.18.04-x6/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/ubuntu.18.04-x6/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/ubuntu.18.04-x6/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/ubuntu.18.04-x6/TiposBasicos.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/ubuntu.18.04-x6/TiposBasicos.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/ubuntu.18.04-x6/TiposBasicos.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/ubuntu.18.04-x6/TiposBasicos.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/win-x64/TiposBasicos.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/win-x64/TiposBasicos.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/win-x64/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/win-x64/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/win-x64/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/win-x64/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/win-x64/TiposBasicos.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/win-x64/TiposBasicos.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/win-x64/TiposBasicos.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/win-x64/TiposBasicos.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/win-x86/TiposBasicos.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/win-x86/TiposBasicos.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/win-x86/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/win-x86/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/win-x86/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/win-x86/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/win-x86/TiposBasicos.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/win-x86/TiposBasicos.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/release/netcoreapp2.2/win-x86/TiposBasicos.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/release/netcoreapp2.2/win-x86/TiposBasicos.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Linux/TiposBasicos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Linux/TiposBasicos.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TiposBasicos.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TiposBasicos.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TiposBasicos.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TiposBasicos.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TiposBasicos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TiposBasicos.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TiposBasicos.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TiposBasicos.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TiposBasicos.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TiposBasicos.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TiposBasicos.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TiposBasicos.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/TiposBasicos.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/TiposBasicos.csproj.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/TiposBasicos.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/TiposBasicos.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/TiposBasicos.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/obj/TiposBasicos.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x64/TiposBasicos.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x64/TiposBasicos.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x64/TiposBasicos.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x64/TiposBasicos.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x64/TiposBasicos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x64/TiposBasicos.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x64/TiposBasicos.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x64/TiposBasicos.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x64/TiposBasicos.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x64/TiposBasicos.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x64/TiposBasicos.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x64/TiposBasicos.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x64/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x64/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x64/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x64/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x86/TiposBasicos.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x86/TiposBasicos.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x86/TiposBasicos.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x86/TiposBasicos.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x86/TiposBasicos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x86/TiposBasicos.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x86/TiposBasicos.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x86/TiposBasicos.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x86/TiposBasicos.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x86/TiposBasicos.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x86/TiposBasicos.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x86/TiposBasicos.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x86/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x86/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x86/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/release/netcoreapp2.2/win-x86/TiposBasicos.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -152,36 +47,36 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-40">
-              <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+            <state relative-caret-position="-478">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
-                <marker date="1545096454936" expanded="false" signature="6:82" ph="..." />
-                <marker date="1545096454936" expanded="true" signature="107:1656" ph="{...}" />
-                <marker date="1545096454936" expanded="true" signature="142:1653" ph="{...}" />
-                <marker date="1545096454936" expanded="true" signature="208:1647" ph="{...}" />
-                <marker date="1545096454936" expanded="true" signature="241:381" ph="{...}" />
-                <marker date="1545096454936" expanded="true" signature="505:633" ph="{...}" />
-                <marker date="1545096454936" expanded="true" signature="720:793" ph="{...}" />
-                <marker date="1545096454936" expanded="true" signature="877:947" ph="{...}" />
-                <marker date="1545096454936" expanded="true" signature="1029:1414" ph="{...}" />
-                <marker date="1545096454936" expanded="true" signature="1051:1189" ph="{...}" />
-                <marker date="1545096454936" expanded="true" signature="1226:1400" ph="{...}" />
-                <marker date="1545096454936" expanded="true" signature="1468:1527" ph="{...}" />
-                <marker date="1545096454936" expanded="true" signature="1578:1637" ph="{...}" />
+                <marker date="1546101598538" expanded="false" signature="6:82" ph="..." />
+                <marker date="1546101598538" expanded="true" signature="107:1656" ph="{...}" />
+                <marker date="1546101598538" expanded="true" signature="142:1653" ph="{...}" />
+                <marker date="1546101598538" expanded="true" signature="208:1647" ph="{...}" />
+                <marker date="1546101598538" expanded="true" signature="241:381" ph="{...}" />
+                <marker date="1546101598538" expanded="true" signature="505:633" ph="{...}" />
+                <marker date="1546101598538" expanded="true" signature="720:793" ph="{...}" />
+                <marker date="1546101598538" expanded="true" signature="877:947" ph="{...}" />
+                <marker date="1546101598538" expanded="true" signature="1029:1414" ph="{...}" />
+                <marker date="1546101598538" expanded="true" signature="1051:1189" ph="{...}" />
+                <marker date="1546101598538" expanded="true" signature="1226:1400" ph="{...}" />
+                <marker date="1546101598538" expanded="true" signature="1468:1527" ph="{...}" />
+                <marker date="1546101598538" expanded="true" signature="1578:1637" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Start.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="108">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="38" />
               <folding>
-                <marker date="1545536957916" expanded="true" signature="57:250" ph="{...}" />
-                <marker date="1545536957916" expanded="true" signature="82:248" ph="{...}" />
-                <marker date="1545536957916" expanded="true" signature="128:242" ph="{...}" />
+                <marker date="1546101598538" expanded="true" signature="57:250" ph="{...}" />
+                <marker date="1546101598538" expanded="true" signature="82:248" ph="{...}" />
+                <marker date="1546101598538" expanded="true" signature="128:242" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -190,13 +85,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowMoreInfoTypes.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-40">
+            <state relative-caret-position="234">
               <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding>
-                <marker date="1545096454936" expanded="true" signature="33:447" ph="{...}" />
-                <marker date="1545096454936" expanded="true" signature="81:444" ph="{...}" />
-                <marker date="1545096454936" expanded="true" signature="141:438" ph="{...}" />
-                <marker date="1545096454936" expanded="true" signature="169:428" ph="{...}" />
+                <marker date="1546101598541" expanded="true" signature="33:447" ph="{...}" />
+                <marker date="1546101598541" expanded="true" signature="81:444" ph="{...}" />
+                <marker date="1546101598541" expanded="true" signature="141:438" ph="{...}" />
+                <marker date="1546101598541" expanded="true" signature="169:428" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -205,12 +100,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowBuiltInValuesTypes.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-40">
+            <state relative-caret-position="242">
               <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding>
-                <marker date="1545096454936" expanded="true" signature="33:556" ph="{...}" />
-                <marker date="1545096454936" expanded="true" signature="81:553" ph="{...}" />
-                <marker date="1545096454936" expanded="true" signature="138:547" ph="{...}" />
+                <marker date="1546101598541" expanded="true" signature="33:556" ph="{...}" />
+                <marker date="1546101598541" expanded="true" signature="81:553" ph="{...}" />
+                <marker date="1546101598541" expanded="true" signature="138:547" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -219,27 +114,27 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowBuiltInReferenceTypes.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-40">
-              <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+            <state relative-caret-position="216">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
-                <marker date="1545096454936" expanded="true" signature="6:66" ph="..." />
-                <marker date="1545096454936" expanded="true" signature="86:3065" ph="{...}" />
-                <marker date="1545096454936" expanded="true" signature="134:3062" ph="{...}" />
-                <marker date="1545096454936" expanded="true" signature="188:3056" ph="{...}" />
-                <marker date="1545096454936" expanded="true" signature="737:885" ph="{...}" />
+                <marker date="1546101598538" expanded="false" signature="6:66" ph="..." />
+                <marker date="1546101598538" expanded="true" signature="86:3065" ph="{...}" />
+                <marker date="1546101598538" expanded="true" signature="134:3062" ph="{...}" />
+                <marker date="1546101598538" expanded="true" signature="188:3056" ph="{...}" />
+                <marker date="1546101598538" expanded="true" signature="737:885" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Util/BuiltIn/BuiltInTypes.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-80">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="72">
+              <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
               <folding>
-                <marker date="1545096454936" expanded="true" signature="33:346" ph="{...}" />
-                <marker date="1545096454936" expanded="true" signature="81:343" ph="{...}" />
+                <marker date="1546532023050" expanded="true" signature="33:346" ph="{...}" />
+                <marker date="1546532023050" expanded="true" signature="81:343" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -263,11 +158,11 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Util/BuiltIn/BuiltInTypes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowMoreInfoTypes.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowBuiltInValuesTypes.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowBuiltInReferenceTypes.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Start.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowBuiltInReferenceTypes.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -282,12 +177,12 @@
         <option value="$PROJECT_DIR$/BuiltIn/BuiltInTypes.cs" />
         <option value="$PROJECT_DIR$/BuiltIn/PartialMethods/ShowBuiltInReferenceTypes.cs" />
         <option value="$PROJECT_DIR$/BuiltIn/PartialMethods/ShowBuiltInValuesTypes.cs" />
-        <option value="$PROJECT_DIR$/Util/BuiltIn/BuiltInTypes.cs" />
         <option value="$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowBuiltInValuesTypes.cs" />
         <option value="$PROJECT_DIR$/Program.cs" />
         <option value="$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowMoreInfoTypes.cs" />
         <option value="$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowBuiltInReferenceTypes.cs" />
         <option value="$PROJECT_DIR$/Start.cs" />
+        <option value="$PROJECT_DIR$/Util/BuiltIn/BuiltInTypes.cs" />
       </list>
     </option>
   </component>
@@ -305,38 +200,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="TiposBasicos" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="TiposBasicos" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Util" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="TiposBasicos" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Util" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="BuiltIn" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="TiposBasicos" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Util" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="BuiltIn" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="PartialMethods" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -389,11 +257,13 @@
       <updated>1544751740944</updated>
       <workItem from="1544751745988" duration="17160000" />
       <workItem from="1545536875786" duration="1056000" />
+      <workItem from="1546346438189" duration="358000" />
+      <workItem from="1546531788540" duration="1242000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18216000" />
+    <option name="totallyTimeSpent" value="19816000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -405,14 +275,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="26" width="1368" height="743" extended-state="6" />
+    <frame x="32" y="46" width="1302" height="703" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14864865" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -426,15 +296,15 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="TeamCity" order="12" />
-      <window_info anchor="bottom" id="Terminal" order="13" weight="0.29545453" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.29381442" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="15" weight="0.32954547" />
-      <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -456,58 +326,22 @@
     <entry file="file://$PROJECT_DIR$/output.out" />
     <entry file="file://$PROJECT_DIR$/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        <state relative-caret-position="-478">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <marker date="1545096454936" expanded="false" signature="6:82" ph="..." />
-            <marker date="1545096454936" expanded="true" signature="107:1656" ph="{...}" />
-            <marker date="1545096454936" expanded="true" signature="142:1653" ph="{...}" />
-            <marker date="1545096454936" expanded="true" signature="208:1647" ph="{...}" />
-            <marker date="1545096454936" expanded="true" signature="241:381" ph="{...}" />
-            <marker date="1545096454936" expanded="true" signature="505:633" ph="{...}" />
-            <marker date="1545096454936" expanded="true" signature="720:793" ph="{...}" />
-            <marker date="1545096454936" expanded="true" signature="877:947" ph="{...}" />
-            <marker date="1545096454936" expanded="true" signature="1029:1414" ph="{...}" />
-            <marker date="1545096454936" expanded="true" signature="1051:1189" ph="{...}" />
-            <marker date="1545096454936" expanded="true" signature="1226:1400" ph="{...}" />
-            <marker date="1545096454936" expanded="true" signature="1468:1527" ph="{...}" />
-            <marker date="1545096454936" expanded="true" signature="1578:1637" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowMoreInfoTypes.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <marker date="1545096454936" expanded="true" signature="33:447" ph="{...}" />
-            <marker date="1545096454936" expanded="true" signature="81:444" ph="{...}" />
-            <marker date="1545096454936" expanded="true" signature="141:438" ph="{...}" />
-            <marker date="1545096454936" expanded="true" signature="169:428" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowBuiltInValuesTypes.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <marker date="1545096454936" expanded="true" signature="33:556" ph="{...}" />
-            <marker date="1545096454936" expanded="true" signature="81:553" ph="{...}" />
-            <marker date="1545096454936" expanded="true" signature="138:547" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Util/BuiltIn/BuiltInTypes.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-80">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <marker date="1545096454936" expanded="true" signature="33:346" ph="{...}" />
-            <marker date="1545096454936" expanded="true" signature="81:343" ph="{...}" />
+            <marker date="1546101598538" expanded="false" signature="6:82" ph="..." />
+            <marker date="1546101598538" expanded="true" signature="107:1656" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="142:1653" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="208:1647" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="241:381" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="505:633" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="720:793" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="877:947" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="1029:1414" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="1051:1189" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="1226:1400" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="1468:1527" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="1578:1637" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -515,28 +349,64 @@
     <entry file="file://$PROJECT_DIR$/TiposBasicos.csproj">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowBuiltInReferenceTypes.cs">
+    <entry file="file://$PROJECT_DIR$/Start.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
-          <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+        <state relative-caret-position="108">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="38" />
           <folding>
-            <marker date="1545096454936" expanded="true" signature="6:66" ph="..." />
-            <marker date="1545096454936" expanded="true" signature="86:3065" ph="{...}" />
-            <marker date="1545096454936" expanded="true" signature="134:3062" ph="{...}" />
-            <marker date="1545096454936" expanded="true" signature="188:3056" ph="{...}" />
-            <marker date="1545096454936" expanded="true" signature="737:885" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="57:250" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="82:248" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="128:242" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Start.cs">
+    <entry file="file://$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowMoreInfoTypes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <marker date="1546101598541" expanded="true" signature="33:447" ph="{...}" />
+            <marker date="1546101598541" expanded="true" signature="81:444" ph="{...}" />
+            <marker date="1546101598541" expanded="true" signature="141:438" ph="{...}" />
+            <marker date="1546101598541" expanded="true" signature="169:428" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowBuiltInValuesTypes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <marker date="1546101598541" expanded="true" signature="33:556" ph="{...}" />
+            <marker date="1546101598541" expanded="true" signature="81:553" ph="{...}" />
+            <marker date="1546101598541" expanded="true" signature="138:547" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowBuiltInReferenceTypes.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
-            <marker date="1545536957916" expanded="true" signature="57:250" ph="{...}" />
-            <marker date="1545536957916" expanded="true" signature="82:248" ph="{...}" />
-            <marker date="1545536957916" expanded="true" signature="128:242" ph="{...}" />
+            <marker date="1546101598538" expanded="false" signature="6:66" ph="..." />
+            <marker date="1546101598538" expanded="true" signature="86:3065" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="134:3062" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="188:3056" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="737:885" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Util/BuiltIn/BuiltInTypes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          <folding>
+            <marker date="1546532023050" expanded="true" signature="33:346" ph="{...}" />
+            <marker date="1546532023050" expanded="true" signature="81:343" ph="{...}" />
           </folding>
         </state>
       </provider>

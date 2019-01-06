@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/joao/Github/learning_c-cpp-csharp/C#/TiposBasicos/TiposBasicos.csproj",
+      "projectUniqueName": "/home/joao/Github/learning_csharp/C#/TiposBasicos/TiposBasicos.csproj",
       "projectName": "TiposBasicos",
-      "projectPath": "/home/joao/Github/learning_c-cpp-csharp/C#/TiposBasicos/TiposBasicos.csproj",
+      "projectPath": "/home/joao/Github/learning_csharp/C#/TiposBasicos/TiposBasicos.csproj",
       "packagesPath": "/home/joao/.nuget/packages/",
-      "outputPath": "/home/joao/Github/learning_c-cpp-csharp/C#/TiposBasicos/obj/",
+      "outputPath": "/home/joao/Github/learning_csharp/C#/TiposBasicos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/joao/.config/NuGet/NuGet.Config"
