@@ -9,29 +9,51 @@
           <e p="Entities" t="Include">
             <e p="Aluno.cs" t="Include" />
           </e>
+          <e p="Repository" t="Include">
+            <e p="DataContext.cs" t="Include" />
+          </e>
         </e>
         <e p="Coordenador" t="Include">
           <e p="Entities" t="Include">
             <e p="Coordenador.cs" t="Include" />
           </e>
+          <e p="Repository" t="Include">
+            <e p="DataContext.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Core" t="Include">
+          <e p="Base" t="Include">
+            <e p="DefaultContext.cs" t="Include" />
+            <e p="DefaultEntity.cs" t="Include" />
+          </e>
+          <e p="EntitiesCore.cs" t="Include" />
+          <e p="ModelCreating.cs" t="Include" />
+          <e p="Repository.cs" t="Include" />
+          <e p="basicServices" t="Include">
+            <e p="Services.cs" t="Include" />
+          </e>
         </e>
         <e p="DAL.csproj" t="IncludeRecursive" />
-        <e p="EntitiesCore.cs" t="Include" />
+        <e p="DATABASE.db" t="Include" />
         <e p="Migrations" t="Include">
-          <e p="20190211031522_LMS.Designer.cs" t="Include" />
-          <e p="20190211031522_LMS.cs" t="Include" />
-          <e p="EntitiesCoreModelSnapshot.cs" t="Include" />
+          <e p="20190211145638_LMS.Designer.cs" t="Include" />
+          <e p="20190211145638_LMS.cs" t="Include" />
+          <e p="DataContextModelSnapshot.cs" t="Include" />
         </e>
-        <e p="ModelCreating.cs" t="Include" />
         <e p="Professor" t="Include">
           <e p="Entities" t="Include">
             <e p="Professor.cs" t="Include" />
           </e>
+          <e p="Repository" t="Include">
+            <e p="DataContext.cs" t="Include" />
+          </e>
         </e>
-        <e p="Repository.cs" t="Include" />
         <e p="Usuario" t="Include">
           <e p="Entities" t="Include">
             <e p="Usuario.cs" t="Include" />
+          </e>
+          <e p="Repository" t="Include">
+            <e p="DataContext.cs" t="Include" />
           </e>
         </e>
         <e p="bin" t="ExcludeRecursive" />

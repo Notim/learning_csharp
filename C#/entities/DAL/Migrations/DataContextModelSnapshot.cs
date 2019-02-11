@@ -7,8 +7,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace DAL.Migrations
 {
-    [DbContext(typeof(EntitiesCore))]
-    partial class EntitiesCoreModelSnapshot : ModelSnapshot
+    [DbContext(typeof(DataContext))]
+    partial class DataContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
         {
@@ -21,13 +21,27 @@ namespace DAL.Migrations
                     b.Property<int>("id")
                         .ValueGeneratedOnAdd();
 
+                    b.Property<string>("ativo");
+
                     b.Property<string>("celular");
+
+                    b.Property<DateTime?>("dtAlteracao");
+
+                    b.Property<DateTime>("dtCadastro");
+
+                    b.Property<DateTime?>("dtExclusao");
 
                     b.Property<string>("email");
 
                     b.Property<string>("foto");
 
                     b.Property<int>("idUsuario");
+
+                    b.Property<int?>("idUsuarioAlteracao");
+
+                    b.Property<int>("idUsuarioCadastro");
+
+                    b.Property<int?>("idUsuarioExclusao");
 
                     b.Property<string>("nome");
 
@@ -51,11 +65,25 @@ namespace DAL.Migrations
                     b.Property<int>("id")
                         .ValueGeneratedOnAdd();
 
+                    b.Property<string>("ativo");
+
                     b.Property<string>("celular");
+
+                    b.Property<DateTime?>("dtAlteracao");
+
+                    b.Property<DateTime>("dtCadastro");
+
+                    b.Property<DateTime?>("dtExclusao");
 
                     b.Property<string>("email");
 
                     b.Property<int>("idUsuario");
+
+                    b.Property<int?>("idUsuarioAlteracao");
+
+                    b.Property<int>("idUsuarioCadastro");
+
+                    b.Property<int?>("idUsuarioExclusao");
 
                     b.Property<string>("nome");
 
@@ -79,11 +107,25 @@ namespace DAL.Migrations
 
                     b.Property<string>("apelido");
 
+                    b.Property<string>("ativo");
+
                     b.Property<string>("celular");
+
+                    b.Property<DateTime?>("dtAlteracao");
+
+                    b.Property<DateTime>("dtCadastro");
+
+                    b.Property<DateTime?>("dtExclusao");
 
                     b.Property<string>("email");
 
                     b.Property<int>("idUsuario");
+
+                    b.Property<int?>("idUsuarioAlteracao");
+
+                    b.Property<int>("idUsuarioCadastro");
+
+                    b.Property<int?>("idUsuarioExclusao");
 
                     b.Property<string>("nome");
 
@@ -105,7 +147,21 @@ namespace DAL.Migrations
                     b.Property<int>("id")
                         .ValueGeneratedOnAdd();
 
+                    b.Property<string>("ativo");
+
+                    b.Property<DateTime?>("dtAlteracao");
+
+                    b.Property<DateTime>("dtCadastro");
+
+                    b.Property<DateTime?>("dtExclusao");
+
                     b.Property<DateTime>("dtExpiracao");
+
+                    b.Property<int?>("idUsuarioAlteracao");
+
+                    b.Property<int>("idUsuarioCadastro");
+
+                    b.Property<int?>("idUsuarioExclusao");
 
                     b.Property<string>("login");
 

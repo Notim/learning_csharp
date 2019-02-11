@@ -11,6 +11,7 @@ namespace UTIL.methods {
         private static readonly string[] names    = File.ReadAllLines("/home/joao/Github/learning_csharp/C#/entities/UTIL/Populate/Data/names");
         private static readonly string[] surNames = File.ReadAllLines("/home/joao/Github/learning_csharp/C#/entities/UTIL/Populate/Data/surnames");
         private static readonly string[] mailProviders = File.ReadAllLines("/home/joao/Github/learning_csharp/C#/entities/UTIL/Populate/Data/mailproviders");
+        // TODO : fazer esse endereço ficar relativo a lib e nao ao projeto
         
         public static string GenerateNames(int surnamesCount = 0) {
             var random = new Random();

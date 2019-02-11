@@ -13,6 +13,13 @@ namespace DAL.Migrations
                 {
                     id = table.Column<int>(nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
+                    dtCadastro = table.Column<DateTime>(nullable: false),
+                    dtAlteracao = table.Column<DateTime>(nullable: true),
+                    dtExclusao = table.Column<DateTime>(nullable: true),
+                    idUsuarioCadastro = table.Column<int>(nullable: false),
+                    idUsuarioAlteracao = table.Column<int>(nullable: true),
+                    idUsuarioExclusao = table.Column<int>(nullable: true),
+                    ativo = table.Column<string>(nullable: true),
                     login = table.Column<string>(nullable: true),
                     senha = table.Column<string>(nullable: true),
                     dtExpiracao = table.Column<DateTime>(nullable: false)
@@ -28,6 +35,13 @@ namespace DAL.Migrations
                 {
                     id = table.Column<int>(nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
+                    dtCadastro = table.Column<DateTime>(nullable: false),
+                    dtAlteracao = table.Column<DateTime>(nullable: true),
+                    dtExclusao = table.Column<DateTime>(nullable: true),
+                    idUsuarioCadastro = table.Column<int>(nullable: false),
+                    idUsuarioAlteracao = table.Column<int>(nullable: true),
+                    idUsuarioExclusao = table.Column<int>(nullable: true),
+                    ativo = table.Column<string>(nullable: true),
                     idUsuario = table.Column<int>(nullable: false),
                     nome = table.Column<string>(nullable: true),
                     email = table.Column<string>(nullable: true),
@@ -52,6 +66,13 @@ namespace DAL.Migrations
                 {
                     id = table.Column<int>(nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
+                    dtCadastro = table.Column<DateTime>(nullable: false),
+                    dtAlteracao = table.Column<DateTime>(nullable: true),
+                    dtExclusao = table.Column<DateTime>(nullable: true),
+                    idUsuarioCadastro = table.Column<int>(nullable: false),
+                    idUsuarioAlteracao = table.Column<int>(nullable: true),
+                    idUsuarioExclusao = table.Column<int>(nullable: true),
+                    ativo = table.Column<string>(nullable: true),
                     idUsuario = table.Column<int>(nullable: false),
                     nome = table.Column<string>(nullable: true),
                     email = table.Column<string>(nullable: true),
@@ -74,6 +95,13 @@ namespace DAL.Migrations
                 {
                     id = table.Column<int>(nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
+                    dtCadastro = table.Column<DateTime>(nullable: false),
+                    dtAlteracao = table.Column<DateTime>(nullable: true),
+                    dtExclusao = table.Column<DateTime>(nullable: true),
+                    idUsuarioCadastro = table.Column<int>(nullable: false),
+                    idUsuarioAlteracao = table.Column<int>(nullable: true),
+                    idUsuarioExclusao = table.Column<int>(nullable: true),
+                    ativo = table.Column<string>(nullable: true),
                     idUsuario = table.Column<int>(nullable: false),
                     nome = table.Column<string>(nullable: true),
                     email = table.Column<string>(nullable: true),

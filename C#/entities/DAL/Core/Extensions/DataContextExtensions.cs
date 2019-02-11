@@ -2,7 +2,6 @@
 
 namespace System {
 
-    
     public static class DataContextExtensions {
 
         public static void disableTrackChanges(this DataContext db) {

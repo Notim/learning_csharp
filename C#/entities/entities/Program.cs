@@ -28,7 +28,7 @@ namespace program {
             Console.WriteLine("Now your password!");
             var _password = Console.ReadLine();
 
-            using (var db = new EntitiesCore()) {
+            using (var db = new DataContext()) {
                 var users = db.Usuario.ToList();
 
                 if (users.Any(u => u.login == _login)) {

@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace DAL.Entities {
 
-    public class Aluno {
+    public class Aluno : DefaultEntity {
         public int    id        { get; set; }
         public int    idUsuario { get; set; }
         public string nome      { get; set; }
@@ -15,10 +15,12 @@ namespace DAL.Entities {
         public virtual Usuario Usuario { get; set; }
     }
 
-    sealed class AlunoModelBuilder : IEntityTypeConfiguration<Aluno> {
+    internal sealed class AlunoModelBuilder : IEntityTypeConfiguration<Aluno> {
         public void Configure(EntityTypeBuilder<Aluno> builder) {
 
             builder.ToTable("tb_aluno");
+
+            //modelBuilder.HasDefaultSchema("blogging"); // for sqlServer
 
             builder.HasKey(model => model.id);
 

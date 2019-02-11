@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace DAL.Entities {
 
-    public class Professor {
+    public class Professor : DefaultEntity {
         public int    id        { get; set; }
         public int    idUsuario { get; set; }
         public string nome      { get; set; }

@@ -2,13 +2,13 @@ using Microsoft.EntityFrameworkCore;
 
 namespace DAL.Configuration {
 
-    public partial class EntitiesCore : DbContext {
+    public partial class DataContext : DbContext {
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
-            if (!optionsBuilder.IsConfigured) {
-
+            
+            if (!optionsBuilder.IsConfigured) 
                 optionsBuilder.UseSqlite("Data Source =DATABASE.db");
-            }
+            
         }
 
     }

@@ -14,4 +14,22 @@
       <PackageReference Include="System.Data.SQLite.Core" Version="1.0.109.2" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Compile Remove="Configuracoes\**" />
+      <Compile Remove="Core\Const\**" />
+      <Compile Remove="Core\Extensions\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="Configuracoes\**" />
+      <EmbeddedResource Remove="Core\Const\**" />
+      <EmbeddedResource Remove="Core\Extensions\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Configuracoes\**" />
+      <None Remove="Core\Const\**" />
+      <None Remove="Core\Extensions\**" />
+    </ItemGroup>
+
 </Project>

@@ -1,10 +1,14 @@
 ﻿using System.Data.Entity;
 
 using DAL.Configuracoes;
+using DAL.Entities;
+
+using Microsoft.EntityFrameworkCore;
 
 namespace DAL.Repository.Base {
 
     public partial class DataContext : DbContext {
+
         public DbSet<ConfiguracaoEmail> ConfiguracaoEmail { get; set; }
 
         public DbSet<ConfiguracaoNotificacao> ConfiguracaoNotificacao { get; set; }
@@ -31,8 +35,11 @@ namespace DAL.Repository.Base {
 
         public DbSet<ConfiguracaoPromocao> ConfiguracaoPromocao { get; set; }
 
-        private void mapperModuloConfiguracao(DbModelBuilder modelBuilder) {
-            
+
+        private void mapperModuloConfiguracao(ModelBuilder modelBuilder) {
+
+            modelBuilder.ApplyConfiguration(new AlunoModelBuilder());
+
             modelBuilder.Configurations.Add(new ConfiguracaoEmailMapper());
 
             modelBuilder.Configurations.Add(new ConfiguracaoNotificacaoMapper());
