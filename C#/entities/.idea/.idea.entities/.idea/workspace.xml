@@ -23,72 +23,7 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="378fb4ad-89ce-4b10-8bd2-1befa97dc95b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DAL/Aluno/Repository/DataContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAL/Coordenador/Repository/DataContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAL/Core/Base/DefaultContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAL/Core/basicServices/Services.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAL/Professor/Repository/DataContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAL/Usuario/Repository/DataContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.entities/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.entities/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.entities/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.entities/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Aluno/Entities/Aluno.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Aluno/Entities/Aluno.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Coordenador/Entities/Coordenador.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Coordenador/Entities/Coordenador.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/DAL.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/DAL.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/EntitiesCore.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Core/EntitiesCore.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Migrations/20190211031522_LMS.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Migrations/20190211031522_LMS.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Migrations/EntitiesCoreModelSnapshot.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/ModelCreating.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Core/ModelCreating.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Professor/Entities/Professor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Professor/Entities/Professor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Repository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Core/Repository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Usuario/Entities/Usuario.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Usuario/Entities/Usuario.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp2.2/DAL.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp2.2/DAL.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UTIL/Populate/Data/mailproviders" beforeDir="false" afterPath="$PROJECT_DIR$/UTIL/Populate/Data/mailproviders" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UTIL/Populate/Data/names" beforeDir="false" afterPath="$PROJECT_DIR$/UTIL/Populate/Data/names" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UTIL/Populate/GenerateNames.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UTIL/Populate/GenerateNames.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/entities/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Config/ApplicationJson.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Config/AreaAssociadoConfig.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Config/CadastroAssociadoConfig.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Config/CheckoutConfig.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Config/HeaderConfig.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Config/NaoAssociadoConfig.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Config/StyleConfig.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Const/ConfiguracaoTipoCampoConst.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Default/ConfiguracaoEmailDefault.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Default/ConfiguracaoNotificacaoDefault.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Entities/ConfiguracaoComissao.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Entities/ConfiguracaoContribuicao.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Entities/ConfiguracaoEmail.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Entities/ConfiguracaoFinanceiro.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Entities/ConfiguracaoNotificacao.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Entities/ConfiguracaoOperacaoCompra.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Entities/ConfiguracaoPerfilComissionavel.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Entities/ConfiguracaoPortal.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Entities/ConfiguracaoPromocao.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Entities/ConfiguracaoRotinaAutomatica.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Entities/ConfiguracaoSaque.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Entities/ConfiguracaoSistema.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Entities/ConfiguracaoTipoCampo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Extensions/ConfiguracaoSaqueExtensions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Extensions/ConfiguracaoSistemaExtensions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Configuracoes/Repository/DataContext.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Core/Base/DefaultEmpresa.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Core/Base/DefaultEntity.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Core/Base/Geral.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Core/Const/EntityTypes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Core/Const/EntityTypesNum.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Core/Const/OrigemCadastroConst.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Core/Const/StatusConst.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Core/DataContext.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Core/DataContextInterceptor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Core/Extensions/DALExtensions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Core/Extensions/DataContextExtensions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Core/GenericRepository.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Core/IGenericRepository.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Core/TableRepository.cs" beforeDir="false" />
-    </list>
+    <list default="true" id="378fb4ad-89ce-4b10-8bd2-1befa97dc95b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/DAL/Core/basicServices/Services.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
-              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
               <folding>
                 <marker date="1549897546803" expanded="true" signature="6:54" ph="..." />
                 <marker date="1549897546803" expanded="true" signature="136:623" ph="{...}" />
@@ -146,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/DAL/Aluno/Repository/DataContext.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding>
                 <marker date="1549897961556" expanded="false" signature="6:57" ph="..." />
                 <marker date="1549897961556" expanded="true" signature="87:357" ph="{...}" />
@@ -192,8 +127,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UTIL/Populate/Data/mailproviders">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            <state relative-caret-position="285">
+              <caret line="101" column="9" lean-forward="true" selection-start-line="101" selection-start-column="9" selection-end-line="101" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -202,7 +137,7 @@
         <entry file="file://$PROJECT_DIR$/UTIL/Populate/Data/names">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="237">
-              <caret line="403" column="5" lean-forward="true" selection-start-line="403" selection-start-column="5" selection-end-line="403" selection-end-column="5" />
+              <caret line="403" column="5" selection-start-line="403" selection-start-column="5" selection-end-line="403" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -211,7 +146,7 @@
         <entry file="file://$PROJECT_DIR$/UTIL/Populate/Data/surnames">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="269">
-              <caret line="206" column="6" lean-forward="true" selection-start-line="206" selection-start-column="6" selection-end-line="206" selection-end-column="6" />
+              <caret line="206" column="6" selection-start-line="206" selection-start-column="6" selection-end-line="206" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -220,7 +155,7 @@
         <entry file="file://$PROJECT_DIR$/DAL/Aluno/Entities/Aluno.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="48">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <marker date="1549897954266" expanded="false" signature="6:91" ph="..." />
                 <marker date="1549897954266" expanded="true" signature="116:1292" ph="{...}" />
@@ -236,7 +171,7 @@
         <entry file="file://$PROJECT_DIR$/DAL/Core/Base/DefaultContext.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="128">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding>
                 <marker date="1549897376256" expanded="false" signature="6:62" ph="..." />
                 <marker date="1549897376256" expanded="true" signature="87:184" ph="{...}" />
@@ -331,8 +266,8 @@
         <option value="$PROJECT_DIR$/DAL/Aluno/Entities/Aluno.cs" />
         <option value="$PROJECT_DIR$/DAL/Aluno/Repository/DataContext.cs" />
         <option value="$PROJECT_DIR$/UTIL/Populate/Data/names" />
-        <option value="$PROJECT_DIR$/UTIL/Populate/Data/mailproviders" />
         <option value="$PROJECT_DIR$/UTIL/Populate/GenerateNames.cs" />
+        <option value="$PROJECT_DIR$/UTIL/Populate/Data/mailproviders" />
       </list>
     </option>
   </component>
@@ -459,12 +394,12 @@
       <workItem from="1549760858481" duration="169000" />
       <workItem from="1549761174474" duration="11133000" />
       <workItem from="1549844710495" duration="5450000" />
-      <workItem from="1549850467458" duration="8406000" />
+      <workItem from="1549850467458" duration="9280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32941000" />
+    <option name="totallyTimeSpent" value="33815000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -479,7 +414,7 @@
     <frame x="32" y="46" width="1302" height="703" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27027026" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27027026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -497,7 +432,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="TeamCity" order="12" />
-      <window_info anchor="bottom" id="Terminal" order="13" visible="true" weight="0.3298969" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.3298969" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50158983" side_tool="true" weight="0.3298969" />
       <window_info active="true" anchor="bottom" id="Build" order="15" sideWeight="0.49841017" visible="true" weight="0.3298969" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -909,7 +844,7 @@
     <entry file="file://$PROJECT_DIR$/DAL/Core/Base/DefaultContext.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding>
             <marker date="1549897376256" expanded="false" signature="6:62" ph="..." />
             <marker date="1549897376256" expanded="true" signature="87:184" ph="{...}" />
@@ -921,7 +856,7 @@
     <entry file="file://$PROJECT_DIR$/DAL/Core/basicServices/Services.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
           <folding>
             <marker date="1549897546803" expanded="true" signature="6:54" ph="..." />
             <marker date="1549897546803" expanded="true" signature="136:623" ph="{...}" />
@@ -937,7 +872,7 @@
     <entry file="file://$PROJECT_DIR$/DAL/Aluno/Entities/Aluno.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <marker date="1549897954266" expanded="false" signature="6:91" ph="..." />
             <marker date="1549897954266" expanded="true" signature="116:1292" ph="{...}" />
@@ -951,7 +886,7 @@
     <entry file="file://$PROJECT_DIR$/DAL/Aluno/Repository/DataContext.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding>
             <marker date="1549897961556" expanded="false" signature="6:57" ph="..." />
             <marker date="1549897961556" expanded="true" signature="87:357" ph="{...}" />
@@ -964,14 +899,14 @@
     <entry file="file://$PROJECT_DIR$/UTIL/Populate/Data/surnames">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
-          <caret line="206" column="6" lean-forward="true" selection-start-line="206" selection-start-column="6" selection-end-line="206" selection-end-column="6" />
+          <caret line="206" column="6" selection-start-line="206" selection-start-column="6" selection-end-line="206" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UTIL/Populate/Data/names">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
-          <caret line="403" column="5" lean-forward="true" selection-start-line="403" selection-start-column="5" selection-end-line="403" selection-end-column="5" />
+          <caret line="403" column="5" selection-start-line="403" selection-start-column="5" selection-end-line="403" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1005,8 +940,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UTIL/Populate/Data/mailproviders">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        <state relative-caret-position="285">
+          <caret line="101" column="9" lean-forward="true" selection-start-line="101" selection-start-column="9" selection-end-line="101" selection-end-column="9" />
         </state>
       </provider>
     </entry>
