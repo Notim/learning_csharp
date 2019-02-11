@@ -10,6 +10,8 @@ namespace DAL.Configuration {
 
             modelBuilder.ApplyConfiguration(new UsuarioModelBuilder());
             modelBuilder.ApplyConfiguration(new CoordenadorModelBuilder());
+            modelBuilder.ApplyConfiguration(new ProfessorModelBuilder());
+            modelBuilder.ApplyConfiguration(new AlunoModelBuilder());
 
         }
     }

@@ -1,21 +1,19 @@
 ﻿using System;
-using System.Extensions;
-using System.Linq;
-
-using entities.core;
-using entities.core.Entities;
 
 namespace program {
 
     class Program {
         static void Main(string[] args) {
-            using (var dbContext = new EntitiesCore()) {
+            Console.WriteLine("Hi!!");
+            
+            /*using (var dbContext = new EntitiesCore()) {
                 var listOfPersons = dbContext.Person.ToList();
 
                 Console.WriteLine("-------database names--------");
                 listOfPersons.ForEach(Person => Console.WriteLine(Person.name));
                 Console.WriteLine("-----------------------------");
             }
+            
             Console.Write("Write a name: ");
             var _name       = Console.ReadLine();
             
@@ -33,7 +31,7 @@ namespace program {
                 );
                 
                 db.SaveChanges();
-            }
+            }*/
         }
     }
 }
