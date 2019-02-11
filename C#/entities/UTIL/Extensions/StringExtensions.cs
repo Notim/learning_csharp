@@ -4,6 +4,10 @@ namespace System.Extensions {
         public static int ToInt(this string value) {
             return int.Parse(value);
         }
+        
+        public static double ToDouble(this string value) {
+            return double.Parse(value);
+        }
     }
 
 }

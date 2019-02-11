@@ -11,7 +11,11 @@
     ],
     "frameworks": {
       "netcoreapp2.2": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/home/joao/Github/learning_csharp/C#/entities/DAL/DAL.csproj": {
+            "projectPath": "/home/joao/Github/learning_csharp/C#/entities/DAL/DAL.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
