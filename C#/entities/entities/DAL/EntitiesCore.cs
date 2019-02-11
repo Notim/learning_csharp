@@ -1,8 +1,6 @@
-using entities.core.Entities;
-
 using Microsoft.EntityFrameworkCore;
 
-namespace entities.core {
+namespace DAL.Configuration {
 
     public partial class EntitiesCore : DbContext {
 
@@ -11,13 +9,6 @@ namespace entities.core {
 
                 optionsBuilder.UseSqlite("Data Source =DATABASE.db");
             }
-        }
-
-        protected override void OnModelCreating(ModelBuilder modelBuilder) {
-
-            modelBuilder.ApplyConfiguration(new ClassroomModelBuilder());
-            modelBuilder.ApplyConfiguration(new PersonModelBuilder());
-
         }
 
     }

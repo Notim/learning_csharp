@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Extensions;
 using System.Linq;
 
 using entities.core;
@@ -11,22 +12,22 @@ namespace program {
             using (var dbContext = new EntitiesCore()) {
                 var listOfPersons = dbContext.Person.ToList();
 
+                Console.WriteLine("-------database names--------");
                 listOfPersons.ForEach(Person => Console.WriteLine(Person.name));
+                Console.WriteLine("-----------------------------");
             }
-            Console.WriteLine("Write a name!");
-
+            Console.Write("Write a name: ");
+            var _name       = Console.ReadLine();
+            
+            Console.Write("write class ID: ");
+            var _classroom  = Console.ReadLine();
+            
             using (var db = new EntitiesCore()) {
-                db.Classrooms.Add(
-                   new Classroom {
-                        desc = "class room 2"
-                   }
-                );
-                db.SaveChanges();
                 
                 db.Person.Add(
                       new Person {
-                         name = "joao",
-                         idClassroom = 1,
+                         name = _name,
+                         idClassroom = _classroom.ToInt(),
                          birthday = DateTime.Now
                       }
                 );
