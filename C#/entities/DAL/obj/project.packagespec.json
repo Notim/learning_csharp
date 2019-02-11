@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/joao/Github/learning_csharp/C#/entities/entities/entities.csproj",
-    "projectName": "entities",
-    "projectPath": "/home/joao/Github/learning_csharp/C#/entities/entities/entities.csproj",
-    "outputPath": "/home/joao/Github/learning_csharp/C#/entities/entities/obj/",
+    "projectUniqueName": "/home/joao/Github/learning_csharp/C#/entities/DAL/DAL.csproj",
+    "projectName": "DAL",
+    "projectPath": "/home/joao/Github/learning_csharp/C#/entities/DAL/DAL.csproj",
+    "outputPath": "/home/joao/Github/learning_csharp/C#/entities/DAL/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp2.2"
@@ -23,6 +23,10 @@
   "frameworks": {
     "netcoreapp2.2": {
       "dependencies": {
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[3.0.0-preview.19074.3, )"
+        },
         "Microsoft.EntityFrameworkCore.Design": {
           "target": "Package",
           "version": "[3.0.0-preview.19074.3, )"

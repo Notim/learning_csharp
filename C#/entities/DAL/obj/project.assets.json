@@ -4243,6 +4243,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "Microsoft.EntityFrameworkCore >= 3.0.0-preview.19074.3",
       "Microsoft.EntityFrameworkCore.Design >= 3.0.0-preview.19074.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.0.0-preview.19074.3",
       "Microsoft.EntityFrameworkCore.SqlServer.Design >= 2.0.0-preview1-final",
@@ -4258,11 +4259,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/joao/Github/learning_csharp/C#/entities/entities/entities.csproj",
-      "projectName": "entities",
-      "projectPath": "/home/joao/Github/learning_csharp/C#/entities/entities/entities.csproj",
+      "projectUniqueName": "/home/joao/Github/learning_csharp/C#/entities/DAL/DAL.csproj",
+      "projectName": "DAL",
+      "projectPath": "/home/joao/Github/learning_csharp/C#/entities/DAL/DAL.csproj",
       "packagesPath": "/home/joao/.nuget/packages/",
-      "outputPath": "/home/joao/Github/learning_csharp/C#/entities/entities/obj/",
+      "outputPath": "/home/joao/Github/learning_csharp/C#/entities/DAL/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/joao/.config/NuGet/NuGet.Config"
@@ -4287,6 +4288,10 @@
     "frameworks": {
       "netcoreapp2.2": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[3.0.0-preview.19074.3, )"
+          },
           "Microsoft.EntityFrameworkCore.Design": {
             "target": "Package",
             "version": "[3.0.0-preview.19074.3, )"
@@ -4325,17 +4330,5 @@
         "warn": true
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Microsoft.Extensions.Primitives 2.0.0-preview1-final depends on System.Runtime.CompilerServices.Unsafe (>= 4.4.0-preview1-25219-04) but System.Runtime.CompilerServices.Unsafe 4.4.0-preview1-25219-04 was not found. An approximate best match of System.Runtime.CompilerServices.Unsafe 4.4.0-preview1-25305-02 was resolved.",
-      "libraryId": "System.Runtime.CompilerServices.Unsafe",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.2"
-      ]
-    }
-  ]
+  }
 }
