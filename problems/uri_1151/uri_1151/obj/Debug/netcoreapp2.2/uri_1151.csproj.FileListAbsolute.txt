@@ -1,0 +1,11 @@
+/home/joao/RiderProjects/uri_1151/uri_1151/bin/Debug/netcoreapp2.2/uri_1151.deps.json
+/home/joao/RiderProjects/uri_1151/uri_1151/bin/Debug/netcoreapp2.2/uri_1151.runtimeconfig.json
+/home/joao/RiderProjects/uri_1151/uri_1151/bin/Debug/netcoreapp2.2/uri_1151.runtimeconfig.dev.json
+/home/joao/RiderProjects/uri_1151/uri_1151/bin/Debug/netcoreapp2.2/uri_1151.dll
+/home/joao/RiderProjects/uri_1151/uri_1151/bin/Debug/netcoreapp2.2/uri_1151.pdb
+/home/joao/RiderProjects/uri_1151/uri_1151/obj/Debug/netcoreapp2.2/uri_1151.csprojAssemblyReference.cache
+/home/joao/RiderProjects/uri_1151/uri_1151/obj/Debug/netcoreapp2.2/uri_1151.csproj.CoreCompileInputs.cache
+/home/joao/RiderProjects/uri_1151/uri_1151/obj/Debug/netcoreapp2.2/uri_1151.AssemblyInfoInputs.cache
+/home/joao/RiderProjects/uri_1151/uri_1151/obj/Debug/netcoreapp2.2/uri_1151.AssemblyInfo.cs
+/home/joao/RiderProjects/uri_1151/uri_1151/obj/Debug/netcoreapp2.2/uri_1151.dll
+/home/joao/RiderProjects/uri_1151/uri_1151/obj/Debug/netcoreapp2.2/uri_1151.pdb

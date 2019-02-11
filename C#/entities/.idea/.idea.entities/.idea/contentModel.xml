@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_entities.-1558077966.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="entities" t="IncludeRecursive">
+        <e p="DATABASE.db" t="Include" />
+        <e p="Migrations" t="Include">
+          <e p="20190211002051_InitialCreate.Designer.cs" t="Include" />
+          <e p="20190211002051_InitialCreate.cs" t="Include" />
+          <e p="EntitiesCoreModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="core" t="Include">
+          <e p="Classroom" t="Include">
+            <e p="Entities" t="Include">
+              <e p="Classroom.cs" t="Include" />
+            </e>
+          </e>
+          <e p="EntitiesCore.cs" t="Include" />
+          <e p="Person" t="Include">
+            <e p="Entities" t="Include">
+              <e p="Person.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Repository.cs" t="Include" />
+        </e>
+        <e p="entities.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="entities.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="entities.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

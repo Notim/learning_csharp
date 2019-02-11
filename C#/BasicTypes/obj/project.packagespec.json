@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/joao/Github/learning_c-cpp-csharp/C#/BasicTypes/BasicTypes.csproj",
+    "projectUniqueName": "/home/joao/Github/learning_csharp/C#/BasicTypes/BasicTypes.csproj",
     "projectName": "BasicTypes",
-    "projectPath": "/home/joao/Github/learning_c-cpp-csharp/C#/BasicTypes/BasicTypes.csproj",
-    "outputPath": "/home/joao/Github/learning_c-cpp-csharp/C#/BasicTypes/obj/",
+    "projectPath": "/home/joao/Github/learning_csharp/C#/BasicTypes/BasicTypes.csproj",
+    "outputPath": "/home/joao/Github/learning_csharp/C#/BasicTypes/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp2.2"

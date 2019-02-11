@@ -24,122 +24,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df9b7ef4-6f4e-4403-b677-a05ee1f6aead" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Terminal-commands.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Terminal-commands.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/.idea/.idea.TiposBasicos/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/.idea/.idea.TiposBasicos/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/.idea/.idea.TiposBasicos/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/.idea/.idea.TiposBasicos/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/.idea/.idea.TiposBasicos/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/.idea/.idea.TiposBasicos/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/.idea/.idea.TiposBasicos/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/.idea/.idea.TiposBasicos/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BasicTypes/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BasicTypes/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BasicTypes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BasicTypes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/BasicTypes.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/BasicTypes.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/BasicTypes.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/BasicTypes.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/BasicTypes.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/BasicTypes.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/BasicTypes.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/BasicTypes.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/BasicTypes.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/BasicTypes.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TiposBasicos/.idea/.idea.TiposBasicos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/.idea/.idea.TiposBasicos/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/.idea/.idea.TiposBasicos/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/.idea/.idea.TiposBasicos/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/Start.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/Start.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/TiposBasicos.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/TiposBasicos.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TiposBasicos/Util/BuiltIn/BuiltInTypes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/Util/BuiltIn/BuiltInTypes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/Util/BuiltIn/PartialMethods/ShowBuiltInReferenceTypes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/Util/BuiltIn/PartialMethods/ShowBuiltInReferenceTypes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/Util/BuiltIn/PartialMethods/ShowBuiltInValuesTypes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/Util/BuiltIn/PartialMethods/ShowBuiltInValuesTypes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/Util/BuiltIn/PartialMethods/ShowMoreInfoTypes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/Util/BuiltIn/PartialMethods/ShowMoreInfoTypes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/Debug/netcoreapp2.2/TiposBasicos.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/Debug/netcoreapp2.2/TiposBasicos.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/Debug/netcoreapp2.2/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/Debug/netcoreapp2.2/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/Debug/netcoreapp2.2/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/Debug/netcoreapp2.2/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/Debug/netcoreapp2.2/TiposBasicos.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/Debug/netcoreapp2.2/TiposBasicos.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/Debug/netcoreapp2.2/TiposBasicos.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/Debug/netcoreapp2.2/TiposBasicos.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/Debug/netcoreapp2.2/linux-x64/TiposBasicos.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/Debug/netcoreapp2.2/linux-x64/TiposBasicos.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/Debug/netcoreapp2.2/linux-x64/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/Debug/netcoreapp2.2/linux-x64/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/Debug/netcoreapp2.2/linux-x64/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/Debug/netcoreapp2.2/linux-x64/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/Debug/netcoreapp2.2/linux-x64/TiposBasicos.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/Debug/netcoreapp2.2/linux-x64/TiposBasicos.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/Debug/netcoreapp2.2/linux-x64/TiposBasicos.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/Debug/netcoreapp2.2/linux-x64/TiposBasicos.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/osx-x64/TiposBasicos.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/osx-x64/TiposBasicos.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/osx-x64/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/osx-x64/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/osx-x64/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/osx-x64/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/osx-x64/TiposBasicos.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/osx-x64/TiposBasicos.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/osx-x64/TiposBasicos.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/osx-x64/TiposBasicos.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/rhel-x64/TiposBasicos.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/rhel-x64/TiposBasicos.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/rhel-x64/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/rhel-x64/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/rhel-x64/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/rhel-x64/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/rhel-x64/TiposBasicos.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/rhel-x64/TiposBasicos.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/rhel-x64/TiposBasicos.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/rhel-x64/TiposBasicos.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/ubuntu.18.04-x6/TiposBasicos.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/ubuntu.18.04-x6/TiposBasicos.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/ubuntu.18.04-x6/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/ubuntu.18.04-x6/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/ubuntu.18.04-x6/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/ubuntu.18.04-x6/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/ubuntu.18.04-x6/TiposBasicos.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/ubuntu.18.04-x6/TiposBasicos.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/ubuntu.18.04-x6/TiposBasicos.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/ubuntu.18.04-x6/TiposBasicos.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/win-x64/TiposBasicos.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/win-x64/TiposBasicos.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/win-x64/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/win-x64/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/win-x64/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/win-x64/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/win-x64/TiposBasicos.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/win-x64/TiposBasicos.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/win-x64/TiposBasicos.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/win-x64/TiposBasicos.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/win-x86/TiposBasicos.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/win-x86/TiposBasicos.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/win-x86/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/win-x86/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/win-x86/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/win-x86/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/win-x86/TiposBasicos.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/win-x86/TiposBasicos.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/win-x86/TiposBasicos.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/bin/release/netcoreapp2.2/win-x86/TiposBasicos.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/Linux/TiposBasicos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/Linux/TiposBasicos.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/TiposBasicos.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/TiposBasicos.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/TiposBasicos.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/TiposBasicos.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/TiposBasicos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/TiposBasicos.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/TiposBasicos.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/TiposBasicos.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/TiposBasicos.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/TiposBasicos.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/TiposBasicos.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/TiposBasicos.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/Debug/netcoreapp2.2/linux-x64/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/TiposBasicos.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/TiposBasicos.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/TiposBasicos.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/TiposBasicos.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/TiposBasicos.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/TiposBasicos.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/osx-x64/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/rhel-x64/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/ubuntu.18.04-x64/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x64/TiposBasicos.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x64/TiposBasicos.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x64/TiposBasicos.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x64/TiposBasicos.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x64/TiposBasicos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x64/TiposBasicos.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x64/TiposBasicos.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x64/TiposBasicos.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x64/TiposBasicos.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x64/TiposBasicos.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x64/TiposBasicos.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x64/TiposBasicos.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x64/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x64/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x64/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x64/TiposBasicos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x86/TiposBasicos.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x86/TiposBasicos.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x86/TiposBasicos.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x86/TiposBasicos.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x86/TiposBasicos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x86/TiposBasicos.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x86/TiposBasicos.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x86/TiposBasicos.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x86/TiposBasicos.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x86/TiposBasicos.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x86/TiposBasicos.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x86/TiposBasicos.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x86/TiposBasicos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x86/TiposBasicos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x86/TiposBasicos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TiposBasicos/obj/release/netcoreapp2.2/win-x86/TiposBasicos.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -166,11 +62,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UTIL/BuiltIn.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="54">
               <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
               <folding>
-                <marker date="1545536776360" expanded="true" signature="25:66" ph="{...}" />
-                <marker date="1545536776360" expanded="true" signature="52:64" ph="{...}" />
+                <marker date="1546101598531" expanded="true" signature="25:66" ph="{...}" />
+                <marker date="1546101598531" expanded="true" signature="52:64" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -179,12 +75,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="144">
+              <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
               <folding>
-                <marker date="1545401038567" expanded="true" signature="35:176" ph="{...}" />
-                <marker date="1545401038567" expanded="true" signature="55:174" ph="{...}" />
-                <marker date="1545401038567" expanded="true" signature="101:168" ph="{...}" />
+                <marker date="1546873303433" expanded="true" signature="35:176" ph="{...}" />
+                <marker date="1546873303433" expanded="true" signature="55:174" ph="{...}" />
+                <marker date="1546873303433" expanded="true" signature="101:168" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -196,14 +92,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/UTIL/BuiltIn.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UTIL/BuiltIn.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/BasicTypes.csproj" />
         <option value="$PROJECT_DIR$/UTIL/BuiltIn.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
       </list>
     </option>
   </component>
@@ -219,6 +116,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="BasicTypes" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -237,17 +145,6 @@
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
-              <item name="BasicTypes" type="34e6ba20:FileSystemExplorerNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -309,11 +206,12 @@
       <workItem from="1545536222918" duration="40000" />
       <workItem from="1545536328904" duration="142000" />
       <workItem from="1545536653050" duration="234000" />
+      <workItem from="1546873242214" duration="839000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1165000" />
+    <option name="totallyTimeSpent" value="2004000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -325,10 +223,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="26" width="1368" height="743" extended-state="6" />
+    <frame x="32" y="46" width="1302" height="703" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27954546" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2527822" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -346,7 +244,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="TeamCity" order="12" />
-      <window_info anchor="bottom" id="Terminal" order="13" visible="true" weight="0.32954547" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.3281787" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" weight="0.32954547" />
       <window_info anchor="bottom" id="Build" order="15" visible="true" weight="0.32954547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -382,23 +280,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UTIL/BuiltIn.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="54">
           <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           <folding>
-            <marker date="1545536776360" expanded="true" signature="25:66" ph="{...}" />
-            <marker date="1545536776360" expanded="true" signature="52:64" ph="{...}" />
+            <marker date="1546101598531" expanded="true" signature="25:66" ph="{...}" />
+            <marker date="1546101598531" expanded="true" signature="52:64" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="144">
+          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
           <folding>
-            <marker date="1545401038567" expanded="true" signature="35:176" ph="{...}" />
-            <marker date="1545401038567" expanded="true" signature="55:174" ph="{...}" />
-            <marker date="1545401038567" expanded="true" signature="101:168" ph="{...}" />
+            <marker date="1546873303433" expanded="true" signature="35:176" ph="{...}" />
+            <marker date="1546873303433" expanded="true" signature="55:174" ph="{...}" />
+            <marker date="1546873303433" expanded="true" signature="101:168" ph="{...}" />
           </folding>
         </state>
       </provider>

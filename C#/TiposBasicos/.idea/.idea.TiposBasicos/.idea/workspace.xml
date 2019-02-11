@@ -24,17 +24,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebf935aa-e4fc-4d00-be8e-5f0901db09f3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TiposBasicos/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TiposBasicos/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicTypes/.idea/.idea.BasicTypes/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicTypes/.idea/.idea.BasicTypes/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicTypes/.idea/.idea.BasicTypes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicTypes/.idea/.idea.BasicTypes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicTypes/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicTypes/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicTypes/obj/BasicTypes.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicTypes/obj/BasicTypes.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicTypes/obj/BasicTypes.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicTypes/obj/BasicTypes.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicTypes/obj/Debug/netcoreapp2.2/BasicTypes.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicTypes/obj/Debug/netcoreapp2.2/BasicTypes.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicTypes/obj/Debug/netcoreapp2.2/BasicTypes.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicTypes/obj/Debug/netcoreapp2.2/BasicTypes.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicTypes/obj/Debug/netcoreapp2.2/BasicTypes.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicTypes/obj/Debug/netcoreapp2.2/BasicTypes.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicTypes/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicTypes/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicTypes/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicTypes/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TiposBasicos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TiposBasicos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Start.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Start.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Util/BuiltIn/BuiltInTypes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Util/BuiltIn/BuiltInTypes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/TiposBasicos.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/TiposBasicos.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TiposBasicos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TiposBasicos.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TiposBasicos.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TiposBasicos.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TiposBasicos.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/TiposBasicos.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/TiposBasicos.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/TiposBasicos.csproj.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/TiposBasicos.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/TiposBasicos.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,11 +49,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-478">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="90">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
               <folding>
                 <marker date="1546101598538" expanded="false" signature="6:82" ph="..." />
                 <marker date="1546101598538" expanded="true" signature="107:1656" ph="{...}" />
@@ -71,12 +76,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Start.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="38" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="38" />
+            <state relative-caret-position="162">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
               <folding>
-                <marker date="1546101598538" expanded="true" signature="57:250" ph="{...}" />
-                <marker date="1546101598538" expanded="true" signature="82:248" ph="{...}" />
-                <marker date="1546101598538" expanded="true" signature="128:242" ph="{...}" />
+                <marker date="1548341591133" expanded="true" signature="58:238" ph="{...}" />
+                <marker date="1548341591133" expanded="true" signature="83:236" ph="{...}" />
+                <marker date="1548341591133" expanded="true" signature="125:230" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -114,8 +119,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowBuiltInReferenceTypes.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="522">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <marker date="1546101598538" expanded="false" signature="6:66" ph="..." />
                 <marker date="1546101598538" expanded="true" signature="86:3065" ph="{...}" />
@@ -127,14 +132,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Util/BuiltIn/BuiltInTypes.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+            <state relative-caret-position="18">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
               <folding>
-                <marker date="1546532023050" expanded="true" signature="33:346" ph="{...}" />
-                <marker date="1546532023050" expanded="true" signature="81:343" ph="{...}" />
+                <marker date="1546873207776" expanded="true" signature="33:346" ph="{...}" />
+                <marker date="1546873207776" expanded="true" signature="81:343" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -181,8 +186,8 @@
         <option value="$PROJECT_DIR$/Program.cs" />
         <option value="$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowMoreInfoTypes.cs" />
         <option value="$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowBuiltInReferenceTypes.cs" />
-        <option value="$PROJECT_DIR$/Start.cs" />
         <option value="$PROJECT_DIR$/Util/BuiltIn/BuiltInTypes.cs" />
+        <option value="$PROJECT_DIR$/Start.cs" />
       </list>
     </option>
   </component>
@@ -201,6 +206,33 @@
     </navigator>
     <panes>
       <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TiposBasicos" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TiposBasicos" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Util" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TiposBasicos" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Util" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="BuiltIn" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TiposBasicos" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Util" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="BuiltIn" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PartialMethods" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="AssemblyExplorer" />
@@ -211,6 +243,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BasicTypes/BasicTypes.csproj" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunDashboard">
@@ -259,11 +292,13 @@
       <workItem from="1545536875786" duration="1056000" />
       <workItem from="1546346438189" duration="358000" />
       <workItem from="1546531788540" duration="1242000" />
+      <workItem from="1546873172393" duration="662000" />
+      <workItem from="1548341314442" duration="1490000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19816000" />
+    <option name="totallyTimeSpent" value="21968000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -276,9 +311,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="32" y="46" width="1302" height="703" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14864865" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15341812" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -324,39 +358,16 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/output.out" />
-    <entry file="file://$PROJECT_DIR$/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-478">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <marker date="1546101598538" expanded="false" signature="6:82" ph="..." />
-            <marker date="1546101598538" expanded="true" signature="107:1656" ph="{...}" />
-            <marker date="1546101598538" expanded="true" signature="142:1653" ph="{...}" />
-            <marker date="1546101598538" expanded="true" signature="208:1647" ph="{...}" />
-            <marker date="1546101598538" expanded="true" signature="241:381" ph="{...}" />
-            <marker date="1546101598538" expanded="true" signature="505:633" ph="{...}" />
-            <marker date="1546101598538" expanded="true" signature="720:793" ph="{...}" />
-            <marker date="1546101598538" expanded="true" signature="877:947" ph="{...}" />
-            <marker date="1546101598538" expanded="true" signature="1029:1414" ph="{...}" />
-            <marker date="1546101598538" expanded="true" signature="1051:1189" ph="{...}" />
-            <marker date="1546101598538" expanded="true" signature="1226:1400" ph="{...}" />
-            <marker date="1546101598538" expanded="true" signature="1468:1527" ph="{...}" />
-            <marker date="1546101598538" expanded="true" signature="1578:1637" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TiposBasicos.csproj">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Start.cs">
+    <entry file="file://$PROJECT_DIR$/Util/BuiltIn/BuiltInTypes.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="38" />
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
           <folding>
-            <marker date="1546101598538" expanded="true" signature="57:250" ph="{...}" />
-            <marker date="1546101598538" expanded="true" signature="82:248" ph="{...}" />
-            <marker date="1546101598538" expanded="true" signature="128:242" ph="{...}" />
+            <marker date="1546873207776" expanded="true" signature="33:346" ph="{...}" />
+            <marker date="1546873207776" expanded="true" signature="81:343" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -388,8 +399,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Util/BuiltIn/PartialMethods/ShowBuiltInReferenceTypes.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="522">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
           <folding>
             <marker date="1546101598538" expanded="false" signature="6:66" ph="..." />
             <marker date="1546101598538" expanded="true" signature="86:3065" ph="{...}" />
@@ -400,13 +411,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Util/BuiltIn/BuiltInTypes.cs">
+    <entry file="file://$PROJECT_DIR$/Start.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        <state relative-caret-position="162">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding>
-            <marker date="1546532023050" expanded="true" signature="33:346" ph="{...}" />
-            <marker date="1546532023050" expanded="true" signature="81:343" ph="{...}" />
+            <marker date="1548341591133" expanded="true" signature="58:238" ph="{...}" />
+            <marker date="1548341591133" expanded="true" signature="83:236" ph="{...}" />
+            <marker date="1548341591133" expanded="true" signature="125:230" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <marker date="1546101598538" expanded="false" signature="6:82" ph="..." />
+            <marker date="1546101598538" expanded="true" signature="107:1656" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="142:1653" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="208:1647" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="241:381" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="505:633" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="720:793" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="877:947" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="1029:1414" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="1051:1189" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="1226:1400" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="1468:1527" ph="{...}" />
+            <marker date="1546101598538" expanded="true" signature="1578:1637" ph="{...}" />
           </folding>
         </state>
       </provider>

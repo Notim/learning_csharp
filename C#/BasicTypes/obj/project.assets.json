@@ -693,14 +693,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/joao/Github/learning_c-cpp-csharp/C#/BasicTypes/BasicTypes.csproj",
+      "projectUniqueName": "/home/joao/Github/learning_csharp/C#/BasicTypes/BasicTypes.csproj",
       "projectName": "BasicTypes",
-      "projectPath": "/home/joao/Github/learning_c-cpp-csharp/C#/BasicTypes/BasicTypes.csproj",
+      "projectPath": "/home/joao/Github/learning_csharp/C#/BasicTypes/BasicTypes.csproj",
       "packagesPath": "/home/joao/.nuget/packages/",
-      "outputPath": "/home/joao/Github/learning_c-cpp-csharp/C#/BasicTypes/obj/",
+      "outputPath": "/home/joao/Github/learning_csharp/C#/BasicTypes/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/joao/.config/NuGet/NuGet.Config"
+        "/home/joao/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
