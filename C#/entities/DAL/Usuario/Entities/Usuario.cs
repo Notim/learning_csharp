@@ -22,8 +22,8 @@ namespace DAL.Entities {
             builder.Property(c => c.id)
                    .ValueGeneratedOnAdd();
 
-            builder.HasIndex(model => model.login)
-                   .IsUnique();
+            /*builder.HasIndex(model => model.login)
+                   .IsUnique();*/
         }
     }
 

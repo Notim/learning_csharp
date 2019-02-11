@@ -8,6 +8,12 @@ namespace System.Extensions {
         public static double ToDouble(this string value) {
             return double.Parse(value);
         }
+        
+        public static bool IsEmpty(this string value) {
+           
+            return string.IsNullOrEmpty(value);
+        }
+        
     }
 
 }

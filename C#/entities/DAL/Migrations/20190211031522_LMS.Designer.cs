@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DAL.Migrations
 {
     [DbContext(typeof(EntitiesCore))]
-    [Migration("20190211020314_LMS")]
+    [Migration("20190211031522_LMS")]
     partial class LMS
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -114,9 +114,6 @@ namespace DAL.Migrations
                     b.Property<string>("senha");
 
                     b.HasKey("id");
-
-                    b.HasIndex("login")
-                        .IsUnique();
 
                     b.ToTable("tb_usuario");
                 });

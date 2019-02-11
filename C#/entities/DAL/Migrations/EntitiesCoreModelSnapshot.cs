@@ -113,9 +113,6 @@ namespace DAL.Migrations
 
                     b.HasKey("id");
 
-                    b.HasIndex("login")
-                        .IsUnique();
-
                     b.ToTable("tb_usuario");
                 });
 

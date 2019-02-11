@@ -1,18 +1,31 @@
 ﻿using System;
 using System.Linq;
-using System.Xml.Linq;
 
 using DAL.Configuration;
-using DAL.Entities;
 
 namespace program {
 
     class Program {
         static void Main(string[] args) {
+            /*using (var db = new EntitiesCore()) {
+
+                for (int i = 0; i < 50; i++) {
+                 
+                    db.Usuario.Add(
+                       new Usuario {
+                           login = Populate.GenerateMail(),
+                           senha = "123465456"
+                       }
+                    );
+                }
+
+                db.SaveChanges();
+            }*/
+
             Console.WriteLine("Hi!!");
             Console.WriteLine("Write you user!");
-
             var _login    = Console.ReadLine();
+            Console.WriteLine("Now your password!");
             var _password = Console.ReadLine();
 
             using (var db = new EntitiesCore()) {
@@ -23,13 +36,15 @@ namespace program {
 
                     if (user.senha != _password) {
                         Console.WriteLine("incorrect password");
+                    } else {
+                        Console.WriteLine("welcome!!" + user.login);
                     }
 
                 } else {
                     Console.WriteLine("we can't find this user");
                 }
             }
-            
+
             /*
             Console.WriteLine("-------database names--------");
                 listOfPersons.ForEach(Person => Console.WriteLine(Person.name));

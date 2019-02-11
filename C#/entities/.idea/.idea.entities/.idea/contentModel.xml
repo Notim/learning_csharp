@@ -16,11 +16,10 @@
           </e>
         </e>
         <e p="DAL.csproj" t="IncludeRecursive" />
-        <e p="DATABASE.db" t="Include" />
         <e p="EntitiesCore.cs" t="Include" />
         <e p="Migrations" t="Include">
-          <e p="20190211020314_LMS.Designer.cs" t="Include" />
-          <e p="20190211020314_LMS.cs" t="Include" />
+          <e p="20190211031522_LMS.Designer.cs" t="Include" />
+          <e p="20190211031522_LMS.cs" t="Include" />
           <e p="EntitiesCoreModelSnapshot.cs" t="Include" />
         </e>
         <e p="ModelCreating.cs" t="Include" />
@@ -48,6 +47,14 @@
         <e p="Extensions" t="Include">
           <e p="IntExtensions.cs" t="Include" />
           <e p="StringExtensions.cs" t="Include" />
+        </e>
+        <e p="Populate" t="Include">
+          <e p="Data" t="Include">
+            <e p="mailproviders" t="Include" />
+            <e p="names" t="Include" />
+            <e p="surnames" t="Include" />
+          </e>
+          <e p="GenerateNames.cs" t="Include" />
         </e>
         <e p="UTIL.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />

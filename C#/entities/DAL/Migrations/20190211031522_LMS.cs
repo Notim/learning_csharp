@@ -141,12 +141,6 @@ namespace DAL.Migrations
                 name: "IX_tb_professor_idUsuario",
                 table: "tb_professor",
                 column: "idUsuario");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_tb_usuario_login",
-                table: "tb_usuario",
-                column: "login",
-                unique: true);
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)

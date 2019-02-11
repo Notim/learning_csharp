@@ -14,6 +14,9 @@
         "projectReferences": {
           "/home/joao/Github/learning_csharp/C#/entities/DAL/DAL.csproj": {
             "projectPath": "/home/joao/Github/learning_csharp/C#/entities/DAL/DAL.csproj"
+          },
+          "/home/joao/Github/learning_csharp/C#/entities/UTIL/UTIL.csproj": {
+            "projectPath": "/home/joao/Github/learning_csharp/C#/entities/UTIL/UTIL.csproj"
           }
         }
       }

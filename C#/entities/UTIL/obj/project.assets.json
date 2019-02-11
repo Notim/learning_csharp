@@ -700,7 +700,7 @@
       "outputPath": "/home/joao/Github/learning_csharp/C#/entities/UTIL/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/joao/.config/NuGet/NuGet.Config"
+        "/home/joao/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
