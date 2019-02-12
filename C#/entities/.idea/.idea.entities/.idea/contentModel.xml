@@ -34,10 +34,14 @@
           </e>
         </e>
         <e p="DAL.csproj" t="IncludeRecursive" />
-        <e p="DATABASE.db" t="Include" />
+        <e p="Disciplina" t="Include">
+          <e p="Entities" t="Include">
+            <e p="Disciplina.cs" t="Include" />
+          </e>
+        </e>
         <e p="Migrations" t="Include">
-          <e p="20190211145638_LMS.Designer.cs" t="Include" />
-          <e p="20190211145638_LMS.cs" t="Include" />
+          <e p="20190212145238_LMS.Designer.cs" t="Include" />
+          <e p="20190212145238_LMS.cs" t="Include" />
           <e p="DataContextModelSnapshot.cs" t="Include" />
         </e>
         <e p="Professor" t="Include">
@@ -79,6 +83,10 @@
           <e p="GenerateNames.cs" t="Include" />
         </e>
         <e p="UTIL.csproj" t="IncludeRecursive" />
+        <e p="Wrappers" t="Include">
+          <e p="GenericReturn.cs" t="Include" />
+          <e p="GenericReturnExtensions.cs" t="Include" />
+        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">

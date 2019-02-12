@@ -1,30 +1,42 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 using DAL.Configuration;
+using DAL.Entities;
+
+using UTIL.methods;
 
 namespace program {
 
     class Program {
-        static void Main(string[] args) {
-            /*using (var db = new EntitiesCore()) {
+        public List<Usuario> listUsers { get; set; }
 
-                for (int i = 0; i < 50; i++) {
-                 
-                    db.Usuario.Add(
-                       new Usuario {
-                           login = Populate.GenerateMail(),
-                           senha = "123465456"
-                       }
-                    );
-                }
+        static void Main(string[] args) {
+            var Program = new Program();
+            
+            Program.login();
+        }
+        
+        void login(){
+            
+            /*using (var db = new DataContext()){
+
+                db.Usuario.Add(
+                    new Usuario {
+                        login = "joao",
+                        senha = "12345",
+                        dtCadastro = DateTime.Now,
+                        ativo = "S",
+                    }
+                );
 
                 db.SaveChanges();
             }*/
 
-            Console.WriteLine("Hi!!");
             Console.WriteLine("Write you user!");
-            var _login    = Console.ReadLine();
+            var _login = Console.ReadLine();
+
             Console.WriteLine("Now your password!");
             var _password = Console.ReadLine();
 
@@ -38,36 +50,41 @@ namespace program {
                         Console.WriteLine("incorrect password");
                     } else {
                         Console.WriteLine("welcome!!" + user.login);
+
+                        listUsers = db.Usuario.ToList();
+                        prg();
                     }
 
                 } else {
                     Console.WriteLine("we can't find this user");
+
                 }
             }
-
-            /*
+        }
+        public void prg(){
+            
             Console.WriteLine("-------database names--------");
-                listOfPersons.ForEach(Person => Console.WriteLine(Person.name));
-                Console.WriteLine("-----------------------------");
-            }
+            listUsers.ForEach(
+                Person => Console.WriteLine(Person.login)
+            );
+            Console.WriteLine("-----------------------------");
+            
+            Console.Write("Write a mail: ");
+            var _mail = Console.ReadLine();
 
-            Console.Write("Write a name: ");
-            var _name = Console.ReadLine();
+            Console.Write("Write a password: ");
+            var _pass = Console.ReadLine();
 
-            Console.Write("write class ID: ");
-            var _classroom = Console.ReadLine();
-
-            using (var db = new EntitiesCore()) {
-
-                db.Person.Add(new Person {
-                                             name        = _name,
-                                             idClassroom = _classroom.ToInt(),
-                                             birthday    = DateTime.Now
-                                         }
-                             );
-
+            using (var db = new DataContext()) {
+                db.Usuario.Add(
+                    new Usuario{
+                        login        = _mail,
+                        senha        = _pass,
+                        dtCadastro   = DateTime.Now,
+                    }
+                );
                 db.SaveChanges();
-            }*/
+            }
         }
     }
 

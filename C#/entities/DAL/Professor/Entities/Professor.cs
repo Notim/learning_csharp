@@ -9,7 +9,7 @@ namespace DAL.Entities {
         public string nome      { get; set; }
         public string email     { get; set; }
         public string celular   { get; set; }
-        public string apelido { get; set; }
+        public string apelido   { get; set; }
 
         public virtual Usuario Usuario { get; set; }
     }

@@ -3,25 +3,29 @@ using System;
 using DAL.Configuration;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace DAL.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20190211145638_LMS")]
+    [Migration("20190212145238_LMS")]
     partial class LMS
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "3.0.0-preview.19074.3");
+                .HasAnnotation("ProductVersion", "3.0.0-preview.19074.3")
+                .HasAnnotation("Relational:MaxIdentifierLength", 128)
+                .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
             modelBuilder.Entity("DAL.Entities.Aluno", b =>
                 {
                     b.Property<int>("id")
-                        .ValueGeneratedOnAdd();
+                        .ValueGeneratedOnAdd()
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<string>("ativo");
 
@@ -52,10 +56,12 @@ namespace DAL.Migrations
                     b.HasKey("id");
 
                     b.HasIndex("celular")
-                        .IsUnique();
+                        .IsUnique()
+                        .HasFilter("[celular] IS NOT NULL");
 
                     b.HasIndex("email")
-                        .IsUnique();
+                        .IsUnique()
+                        .HasFilter("[email] IS NOT NULL");
 
                     b.HasIndex("idUsuario");
 
@@ -65,7 +71,8 @@ namespace DAL.Migrations
             modelBuilder.Entity("DAL.Entities.Coordenador", b =>
                 {
                     b.Property<int>("id")
-                        .ValueGeneratedOnAdd();
+                        .ValueGeneratedOnAdd()
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<string>("ativo");
 
@@ -92,10 +99,12 @@ namespace DAL.Migrations
                     b.HasKey("id");
 
                     b.HasIndex("celular")
-                        .IsUnique();
+                        .IsUnique()
+                        .HasFilter("[celular] IS NOT NULL");
 
                     b.HasIndex("email")
-                        .IsUnique();
+                        .IsUnique()
+                        .HasFilter("[email] IS NOT NULL");
 
                     b.HasIndex("idUsuario");
 
@@ -105,7 +114,8 @@ namespace DAL.Migrations
             modelBuilder.Entity("DAL.Entities.Professor", b =>
                 {
                     b.Property<int>("id")
-                        .ValueGeneratedOnAdd();
+                        .ValueGeneratedOnAdd()
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<string>("apelido");
 
@@ -134,10 +144,12 @@ namespace DAL.Migrations
                     b.HasKey("id");
 
                     b.HasIndex("celular")
-                        .IsUnique();
+                        .IsUnique()
+                        .HasFilter("[celular] IS NOT NULL");
 
                     b.HasIndex("email")
-                        .IsUnique();
+                        .IsUnique()
+                        .HasFilter("[email] IS NOT NULL");
 
                     b.HasIndex("idUsuario");
 
@@ -147,7 +159,8 @@ namespace DAL.Migrations
             modelBuilder.Entity("DAL.Entities.Usuario", b =>
                 {
                     b.Property<int>("id")
-                        .ValueGeneratedOnAdd();
+                        .ValueGeneratedOnAdd()
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<string>("ativo");
 

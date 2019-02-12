@@ -1,4 +1,5 @@
 ﻿using System;
+using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace DAL.Migrations
@@ -12,7 +13,7 @@ namespace DAL.Migrations
                 columns: table => new
                 {
                     id = table.Column<int>(nullable: false)
-                        .Annotation("Sqlite:Autoincrement", true),
+                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
                     dtCadastro = table.Column<DateTime>(nullable: false),
                     dtAlteracao = table.Column<DateTime>(nullable: true),
                     dtExclusao = table.Column<DateTime>(nullable: true),
@@ -34,7 +35,7 @@ namespace DAL.Migrations
                 columns: table => new
                 {
                     id = table.Column<int>(nullable: false)
-                        .Annotation("Sqlite:Autoincrement", true),
+                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
                     dtCadastro = table.Column<DateTime>(nullable: false),
                     dtAlteracao = table.Column<DateTime>(nullable: true),
                     dtExclusao = table.Column<DateTime>(nullable: true),
@@ -65,7 +66,7 @@ namespace DAL.Migrations
                 columns: table => new
                 {
                     id = table.Column<int>(nullable: false)
-                        .Annotation("Sqlite:Autoincrement", true),
+                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
                     dtCadastro = table.Column<DateTime>(nullable: false),
                     dtAlteracao = table.Column<DateTime>(nullable: true),
                     dtExclusao = table.Column<DateTime>(nullable: true),
@@ -94,7 +95,7 @@ namespace DAL.Migrations
                 columns: table => new
                 {
                     id = table.Column<int>(nullable: false)
-                        .Annotation("Sqlite:Autoincrement", true),
+                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
                     dtCadastro = table.Column<DateTime>(nullable: false),
                     dtAlteracao = table.Column<DateTime>(nullable: true),
                     dtExclusao = table.Column<DateTime>(nullable: true),
@@ -123,13 +124,15 @@ namespace DAL.Migrations
                 name: "IX_tb_aluno_celular",
                 table: "tb_aluno",
                 column: "celular",
-                unique: true);
+                unique: true,
+                filter: "[celular] IS NOT NULL");
 
             migrationBuilder.CreateIndex(
                 name: "IX_tb_aluno_email",
                 table: "tb_aluno",
                 column: "email",
-                unique: true);
+                unique: true,
+                filter: "[email] IS NOT NULL");
 
             migrationBuilder.CreateIndex(
                 name: "IX_tb_aluno_idUsuario",
@@ -140,13 +143,15 @@ namespace DAL.Migrations
                 name: "IX_tb_coordenador_celular",
                 table: "tb_coordenador",
                 column: "celular",
-                unique: true);
+                unique: true,
+                filter: "[celular] IS NOT NULL");
 
             migrationBuilder.CreateIndex(
                 name: "IX_tb_coordenador_email",
                 table: "tb_coordenador",
                 column: "email",
-                unique: true);
+                unique: true,
+                filter: "[email] IS NOT NULL");
 
             migrationBuilder.CreateIndex(
                 name: "IX_tb_coordenador_idUsuario",
@@ -157,13 +162,15 @@ namespace DAL.Migrations
                 name: "IX_tb_professor_celular",
                 table: "tb_professor",
                 column: "celular",
-                unique: true);
+                unique: true,
+                filter: "[celular] IS NOT NULL");
 
             migrationBuilder.CreateIndex(
                 name: "IX_tb_professor_email",
                 table: "tb_professor",
                 column: "email",
-                unique: true);
+                unique: true,
+                filter: "[email] IS NOT NULL");
 
             migrationBuilder.CreateIndex(
                 name: "IX_tb_professor_idUsuario",

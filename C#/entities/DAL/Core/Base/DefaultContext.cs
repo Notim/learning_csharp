@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 namespace DAL.Entities {
 
     public class DefaultContext {
-        private DataContext db = new DataContext();
+        private DataContext db = new DataContext("");
     }
 
 }
