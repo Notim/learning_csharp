@@ -26,6 +26,7 @@
             <e p="DefaultContext.cs" t="Include" />
             <e p="DefaultEntity.cs" t="Include" />
           </e>
+          <e p="Connections.cs" t="Include" />
           <e p="EntitiesCore.cs" t="Include" />
           <e p="ModelCreating.cs" t="Include" />
           <e p="Repository.cs" t="Include" />

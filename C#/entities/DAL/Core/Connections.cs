@@ -13,16 +13,17 @@ namespace DAL.Configuration {
             
             listConnections.Add(
                 new Connection {
-                    name   = "StdSqlite",
+                    name          =  "StdSqlite",
                     strConnection = @"Data Source =DATABASE.db",
-                    provider = "SqlLite"
+                    provider      =  "SqlLite"
                 }
             );
+            
             listConnections.Add(
                 new Connection {
-                   name   = "StdSqlServer",
+                   name          = "StdSqlServer",
                    strConnection = @"Server=127.0.0.1,8051; Database=Master;User Id=SA;Password=TopZera123456",
-                   provider = "SqlServer"
+                   provider      = "SqlServer"
                 }
             );
         }

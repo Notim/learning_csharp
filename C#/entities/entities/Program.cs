@@ -5,15 +5,35 @@ using System.Linq;
 using DAL.Configuration;
 using DAL.Entities;
 
-using UTIL.methods;
-
 namespace program {
+    
+    public static class ListExtensions {
+        public static List<TSource> ToList2<TSource, TResult>(this List<TSource> list, Func<TSource, TResult> selector) {
+            list.ToList()
+                .Select(selector);
+            
+            return new List<TSource>();
+            
+        }
+    }
 
     class Program {
+        
         public List<Usuario> listUsers { get; set; }
-
+        
         static void Main(string[] args) {
             var Program = new Program();
+            List<Usuario> listUsuario = new List<Usuario>();
+            
+            listUsuario.ToList2(User => User.login);
+
+            listUsuario.Where(User => User.dtExpiracao > DateTime.Now);
+    
+            /*
+             * delegate (Usuario user) {
+             *     return user.dtExpiracao > Date.now();
+             * }
+             */
             
             Program.login();
         }
@@ -40,11 +60,11 @@ namespace program {
             Console.WriteLine("Now your password!");
             var _password = Console.ReadLine();
 
-            using (var db = new DataContext()) {
+            using (var db = new DataContext("StdSqlServer")) {
                 var users = db.Usuario.ToList();
-
+                
                 if (users.Any(u => u.login == _login)) {
-                    var user = db.Usuario.FirstOrDefault(u => u.login == _login);
+                    var user = db.Usuario.FirstOrDefault(u => u.login == _login) ?? new Usuario();
 
                     if (user.senha != _password) {
                         Console.WriteLine("incorrect password");
@@ -57,12 +77,14 @@ namespace program {
 
                 } else {
                     Console.WriteLine("we can't find this user");
-
                 }
             }
         }
-        public void prg(){
-            
+        public void prg() {
+            string teste = "";
+
+            var splited = teste.Split(" ").ToList(); 
+                
             Console.WriteLine("-------database names--------");
             listUsers.ForEach(
                 Person => Console.WriteLine(Person.login)
@@ -75,7 +97,7 @@ namespace program {
             Console.Write("Write a password: ");
             var _pass = Console.ReadLine();
 
-            using (var db = new DataContext()) {
+            using (var db = new DataContext("SqlServer")) {
                 db.Usuario.Add(
                     new Usuario{
                         login        = _mail,

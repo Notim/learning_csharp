@@ -26,7 +26,10 @@ namespace DAL.Entities {
 
             builder.Property(c => c.id)
                    .ValueGeneratedOnAdd();
-
+            
+            // () => 1
+            // function () { return 0 }
+            
             builder.HasOne(c => c.Usuario)
                    .WithMany()
                    .HasForeignKey(c => c.idUsuario)

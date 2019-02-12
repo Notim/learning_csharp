@@ -13,9 +13,11 @@ namespace DAL.Configuration {
         private Connection        Connection { get; set; } 
         
         public DataContext(string connectionName) {
-            listConnections = Connections.GetInstance.listConnections;
+            var ConnectioBuilder = new Connections();
             
-            Connection = listConnections.FirstOrDefault(x => x.name == connectionName);
+            listConnections = ConnectioBuilder.listConnections;
+            
+            Connection = listConnections.FirstOrDefault(x => x.name == connectionName) ?? new Connection();
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
