@@ -19,28 +19,19 @@ namespace program {
 
     class Program {
         
+        private DataContext context = new DataContext("StdSqlServer");
+        
         public List<Usuario> listUsers { get; set; }
         
         static void Main(string[] args) {
             var Program = new Program();
-            List<Usuario> listUsuario = new List<Usuario>();
-            
-            listUsuario.ToList2(User => User.login);
-
-            listUsuario.Where(User => User.dtExpiracao > DateTime.Now);
-    
-            /*
-             * delegate (Usuario user) {
-             *     return user.dtExpiracao > Date.now();
-             * }
-             */
             
             Program.login();
         }
         
         void login(){
-            
-            /*using (var db = new DataContext()){
+            /*
+            using (var db = new DataContext("StdSqlServer")){
 
                 db.Usuario.Add(
                     new Usuario {
@@ -60,24 +51,23 @@ namespace program {
             Console.WriteLine("Now your password!");
             var _password = Console.ReadLine();
 
-            using (var db = new DataContext("StdSqlServer")) {
-                var users = db.Usuario.ToList();
+            
+            var users = context.Usuario.ToList();
                 
-                if (users.Any(u => u.login == _login)) {
-                    var user = db.Usuario.FirstOrDefault(u => u.login == _login) ?? new Usuario();
+            if (users.Any(u => u.login == _login)) {
+                var user = context.Usuario.FirstOrDefault(u => u.login == _login) ?? new Usuario();
 
-                    if (user.senha != _password) {
-                        Console.WriteLine("incorrect password");
-                    } else {
-                        Console.WriteLine("welcome!!" + user.login);
-
-                        listUsers = db.Usuario.ToList();
-                        prg();
-                    }
-
+                if (user.senha != _password) {
+                    Console.WriteLine("incorrect password");
                 } else {
-                    Console.WriteLine("we can't find this user");
+                    Console.WriteLine("welcome!!" + user.login);
+
+                    listUsers = context.Usuario.ToList();
+                    prg();
                 }
+
+            } else {
+                Console.WriteLine("we can't find this user");
             }
         }
         public void prg() {
@@ -97,16 +87,15 @@ namespace program {
             Console.Write("Write a password: ");
             var _pass = Console.ReadLine();
 
-            using (var db = new DataContext("SqlServer")) {
-                db.Usuario.Add(
-                    new Usuario{
-                        login        = _mail,
-                        senha        = _pass,
-                        dtCadastro   = DateTime.Now,
-                    }
-                );
-                db.SaveChanges();
-            }
+            context.Usuario.Add(
+               new Usuario {
+                   login      = _mail,
+                   senha      = _pass,
+                   dtExpiracao = DateTime.Now,
+               }
+            );
+
+            context.SaveChanges();
         }
     }
 

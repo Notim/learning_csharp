@@ -22,7 +22,7 @@ namespace DAL.Configuration {
             listConnections.Add(
                 new Connection {
                    name          = "StdSqlServer",
-                   strConnection = @"Server=127.0.0.1,8051; Database=Master;User Id=SA;Password=TopZera123456",
+                   strConnection = @"Server=127.0.0.1,8051; Database=Lms-2019;User Id=SA;Password=TopZera123456",
                    provider      = "SqlServer"
                 }
             );
