@@ -4,8 +4,6 @@ namespace DAL.Configuration {
 
     public class Connections {
         
-        public static Connections GetInstance => new Connections(); 
-        
         public IList<Connection> listConnections { get; set; }
         
         public Connections() {
@@ -24,6 +22,14 @@ namespace DAL.Configuration {
                    name          = "StdSqlServer",
                    strConnection = @"Server=127.0.0.1,8051; Database=Lms-2019;User Id=SA;Password=TopZera123456",
                    provider      = "SqlServer"
+                }
+            );
+            
+            listConnections.Add(
+                new Connection {
+                    name          =  "StdMysql",
+                    strConnection =  "Server=127.0.0.1;Port=8050;Database=Lms-2019;Uid=root;Pwd=TopZera12356;",
+                    provider      =  "MySql"
                 }
             );
         }

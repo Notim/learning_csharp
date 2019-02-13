@@ -40,11 +40,6 @@
             <e p="Disciplina.cs" t="Include" />
           </e>
         </e>
-        <e p="Migrations" t="Include">
-          <e p="20190212145238_LMS.Designer.cs" t="Include" />
-          <e p="20190212145238_LMS.cs" t="Include" />
-          <e p="DataContextModelSnapshot.cs" t="Include" />
-        </e>
         <e p="Professor" t="Include">
           <e p="Entities" t="Include">
             <e p="Professor.cs" t="Include" />

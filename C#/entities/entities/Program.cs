@@ -19,7 +19,7 @@ namespace program {
 
     class Program {
         
-        private DataContext context = new DataContext("StdSqlServer");
+        private DataContext context = new DataContext("StdMysql");
         
         public List<Usuario> listUsers { get; set; }
         

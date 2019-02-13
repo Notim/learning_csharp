@@ -34,6 +34,11 @@ namespace DAL.Configuration {
                         
                         break;
                     }
+                    case "MySql": {
+                        optionsBuilder.UseMySql(Connection.strConnection);
+                        
+                        break;
+                    }
                 }
             }
         }
