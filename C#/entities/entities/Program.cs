@@ -7,16 +7,6 @@ using DAL.Entities;
 
 namespace program {
     
-    public static class ListExtensions {
-        public static List<TSource> ToList2<TSource, TResult>(this List<TSource> list, Func<TSource, TResult> selector) {
-            list.ToList()
-                .Select(selector);
-            
-            return new List<TSource>();
-            
-        }
-    }
-
     class Program {
         
         private DataContext context = new DataContext("StdMysql");

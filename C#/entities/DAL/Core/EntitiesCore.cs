@@ -29,11 +29,13 @@ namespace DAL.Configuration {
 
                         break;
                     }
+                    
                     case "SqlServer": {
                         optionsBuilder.UseSqlServer(Connection.strConnection);
                         
                         break;
                     }
+                    
                     case "MySql": {
                         optionsBuilder.UseMySql(Connection.strConnection);
                         

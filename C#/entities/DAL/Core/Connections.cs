@@ -11,9 +11,9 @@ namespace DAL.Configuration {
             
             listConnections.Add(
                 new Connection {
-                    name          =  "StdSqlite",
+                    name          = "StdSqlite",
                     strConnection = @"Data Source =DATABASE.db",
-                    provider      =  "SqlLite"
+                    provider      = "SqlLite"
                 }
             );
             
@@ -28,7 +28,7 @@ namespace DAL.Configuration {
             listConnections.Add(
                 new Connection {
                     name          =  "StdMysql",
-                    strConnection =  "Server=127.0.0.1;Port=8050;Database=Lms-2019;Uid=root;Pwd=TopZera12356;",
+                    strConnection =  @"Server=127.0.0.1;Port=8050;Database=Lms-2019;Uid=root;Pwd=TopZera12356;",
                     provider      =  "MySql"
                 }
             );
