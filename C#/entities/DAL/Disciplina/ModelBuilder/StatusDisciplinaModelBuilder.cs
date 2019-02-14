@@ -13,7 +13,7 @@ namespace DAL.ModelBuilders {
             builder.HasKey(model => model.id);
             
             builder.Property(c => c.id).ValueGeneratedOnAdd();
-
+            
             builder.Property(c => c.descricao).HasMaxLength(50);
 
             builder.HasIndex(c => c.descricao).IsUnique();

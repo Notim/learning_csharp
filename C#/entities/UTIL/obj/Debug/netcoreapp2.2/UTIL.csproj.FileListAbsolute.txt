@@ -7,3 +7,12 @@
 /home/joao/Github/learning_csharp/C#/entities/UTIL/obj/Debug/netcoreapp2.2/UTIL.AssemblyInfo.cs
 /home/joao/Github/learning_csharp/C#/entities/UTIL/obj/Debug/netcoreapp2.2/UTIL.dll
 /home/joao/Github/learning_csharp/C#/entities/UTIL/obj/Debug/netcoreapp2.2/UTIL.pdb
+C:\Users\Joao\GitHub\learning_csharp\C#\entities\UTIL\bin\Debug\netcoreapp2.2\UTIL.deps.json
+C:\Users\Joao\GitHub\learning_csharp\C#\entities\UTIL\bin\Debug\netcoreapp2.2\UTIL.dll
+C:\Users\Joao\GitHub\learning_csharp\C#\entities\UTIL\bin\Debug\netcoreapp2.2\UTIL.pdb
+C:\Users\Joao\GitHub\learning_csharp\C#\entities\UTIL\obj\Debug\netcoreapp2.2\UTIL.csprojAssemblyReference.cache
+C:\Users\Joao\GitHub\learning_csharp\C#\entities\UTIL\obj\Debug\netcoreapp2.2\UTIL.csproj.CoreCompileInputs.cache
+C:\Users\Joao\GitHub\learning_csharp\C#\entities\UTIL\obj\Debug\netcoreapp2.2\UTIL.AssemblyInfoInputs.cache
+C:\Users\Joao\GitHub\learning_csharp\C#\entities\UTIL\obj\Debug\netcoreapp2.2\UTIL.AssemblyInfo.cs
+C:\Users\Joao\GitHub\learning_csharp\C#\entities\UTIL\obj\Debug\netcoreapp2.2\UTIL.dll
+C:\Users\Joao\GitHub\learning_csharp\C#\entities\UTIL\obj\Debug\netcoreapp2.2\UTIL.pdb
