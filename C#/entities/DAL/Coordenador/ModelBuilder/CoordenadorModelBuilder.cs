@@ -11,20 +11,15 @@ namespace DAL.ModelBuilders {
             builder.ToTable("tb_coordenador", schema : "Coordenador");
 
             builder.HasKey(model => model.id);
-
-            builder.Property(c => c.id)
-                   .ValueGeneratedOnAdd();
+            builder.Property(c => c.id).ValueGeneratedOnAdd();
 
             builder.HasOne(c => c.Usuario)
                    .WithMany()
                    .HasForeignKey(c => c.idUsuario)
                    .OnDelete(DeleteBehavior.Restrict);
 
-            builder.HasIndex(c => c.email)
-                   .IsUnique();
-
-            builder.HasIndex(c => c.celular)
-                   .IsUnique();
+            builder.HasIndex(c => c.email).IsUnique();
+            builder.HasIndex(c => c.celular).IsUnique();
         }
     }
 

@@ -1,11 +1,14 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/joao/Github/learning_csharp/C#/entities/UTIL/UTIL.csproj",
+    "projectUniqueName": "C:\\Users\\Joao\\GitHub\\learning_csharp\\C#\\entities\\UTIL\\UTIL.csproj",
     "projectName": "UTIL",
-    "projectPath": "/home/joao/Github/learning_csharp/C#/entities/UTIL/UTIL.csproj",
-    "outputPath": "/home/joao/Github/learning_csharp/C#/entities/UTIL/obj/",
+    "projectPath": "C:\\Users\\Joao\\GitHub\\learning_csharp\\C#\\entities\\UTIL\\UTIL.csproj",
+    "outputPath": "C:\\Users\\Joao\\GitHub\\learning_csharp\\C#\\entities\\UTIL\\obj\\",
     "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],

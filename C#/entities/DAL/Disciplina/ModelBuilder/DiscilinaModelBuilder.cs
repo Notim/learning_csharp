@@ -37,7 +37,6 @@ namespace DAL.ModelBuilders {
                    .OnDelete(DeleteBehavior.Restrict);
             
             builder.HasIndex(c => c.nome).IsUnique();
-
             
         }
     }

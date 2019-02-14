@@ -1,22 +1,25 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/joao/Github/learning_csharp/C#/entities/entities/entities.csproj",
+    "projectUniqueName": "C:\\Users\\Joao\\GitHub\\learning_csharp\\C#\\entities\\entities\\entities.csproj",
     "projectName": "entities",
-    "projectPath": "/home/joao/Github/learning_csharp/C#/entities/entities/entities.csproj",
-    "outputPath": "/home/joao/Github/learning_csharp/C#/entities/entities/obj/",
+    "projectPath": "C:\\Users\\Joao\\GitHub\\learning_csharp\\C#\\entities\\entities\\entities.csproj",
+    "outputPath": "C:\\Users\\Joao\\GitHub\\learning_csharp\\C#\\entities\\entities\\obj\\",
     "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {
-          "/home/joao/Github/learning_csharp/C#/entities/DAL/DAL.csproj": {
-            "projectPath": "/home/joao/Github/learning_csharp/C#/entities/DAL/DAL.csproj"
+          "C:\\Users\\Joao\\GitHub\\learning_csharp\\C#\\entities\\DAL\\DAL.csproj": {
+            "projectPath": "C:\\Users\\Joao\\GitHub\\learning_csharp\\C#\\entities\\DAL\\DAL.csproj"
           },
-          "/home/joao/Github/learning_csharp/C#/entities/UTIL/UTIL.csproj": {
-            "projectPath": "/home/joao/Github/learning_csharp/C#/entities/UTIL/UTIL.csproj"
+          "C:\\Users\\Joao\\GitHub\\learning_csharp\\C#\\entities\\UTIL\\UTIL.csproj": {
+            "projectPath": "C:\\Users\\Joao\\GitHub\\learning_csharp\\C#\\entities\\UTIL\\UTIL.csproj"
           }
         }
       }

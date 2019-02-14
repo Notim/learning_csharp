@@ -11,6 +11,7 @@ namespace DAL.Configuration {
             this.MapperModuloProfessor(modelBuilder);
             this.MapperModuloUsuario(modelBuilder);
             this.MapperModuloDisciplina(modelBuilder);
+            this.MapperModuloCurso(modelBuilder);
 
             base.OnModelCreating(modelBuilder);
         }

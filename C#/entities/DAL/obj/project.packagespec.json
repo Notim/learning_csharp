@@ -1,11 +1,14 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/joao/Github/learning_csharp/C#/entities/DAL/DAL.csproj",
+    "projectUniqueName": "C:\\Users\\Joao\\GitHub\\learning_csharp\\C#\\entities\\DAL\\DAL.csproj",
     "projectName": "DAL",
-    "projectPath": "/home/joao/Github/learning_csharp/C#/entities/DAL/DAL.csproj",
-    "outputPath": "/home/joao/Github/learning_csharp/C#/entities/DAL/obj/",
+    "projectPath": "C:\\Users\\Joao\\GitHub\\learning_csharp\\C#\\entities\\DAL\\DAL.csproj",
+    "outputPath": "C:\\Users\\Joao\\GitHub\\learning_csharp\\C#\\entities\\DAL\\obj\\",
     "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],
