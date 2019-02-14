@@ -23,41 +23,7 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="378fb4ad-89ce-4b10-8bd2-1befa97dc95b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DAL/Aluno/ModelBuilder/AlunoModelBuilder.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAL/Coordenador/ModelBuilder/CoordenadorModelBuilder.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAL/Disciplina/Entities/StatusDisciplina.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAL/Disciplina/ModelBuilder/DiscilinaModelBuilder.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAL/Disciplina/ModelBuilder/StatusDisciplinaModelBuilder.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAL/Disciplina/Repository/DataContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAL/Professor/ModelBuilder/ProfessorModelBuilder.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAL/Usuario/ModelBuilder/UsuarioModelBuilder.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.entities/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.entities/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.entities/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.entities/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Aluno/Entities/Aluno.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Aluno/Entities/Aluno.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Aluno/Repository/DataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Aluno/Repository/DataContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Coordenador/Entities/Coordenador.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Coordenador/Entities/Coordenador.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Coordenador/Repository/DataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Coordenador/Repository/DataContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Core/Base/DefaultContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Core/Base/DefaultContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Core/Connections.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Core/Connections.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Core/EntitiesCore.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Core/EntitiesCore.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Core/ModelCreating.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Core/ModelCreating.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Core/Repository.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Core/basicServices/Services.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Disciplina/Entities/Disciplina.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Disciplina/Entities/Disciplina.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Professor/Entities/Professor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Professor/Entities/Professor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Professor/Repository/DataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Professor/Repository/DataContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Usuario/Entities/Usuario.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Usuario/Entities/Usuario.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/Usuario/Repository/DataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/Usuario/Repository/DataContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp2.2/DAL.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/netcoreapp2.2/DAL.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UTIL/obj/UTIL.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UTIL/obj/UTIL.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UTIL/obj/UTIL.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/UTIL/obj/UTIL.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UTIL/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/UTIL/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/obj/Debug/netcoreapp2.2/entities.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/entities/obj/Debug/netcoreapp2.2/entities.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/obj/entities.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/entities/obj/entities.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/obj/entities.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/entities/obj/entities.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entities/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/entities/obj/project.assets.json" afterDir="false" />
-    </list>
+    <list default="true" id="378fb4ad-89ce-4b10-8bd2-1befa97dc95b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,15 +46,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DAL/Core/Base/DefaultContext.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
-              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+              <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
               <folding>
-                <marker date="1550157899923" expanded="false" signature="6:62" ph="..." />
-                <marker date="1550157899923" expanded="true" signature="87:184" ph="{...}" />
-                <marker date="1550157899923" expanded="true" signature="122:181" ph="{...}" />
+                <marker date="1550158101176" expanded="false" signature="6:62" ph="..." />
+                <marker date="1550158101176" expanded="true" signature="87:198" ph="{...}" />
+                <marker date="1550158101176" expanded="true" signature="122:195" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -97,16 +63,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DAL/Core/EntitiesCore.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+            <state relative-caret-position="351">
+              <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
               <folding>
-                <marker date="1550157888410" expanded="false" signature="6:116" ph="..." />
-                <marker date="1550157888410" expanded="true" signature="146:1521" ph="{...}" />
-                <marker date="1550157888410" expanded="true" signature="198:1518" ph="{...}" />
-                <marker date="1550157888410" expanded="true" signature="209:632" ph="/* private IList&lt;Connection&gt; listConnections { get; set; } ... */" />
-                <marker date="1550157888410" expanded="true" signature="720:1512" ph="{...}" />
-                <marker date="1550157888410" expanded="true" signature="734:1031" ph="/* if (!optionsBuilder.IsConfigured) { ... */" />
-                <marker date="1550157888410" expanded="true" signature="1276:1502" ph="/* break; ... */" />
+                <marker date="1550158083220" expanded="false" signature="6:116" ph="..." />
+                <marker date="1550158083220" expanded="true" signature="146:1387" ph="{...}" />
+                <marker date="1550158083220" expanded="true" signature="198:1384" ph="{...}" />
+                <marker date="1550158083220" expanded="true" signature="380:619" ph="{...}" />
+                <marker date="1550158083220" expanded="true" signature="707:1378" ph="{...}" />
+                <marker date="1550158083220" expanded="true" signature="755:1368" ph="{...}" />
+                <marker date="1550158083220" expanded="true" signature="803:1354" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -171,7 +137,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DAL/Core/Connections.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
@@ -461,12 +427,12 @@
       <workItem from="1549929131636" duration="8912000" />
       <workItem from="1550009154994" duration="6120000" />
       <workItem from="1550016595549" duration="7975000" />
-      <workItem from="1550154887089" duration="3053000" />
+      <workItem from="1550154887089" duration="3212000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66329000" />
+    <option name="totallyTimeSpent" value="66488000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1057,6 +1023,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DAL/Core/EntitiesCore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+          <folding>
+            <marker date="1550158083220" expanded="false" signature="6:116" ph="..." />
+            <marker date="1550158083220" expanded="true" signature="146:1387" ph="{...}" />
+            <marker date="1550158083220" expanded="true" signature="198:1384" ph="{...}" />
+            <marker date="1550158083220" expanded="true" signature="380:619" ph="{...}" />
+            <marker date="1550158083220" expanded="true" signature="707:1378" ph="{...}" />
+            <marker date="1550158083220" expanded="true" signature="755:1368" ph="{...}" />
+            <marker date="1550158083220" expanded="true" signature="803:1354" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL/Core/Base/DefaultContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+          <folding>
+            <marker date="1550158101176" expanded="false" signature="6:62" ph="..." />
+            <marker date="1550158101176" expanded="true" signature="87:198" ph="{...}" />
+            <marker date="1550158101176" expanded="true" signature="122:195" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DAL/Core/Connections.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -1069,34 +1063,6 @@
             <marker date="1550155376160" expanded="true" signature="599:830" ph="{...}" />
             <marker date="1550155376160" expanded="true" signature="910:1136" ph="{...}" />
             <marker date="1550155376160" expanded="true" signature="1201:1358" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DAL/Core/EntitiesCore.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
-          <folding>
-            <marker date="1550157888410" expanded="false" signature="6:116" ph="..." />
-            <marker date="1550157888410" expanded="true" signature="146:1521" ph="{...}" />
-            <marker date="1550157888410" expanded="true" signature="198:1518" ph="{...}" />
-            <marker date="1550157888410" expanded="true" signature="209:632" ph="/* private IList&lt;Connection&gt; listConnections { get; set; } ... */" />
-            <marker date="1550157888410" expanded="true" signature="720:1512" ph="{...}" />
-            <marker date="1550157888410" expanded="true" signature="734:1031" ph="/* if (!optionsBuilder.IsConfigured) { ... */" />
-            <marker date="1550157888410" expanded="true" signature="1276:1502" ph="/* break; ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DAL/Core/Base/DefaultContext.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-          <folding>
-            <marker date="1550157899923" expanded="false" signature="6:62" ph="..." />
-            <marker date="1550157899923" expanded="true" signature="87:184" ph="{...}" />
-            <marker date="1550157899923" expanded="true" signature="122:181" ph="{...}" />
           </folding>
         </state>
       </provider>
