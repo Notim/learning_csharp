@@ -9,6 +9,9 @@
           <e p="Entities" t="Include">
             <e p="Aluno.cs" t="Include" />
           </e>
+          <e p="ModelBuilder" t="Include">
+            <e p="AlunoModelBuilder.cs" t="Include" />
+          </e>
           <e p="Repository" t="Include">
             <e p="DataContext.cs" t="Include" />
           </e>
@@ -16,6 +19,9 @@
         <e p="Coordenador" t="Include">
           <e p="Entities" t="Include">
             <e p="Coordenador.cs" t="Include" />
+          </e>
+          <e p="ModelBuilder" t="Include">
+            <e p="CoordenadorModelBuilder.cs" t="Include" />
           </e>
           <e p="Repository" t="Include">
             <e p="DataContext.cs" t="Include" />
@@ -29,20 +35,32 @@
           <e p="Connections.cs" t="Include" />
           <e p="EntitiesCore.cs" t="Include" />
           <e p="ModelCreating.cs" t="Include" />
-          <e p="Repository.cs" t="Include" />
-          <e p="basicServices" t="Include">
-            <e p="Services.cs" t="Include" />
-          </e>
         </e>
         <e p="DAL.csproj" t="IncludeRecursive" />
         <e p="Disciplina" t="Include">
           <e p="Entities" t="Include">
             <e p="Disciplina.cs" t="Include" />
+            <e p="StatusDisciplina.cs" t="Include" />
           </e>
+          <e p="ModelBuilder" t="Include">
+            <e p="DiscilinaModelBuilder.cs" t="Include" />
+            <e p="StatusDisciplinaModelBuilder.cs" t="Include" />
+          </e>
+          <e p="Repository" t="Include">
+            <e p="DataContext.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20190214152508_lmsv01.Designer.cs" t="Include" />
+          <e p="20190214152508_lmsv01.cs" t="Include" />
+          <e p="DataContextModelSnapshot.cs" t="Include" />
         </e>
         <e p="Professor" t="Include">
           <e p="Entities" t="Include">
             <e p="Professor.cs" t="Include" />
+          </e>
+          <e p="ModelBuilder" t="Include">
+            <e p="ProfessorModelBuilder.cs" t="Include" />
           </e>
           <e p="Repository" t="Include">
             <e p="DataContext.cs" t="Include" />
@@ -51,6 +69,9 @@
         <e p="Usuario" t="Include">
           <e p="Entities" t="Include">
             <e p="Usuario.cs" t="Include" />
+          </e>
+          <e p="ModelBuilder" t="Include">
+            <e p="UsuarioModelBuilder.cs" t="Include" />
           </e>
           <e p="Repository" t="Include">
             <e p="DataContext.cs" t="Include" />

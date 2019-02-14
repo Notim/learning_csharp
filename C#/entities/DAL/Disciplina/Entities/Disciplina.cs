@@ -1,44 +1,28 @@
+using System;
+
 using DAL.Entities;
 
-namespace DAL.Disciplina.Entities {
+namespace DAL.Entities {
 
     public class Disciplina : DefaultEntity {
-        
+        public int      id                       { get; set; }
+        public int      idCoordenador            { get; set; }
+        public int      idStatusDisciplina       { get; set; }
+        public string   nome                     { get; set; }
+        public DateTime data                     { get; set; }
+        public string   planoEnsino              { get; set; }
+        public int      cargaHoraria             { get; set; }
+        public string   competencias             { get; set; }
+        public string   habilidades              { get; set; }
+        public string   emenda                   { get; set; }
+        public string   conteudoProgramatico     { get; set; }
+        public string   bibliografiaBasica       { get; set; }
+        public string   bibliografiaComplementar { get; set; }
+        public string   percentualPratico        { get; set; }
+        public string   percentualTeorico        { get; set; }
+
+        public Coordenador      Coordenador      { get; set; }
+        public StatusDisciplina StatusDisciplina { get; set; }
     }
 
-    
 }
-/*
-CREATE TABLE DISCIPLINA (
-	id INT IDENTITY(1,1) NOT NULL
-	, idCoordenador INT NOT NULL
-	
-	, nome VARCHAR (50) NOT NULL
-	, data DATETIME  DEFAULT GETDATE()
-	, statusDisciplina VARCHAR (20)  DEFAULT 'Aberta'
-	, planoEnsino VARCHAR (200) NOT NULL
-	, cargaHoraria INT
-	, competencias VARCHAR (50)
-	, habilidades VARCHAR (100)
-	, emenda VARCHAR (100)
-	, conteudoProgramatico VARCHAR (100)
-	, bibliografiaBasica VARCHAR (100)
-	, bibliografiaComplementar VARCHAR (100)
-	, percentualPratico VARCHAR (10) 
-	, percentualTeorico VARCHAR (10)
-
-
-	, CONSTRAINT pkDisciplina PRIMARY KEY (id)
-	, CONSTRAINT uqDisciplinaNome UNIQUE (nome)
-	, CONSTRAINT fkCoordenadorDisciplina FOREIGN KEY (idCoordenador) REFERENCES COORDENADOR(id)
-
-	, CONSTRAINT ckDisciplinaCargaHoraria CHECK((cargaHoraria = 40) or (cargaHoraria = 80))
-	, CONSTRAINT ckDisciplinaPercentualPratico CHECK ((percentualPratico > 0) and (percentualPratico < 100))
-	, CONSTRAINT ckDisciplinaPercentualTeorico CHECK ((percentualTeorico > 0) and (percentualTeorico < 100))
-	
-	, CONSTRAINT ckDisciplinaStatus CHECK(
-		statusDisciplina like 'Aberta' or 
-		statusDisciplina like 'Fechada'
-	)
-);
- */

@@ -16,7 +16,6 @@ namespace DAL.Configuration {
                     provider      = "SqlLite"
                 }
             );
-            
             listConnections.Add(
                 new Connection {
                    name          = "StdSqlServer",
@@ -24,7 +23,6 @@ namespace DAL.Configuration {
                    provider      = "SqlServer"
                 }
             );
-            
             listConnections.Add(
                 new Connection {
                     name          =  "StdMysql",

@@ -14,27 +14,4 @@ namespace DAL.Entities {
         public virtual Usuario Usuario { get; set; }
     }
 
-    sealed class ProfessorModelBuilder : IEntityTypeConfiguration<Professor> {
-        public void Configure(EntityTypeBuilder<Professor> builder) {
-
-            builder.ToTable("tb_professor");
-
-            builder.HasKey(model => model.id);
-
-            builder.Property(c => c.id)
-                   .ValueGeneratedOnAdd();
-
-            builder.HasOne(c => c.Usuario)
-                   .WithMany()
-                   .HasForeignKey(c => c.idUsuario)
-                   .OnDelete(DeleteBehavior.Restrict);
-
-            builder.HasIndex(c => c.email)
-                   .IsUnique();
-
-            builder.HasIndex(c => c.celular)
-                   .IsUnique();
-        }
-    }
-
 }

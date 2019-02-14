@@ -15,32 +15,4 @@ namespace DAL.Entities {
         public virtual Usuario Usuario { get; set; }
     }
 
-    internal sealed class AlunoModelBuilder : IEntityTypeConfiguration<Aluno> {
-        public void Configure(EntityTypeBuilder<Aluno> builder) {
-
-            builder.ToTable("tb_aluno");
-
-            //modelBuilder.HasDefaultSchema("blogging"); // for sqlServer
-
-            builder.HasKey(model => model.id);
-
-            builder.Property(c => c.id)
-                   .ValueGeneratedOnAdd();
-            
-            // () => 1
-            // function () { return 0 }
-            
-            builder.HasOne(c => c.Usuario)
-                   .WithMany()
-                   .HasForeignKey(c => c.idUsuario)
-                   .OnDelete(DeleteBehavior.Restrict);
-
-            builder.HasIndex(c => c.email)
-                   .IsUnique();
-
-            builder.HasIndex(c => c.celular)
-                   .IsUnique();
-        }
-    }
-
 }
