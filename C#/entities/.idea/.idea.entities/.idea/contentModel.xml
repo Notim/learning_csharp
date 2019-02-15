@@ -56,6 +56,7 @@
           <e p="Connections.cs" t="Include" />
           <e p="EntitiesCore.cs" t="Include" />
           <e p="ModelCreating.cs" t="Include" />
+          <e p="ToMigrateSqlServer.cs" t="Include" />
         </e>
         <e p="Curso" t="Include">
           <e p="Entities" t="Include">

@@ -15,8 +15,6 @@ namespace DAL.ModelBuilders {
             builder.Property(c => c.id)
                    .ValueGeneratedOnAdd();
 
-            /*builder.HasIndex(model => model.login)
-                   .IsUnique();*/
         }
     }
 
