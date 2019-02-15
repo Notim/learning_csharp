@@ -61,6 +61,11 @@ namespace program {
             }
         }
         public void prg() {
+            int i = Int32.Parse(Console.ReadLine());
+            for (var index = 0; index < 10; index++) {
+                Console.WriteLine($"{i} * {index} = {i * index}");
+            }
+            
             string teste = "";
 
             var splited = teste.Split(" ").ToList(); 

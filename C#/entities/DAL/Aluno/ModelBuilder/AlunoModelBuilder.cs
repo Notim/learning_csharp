@@ -19,7 +19,7 @@ namespace DAL.ModelBuilders {
             builder.HasOne(c => c.Usuario)
                    .WithMany()
                    .HasForeignKey(c => c.idUsuario)
-                   .OnDelete(DeleteBehavior.Restrict);
+                   .OnDelete(DeleteBehavior.Cascade);
         }
     }
 

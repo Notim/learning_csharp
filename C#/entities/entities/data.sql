@@ -203,6 +203,7 @@ CREATE TABLE ENTREGA (
 	CONSTRAINT ckEntregaNota CHECK (nota > 0.00 and nota < 10.00)
 	, CONSTRAINT uqEntrega UNIQUE(idAluno, idAtividadevinculada)
 );
+
 CREATE TABLE MENSAGEM (
 	id INT IDENTITY(1, 1) NOT NULL,
 	idAluno INT NOT NULL,

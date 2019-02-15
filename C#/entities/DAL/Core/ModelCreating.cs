@@ -12,6 +12,9 @@ namespace DAL.Configuration {
             this.MapperModuloUsuario(modelBuilder);
             this.MapperModuloDisciplina(modelBuilder);
             this.MapperModuloCurso(modelBuilder);
+            this.MapperModuloMatricula(modelBuilder);
+            this.MapperModuloAtividade(modelBuilder);
+            this.MapperModuloMensagem(modelBuilder);
 
             base.OnModelCreating(modelBuilder);
         }

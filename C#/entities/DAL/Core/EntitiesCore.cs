@@ -1,4 +1,3 @@
-using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -31,7 +30,7 @@ namespace DAL.Configuration {
 
                     case "SqlServer": {
                         optionsBuilder.UseSqlServer(Connection.strConnection);
-                        
+
                         break;
                     }
 
@@ -41,6 +40,7 @@ namespace DAL.Configuration {
                         break;
                     }
                 }
+
             }
         }
     }
