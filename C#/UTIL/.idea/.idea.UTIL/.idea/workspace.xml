@@ -9,10 +9,105 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UTIL/Extensions/StringExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+              <folding>
+                <marker date="1549918965000" expanded="true" signature="28:409" ph="{...}" />
+                <marker date="1549918965000" expanded="true" signature="72:406" ph="{...}" />
+                <marker date="1549918965000" expanded="true" signature="125:173" ph="{...}" />
+                <marker date="1549918965000" expanded="true" signature="232:283" ph="{...}" />
+                <marker date="1549918965000" expanded="true" signature="339:399" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UTIL/Extensions/IntExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+              <folding>
+                <marker date="1549851510000" expanded="true" signature="28:88" ph="{...}" />
+                <marker date="1549851510000" expanded="true" signature="69:85" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UTIL/Populate/GenerateNames.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+              <folding>
+                <marker date="1549898099000" expanded="false" signature="6:116" ph="..." />
+                <marker date="1549898099000" expanded="true" signature="141:1767" ph="{...}" />
+                <marker date="1549898099000" expanded="true" signature="185:1764" ph="{...}" />
+                <marker date="1549898099000" expanded="true" signature="798:1179" ph="{...}" />
+                <marker date="1549898099000" expanded="true" signature="960:1136" ph="{...}" />
+                <marker date="1549898099000" expanded="true" signature="1018:1122" ph="{...}" />
+                <marker date="1549898099000" expanded="true" signature="1246:1749" ph="{...}" />
+                <marker date="1549898099000" expanded="true" signature="1477:1568" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UTIL/Wrappers/GenericReturn.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding>
+                <marker date="1549918594000" expanded="false" signature="6:105" ph="..." />
+                <marker date="1549918594000" expanded="true" signature="131:2069" ph="{...}" />
+                <marker date="1549918594000" expanded="true" signature="165:791" ph="{...}" />
+                <marker date="1549918594000" expanded="true" signature="451:785" ph="{...}" />
+                <marker date="1549918594000" expanded="true" signature="555:620" ph="{...}" />
+                <marker date="1549918594000" expanded="true" signature="690:744" ph="{...}" />
+                <marker date="1549918594000" expanded="true" signature="827:2066" ph="{...}" />
+                <marker date="1549918594000" expanded="true" signature="856:2060" ph="{...}" />
+                <marker date="1549918594000" expanded="true" signature="870:991" ph="/* a classe GenericReturn tem tres jeitos de usar ... */" />
+                <marker date="1549918594000" expanded="true" signature="1408:1485" ph="{...}" />
+                <marker date="1549918594000" expanded="true" signature="1507:1556" ph="{...}" />
+                <marker date="1549918594000" expanded="true" signature="1864:2013" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UTIL/Wrappers/GenericReturnExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <marker date="1549918457000" expanded="true" signature="24:576" ph="{...}" />
+                <marker date="1549918457000" expanded="true" signature="75:573" ph="{...}" />
+                <marker date="1549918457000" expanded="true" signature="161:234" ph="{...}" />
+                <marker date="1549918457000" expanded="true" signature="326:410" ph="{...}" />
+                <marker date="1549918457000" expanded="true" signature="496:567" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/UTIL/Extensions/IntExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UTIL/Extensions/StringExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UTIL/Wrappers/GenericReturnExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UTIL/Wrappers/GenericReturn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UTIL/Populate/GenerateNames.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="170" />
@@ -23,14 +118,15 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <autoscrollFromSource SolutionExplorer="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -64,11 +160,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550242809789</updated>
       <workItem from="1550242812693" duration="368000" />
+      <workItem from="1550243187181" duration="249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="368000" />
+    <option name="totallyTimeSpent" value="617000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -82,18 +179,12 @@
   <component name="ToolWindowManager">
     <frame x="32" y="46" width="1302" height="703" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2535771" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" visible="true" weight="0.524055" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.3298969" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -101,18 +192,25 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.524055" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -125,17 +223,85 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Extensions/IntExtensions.cs">
+    <entry file="file://$PROJECT_DIR$/Extensions/IntExtensions.cs" />
+    <entry file="file://$PROJECT_DIR$/Extensions/StringExtensions.cs" />
+    <entry file="file://$PROJECT_DIR$/UTIL/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UTIL/Extensions/StringExtensions.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding>
+            <marker date="1549918965000" expanded="true" signature="28:409" ph="{...}" />
+            <marker date="1549918965000" expanded="true" signature="72:406" ph="{...}" />
+            <marker date="1549918965000" expanded="true" signature="125:173" ph="{...}" />
+            <marker date="1549918965000" expanded="true" signature="232:283" ph="{...}" />
+            <marker date="1549918965000" expanded="true" signature="339:399" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Extensions/StringExtensions.cs">
+    <entry file="file://$PROJECT_DIR$/UTIL/Extensions/IntExtensions.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="13" />
+        <state relative-caret-position="32">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding>
+            <marker date="1549851510000" expanded="true" signature="28:88" ph="{...}" />
+            <marker date="1549851510000" expanded="true" signature="69:85" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UTIL/Populate/GenerateNames.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <marker date="1549898099000" expanded="false" signature="6:116" ph="..." />
+            <marker date="1549898099000" expanded="true" signature="141:1767" ph="{...}" />
+            <marker date="1549898099000" expanded="true" signature="185:1764" ph="{...}" />
+            <marker date="1549898099000" expanded="true" signature="798:1179" ph="{...}" />
+            <marker date="1549898099000" expanded="true" signature="960:1136" ph="{...}" />
+            <marker date="1549898099000" expanded="true" signature="1018:1122" ph="{...}" />
+            <marker date="1549898099000" expanded="true" signature="1246:1749" ph="{...}" />
+            <marker date="1549898099000" expanded="true" signature="1477:1568" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UTIL/Wrappers/GenericReturn.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1549918594000" expanded="false" signature="6:105" ph="..." />
+            <marker date="1549918594000" expanded="true" signature="131:2069" ph="{...}" />
+            <marker date="1549918594000" expanded="true" signature="165:791" ph="{...}" />
+            <marker date="1549918594000" expanded="true" signature="451:785" ph="{...}" />
+            <marker date="1549918594000" expanded="true" signature="555:620" ph="{...}" />
+            <marker date="1549918594000" expanded="true" signature="690:744" ph="{...}" />
+            <marker date="1549918594000" expanded="true" signature="827:2066" ph="{...}" />
+            <marker date="1549918594000" expanded="true" signature="856:2060" ph="{...}" />
+            <marker date="1549918594000" expanded="true" signature="870:991" ph="/* a classe GenericReturn tem tres jeitos de usar ... */" />
+            <marker date="1549918594000" expanded="true" signature="1408:1485" ph="{...}" />
+            <marker date="1549918594000" expanded="true" signature="1507:1556" ph="{...}" />
+            <marker date="1549918594000" expanded="true" signature="1864:2013" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UTIL/Wrappers/GenericReturnExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1549918457000" expanded="true" signature="24:576" ph="{...}" />
+            <marker date="1549918457000" expanded="true" signature="75:573" ph="{...}" />
+            <marker date="1549918457000" expanded="true" signature="161:234" ph="{...}" />
+            <marker date="1549918457000" expanded="true" signature="326:410" ph="{...}" />
+            <marker date="1549918457000" expanded="true" signature="496:567" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
