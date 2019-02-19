@@ -11,4 +11,14 @@
         <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
     </ItemGroup>
 
+    <ItemGroup>
+        <Folder Include="Controllers" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\BLL\BLL.csproj" />
+      <ProjectReference Include="..\UTIL\UTIL.csproj" />
+    </ItemGroup>
+
+
 </Project>

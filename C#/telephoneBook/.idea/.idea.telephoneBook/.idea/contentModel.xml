@@ -6,8 +6,13 @@
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="API" t="IncludeRecursive">
         <e p="API.csproj" t="IncludeRecursive" />
-        <e p="Controllers" t="Include">
-          <e p="ValuesController.cs" t="Include" />
+        <e p="Controllers" t="Include" />
+        <e p="Modules" t="Include">
+          <e p="Users" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="UsersController.cs" t="Include" />
+            </e>
+          </e>
         </e>
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
@@ -21,6 +26,98 @@
           <e p="Debug" t="Include">
             <e p="netcoreapp2.2" t="Include">
               <e p="API.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="BLL" t="IncludeRecursive">
+        <e p="BLL.csproj" t="IncludeRecursive" />
+        <e p="Users" t="Include">
+          <e p="Interface" t="Include">
+            <e p="IUserServices.cs" t="Include" />
+          </e>
+          <e p="Services" t="Include">
+            <e p="UserServices.cs" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="BLL.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="DAL" t="IncludeRecursive">
+        <e p="Core" t="Include">
+          <e p="Base" t="Include">
+            <e p="Connection.cs" t="Include" />
+            <e p="DefaultContext.cs" t="Include" />
+            <e p="DefaultEntity.cs" t="Include" />
+          </e>
+          <e p="Connections.cs" t="Include" />
+          <e p="Const" t="Include">
+            <e p="EntityTypes.cs" t="Include" />
+            <e p="EntityTypesNum.cs" t="Include" />
+            <e p="OrigemCadastroConst.cs" t="Include" />
+            <e p="StatusConst.cs" t="Include" />
+          </e>
+          <e p="EntitiesCore.cs" t="Include" />
+          <e p="ModelCreating.cs" t="Include" />
+        </e>
+        <e p="DAL.csproj" t="IncludeRecursive" />
+        <e p="Migrations" t="Include">
+          <e p="20190217014856_Start.Designer.cs" t="Include" />
+          <e p="20190217014856_Start.cs" t="Include" />
+          <e p="DataContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Users" t="Include">
+          <e p="Entities" t="Include">
+            <e p="User.cs" t="Include" />
+          </e>
+          <e p="ModelBuilder" t="Include">
+            <e p="UserModelBuilder.cs" t="Include" />
+          </e>
+          <e p="Repository" t="Include">
+            <e p="DataContext.cs" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="DAL.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="UTIL" t="IncludeRecursive">
+        <e p="Extensions" t="Include">
+          <e p="IntExtensions.cs" t="Include" />
+          <e p="StringExtensions.cs" t="Include" />
+        </e>
+        <e p="Populate" t="Include">
+          <e p="Data" t="Include">
+            <e p="MailProviders.cs" t="Include" />
+            <e p="Names.cs" t="Include" />
+            <e p="SurNames.cs" t="Include" />
+            <e p="mailproviders" t="Include" />
+            <e p="names" t="Include" />
+            <e p="surnames" t="Include" />
+          </e>
+          <e p="GenerateNames.cs" t="Include" />
+        </e>
+        <e p="UTIL.csproj" t="IncludeRecursive" />
+        <e p="Wrappers" t="Include">
+          <e p="GenericReturn.cs" t="Include" />
+          <e p="GenericReturnExtensions.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="UTIL.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>

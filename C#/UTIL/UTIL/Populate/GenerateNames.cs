@@ -8,7 +8,7 @@ namespace UTIL.methods {
 
     public static partial class Populate {
         
-        private static readonly string[] names    = File.ReadAllLines("/home/joao/Github/learning_csharp/C#/entities/UTIL/Populate/Data/names");
+        private static readonly string[] names    = File.ReadAllLines("/home/joao/Github/learning_csharp/C#/UTIL/UTIL/Populate/Data/mailproviders");
         private static readonly string[] surNames = File.ReadAllLines("/home/joao/Github/learning_csharp/C#/entities/UTIL/Populate/Data/surnames");
         private static readonly string[] mailProviders = File.ReadAllLines("/home/joao/Github/learning_csharp/C#/entities/UTIL/Populate/Data/mailproviders");
         // TODO : fazer esse endereço ficar relativo a lib e nao ao projeto

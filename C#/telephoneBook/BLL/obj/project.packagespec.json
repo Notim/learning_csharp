@@ -1,0 +1,44 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/joao/Github/learning_csharp/C#/telephoneBook/BLL/BLL.csproj",
+    "projectName": "BLL",
+    "projectPath": "/home/joao/Github/learning_csharp/C#/telephoneBook/BLL/BLL.csproj",
+    "outputPath": "/home/joao/Github/learning_csharp/C#/telephoneBook/BLL/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/home/joao/Github/learning_csharp/C#/telephoneBook/DAL/DAL.csproj": {
+            "projectPath": "/home/joao/Github/learning_csharp/C#/telephoneBook/DAL/DAL.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

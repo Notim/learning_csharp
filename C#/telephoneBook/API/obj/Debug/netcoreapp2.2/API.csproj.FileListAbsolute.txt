@@ -12,3 +12,10 @@
 /home/joao/Github/learning_csharp/C#/telephoneBook/API/obj/Debug/netcoreapp2.2/API.RazorTargetAssemblyInfo.cache
 /home/joao/Github/learning_csharp/C#/telephoneBook/API/obj/Debug/netcoreapp2.2/API.dll
 /home/joao/Github/learning_csharp/C#/telephoneBook/API/obj/Debug/netcoreapp2.2/API.pdb
+/home/joao/Github/learning_csharp/C#/telephoneBook/API/bin/Debug/netcoreapp2.2/BLL.dll
+/home/joao/Github/learning_csharp/C#/telephoneBook/API/bin/Debug/netcoreapp2.2/DAL.dll
+/home/joao/Github/learning_csharp/C#/telephoneBook/API/bin/Debug/netcoreapp2.2/BLL.pdb
+/home/joao/Github/learning_csharp/C#/telephoneBook/API/bin/Debug/netcoreapp2.2/DAL.pdb
+/home/joao/Github/learning_csharp/C#/telephoneBook/API/obj/Debug/netcoreapp2.2/API.csproj.CopyComplete
+/home/joao/Github/learning_csharp/C#/telephoneBook/API/bin/Debug/netcoreapp2.2/UTIL.dll
+/home/joao/Github/learning_csharp/C#/telephoneBook/API/bin/Debug/netcoreapp2.2/UTIL.pdb
