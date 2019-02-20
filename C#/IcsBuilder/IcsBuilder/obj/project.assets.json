@@ -684,8 +684,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "Microsoft.NETCore.App >= 2.2.0",
-      "UTIL >= 1.0.0"
+      "Microsoft.NETCore.App >= 2.2.0"
     ]
   },
   "packageFolders": {
@@ -694,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/joao/Github/learning_csharp/C#/UTIL/UTIL.csproj",
-      "projectName": "UTIL",
-      "projectPath": "/home/joao/Github/learning_csharp/C#/UTIL/UTIL.csproj",
+      "projectUniqueName": "/home/joao/Github/learning_csharp/C#/IcsBuilder/IcsBuilder/IcsBuilder.csproj",
+      "projectName": "IcsBuilder",
+      "projectPath": "/home/joao/Github/learning_csharp/C#/IcsBuilder/IcsBuilder/IcsBuilder.csproj",
       "packagesPath": "/home/joao/.nuget/packages/",
-      "outputPath": "/home/joao/Github/learning_csharp/C#/UTIL/obj/",
+      "outputPath": "/home/joao/Github/learning_csharp/C#/IcsBuilder/IcsBuilder/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/joao/.config/NuGet/NuGet.Config"
@@ -711,11 +710,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {
-            "/home/joao/Github/learning_csharp/C#/UTIL/UTIL.csproj": {
-              "projectPath": "/home/joao/Github/learning_csharp/C#/UTIL/UTIL.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -741,16 +736,5 @@
         "warn": true
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1108",
-      "level": "Error",
-      "message": "Cycle detected. \n  UTIL -> UTIL.",
-      "libraryId": "UTIL",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.2"
-      ]
-    }
-  ]
+  }
 }

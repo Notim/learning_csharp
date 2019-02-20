@@ -7,10 +7,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("UTIL")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("IcsBuilder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("UTIL")]
-[assembly: System.Reflection.AssemblyTitleAttribute("UTIL")]
+[assembly: System.Reflection.AssemblyProductAttribute("IcsBuilder")]
+[assembly: System.Reflection.AssemblyTitleAttribute("IcsBuilder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

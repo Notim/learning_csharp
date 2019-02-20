@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5cad7ee-3970-4fb3-a527-116c318d8b0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ICsExample.ics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icsBuilder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/.idea/.idea.UTIL/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/.idea/.idea.UTIL/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/.idea/.idea.UTIL/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/.idea/.idea.UTIL/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/.idea/.idea.UTIL/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/.idea/.idea.UTIL/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/.idea/.idea.UTIL/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/.idea/.idea.UTIL/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/Extensions/IntExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/Extensions/StringExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/Populate/Data/mailproviders" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/Populate/Data/names" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/Populate/Data/surnames" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/Populate/GenerateNames.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/UTIL.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/Wrappers/GenericReturn.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/Wrappers/GenericReturnExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/bin/Debug/netcoreapp2.2/UTIL.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/obj/Debug/netcoreapp2.2/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/obj/Debug/netcoreapp2.2/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/obj/Debug/netcoreapp2.2/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/obj/Debug/netcoreapp2.2/UTIL.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/obj/Debug/netcoreapp2.2/UTIL.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/obj/Debug/netcoreapp2.2/UTIL.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/obj/Debug/netcoreapp2.2/UTIL.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/obj/Debug/netcoreapp2.2/UTIL.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/obj/Debug/netcoreapp2.2/UTIL.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/obj/Debug/netcoreapp2.2/project.razor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/obj/UTIL.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/obj/UTIL.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/obj/UTIL.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__UTIL/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telephoneBook/.idea/.idea.telephoneBook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../telephoneBook/.idea/.idea.telephoneBook/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IcsBuilder/Class1.cs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="32" />
+    <option name="y" value="46" />
+    <option name="width" value="1302" />
+    <option name="height" value="703" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5cad7ee-3970-4fb3-a527-116c318d8b0b" name="Default Changelist" comment="" />
+      <created>1550614820779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550614820779</updated>
+      <workItem from="1550614836418" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="32" y="46" width="1302" height="703" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/IcsBuilder/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

@@ -3523,7 +3523,7 @@
       "outputPath": "/home/joao/Github/learning_csharp/C#/telephoneBook/BLL/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/joao/.nuget/NuGet/NuGet.Config"
+        "/home/joao/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

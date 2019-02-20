@@ -1,6 +1,7 @@
 ﻿
 using System;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 
 using BLL.Users;
 using BLL.Users.Services;
@@ -22,6 +23,7 @@ namespace telephoneBook.Modules.News.Controllers {
 
         [HttpGet, Route("Api/ListUsers")]
         public JsonResult ListNews() {
+            
             /*
             var newAdd = new User();
             newAdd.name  = Populate.GenerateNames(2);

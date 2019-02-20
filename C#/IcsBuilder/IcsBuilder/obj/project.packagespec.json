@@ -1,21 +1,17 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/joao/Github/learning_csharp/C#/UTIL/UTIL.csproj",
-    "projectName": "UTIL",
-    "projectPath": "/home/joao/Github/learning_csharp/C#/UTIL/UTIL.csproj",
-    "outputPath": "/home/joao/Github/learning_csharp/C#/UTIL/obj/",
+    "projectUniqueName": "/home/joao/Github/learning_csharp/C#/IcsBuilder/IcsBuilder/IcsBuilder.csproj",
+    "projectName": "IcsBuilder",
+    "projectPath": "/home/joao/Github/learning_csharp/C#/IcsBuilder/IcsBuilder/IcsBuilder.csproj",
+    "outputPath": "/home/joao/Github/learning_csharp/C#/IcsBuilder/IcsBuilder/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],
     "frameworks": {
       "netcoreapp2.2": {
-        "projectReferences": {
-          "/home/joao/Github/learning_csharp/C#/UTIL/UTIL.csproj": {
-            "projectPath": "/home/joao/Github/learning_csharp/C#/UTIL/UTIL.csproj"
-          }
-        }
+        "projectReferences": {}
       }
     },
     "warningProperties": {

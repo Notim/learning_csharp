@@ -15,11 +15,11 @@ namespace BLL.Users.Services {
 
         public IList<User> List() {
             
-            return this.Query().ToList();
+            return Query().ToList();
         }
 
         public User Charge(int id) {
-            var TempUser = this.Query().FirstOrDefault(x => x.id == id);
+            var TempUser = Query().FirstOrDefault(x => x.id == id);
 
             return TempUser ?? new User();
         }
