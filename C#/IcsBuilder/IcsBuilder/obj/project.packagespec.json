@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/joao/Github/learning_csharp/C#/IcsBuilder/IcsBuilder/IcsBuilder.csproj",
+    "projectUniqueName": "/home/joao/Github/Notim/learning_csharp/C#/IcsBuilder/IcsBuilder/IcsBuilder.csproj",
     "projectName": "IcsBuilder",
-    "projectPath": "/home/joao/Github/learning_csharp/C#/IcsBuilder/IcsBuilder/IcsBuilder.csproj",
-    "outputPath": "/home/joao/Github/learning_csharp/C#/IcsBuilder/IcsBuilder/obj/",
+    "projectPath": "/home/joao/Github/Notim/learning_csharp/C#/IcsBuilder/IcsBuilder/IcsBuilder.csproj",
+    "outputPath": "/home/joao/Github/Notim/learning_csharp/C#/IcsBuilder/IcsBuilder/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp2.2"

@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/joao/Github/learning_csharp/C#/IcsBuilder/IcsBuilder/IcsBuilder.csproj",
+      "projectUniqueName": "/home/joao/Github/Notim/learning_csharp/C#/IcsBuilder/IcsBuilder/IcsBuilder.csproj",
       "projectName": "IcsBuilder",
-      "projectPath": "/home/joao/Github/learning_csharp/C#/IcsBuilder/IcsBuilder/IcsBuilder.csproj",
+      "projectPath": "/home/joao/Github/Notim/learning_csharp/C#/IcsBuilder/IcsBuilder/IcsBuilder.csproj",
       "packagesPath": "/home/joao/.nuget/packages/",
-      "outputPath": "/home/joao/Github/learning_csharp/C#/IcsBuilder/IcsBuilder/obj/",
+      "outputPath": "/home/joao/Github/Notim/learning_csharp/C#/IcsBuilder/IcsBuilder/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/joao/.config/NuGet/NuGet.Config"
