@@ -1,23 +1,9 @@
 using System;
 using System.Text;
-using System.Web.Mvc;
-
-using WEB.App_Infrastructure;
 
 namespace root {
     
-    public class Ics {
-        
-        public string prodId  { get; set; }
-        public string version { get; set; }
-        public string method { get; set; }
-        public string tzid { get; set; }
-            
-        public string summary     { get; set; }
-        public string location    { get; set; }
-        public string description { get; set; }
-        public string fileName    { get; set; }
-    }
+    
     
     public class IcsEvent {
         public DateTime StartDate { get; set; }
@@ -31,8 +17,7 @@ namespace root {
     
     public class IcsBuilderController {
         
-        [HttpGet]
-        public void getIcs() {
+        public string getIcs() {
             DateTime DateStart = DateTime.Now;
             DateTime DateEnd   = DateStart.AddMinutes(105);
 
@@ -73,18 +58,7 @@ namespace root {
 
             string CalendarItem = sb.ToString();
 
-            Response.ClearContent();
-            Response.ClearHeaders();
-            Response.Clear();
-            Response.Buffer      = true;
-            Response.ContentType = "text/calendar";
-            Response.AddHeader("content-length",      CalendarItem.Length.ToString());
-            Response.AddHeader("content-disposition", "attachment; filename=\"" + FileName + ".ics\"");
-            Response.Charset         = "UTF-8";
-            Response.ContentEncoding = Encoding.GetEncoding("UTF-8");
-            Response.Write(CalendarItem);
-            Response.Flush();
-            Response.End();
+            return CalendarItem;
         }
     }
 

@@ -16,6 +16,9 @@
             </e>
           </e>
         </e>
+        <e p="wrappers" t="Include">
+          <e p="Ics.cs" t="Include" />
+        </e>
       </e>
       <e p="IcsBuilder.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
