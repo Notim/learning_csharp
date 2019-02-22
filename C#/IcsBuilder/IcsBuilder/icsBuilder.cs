@@ -2,22 +2,11 @@ using System;
 using System.Text;
 
 namespace root {
-    
-    
-    
-    public class IcsEvent {
-        public DateTime StartDate { get; set; }
-        public DateTime EndDate   { get; set; }
+
+    public class IcsBuilder {
+
+        public string Build() {
             
-        public string summary     { get; set; }
-        public string location    { get; set; }
-        public string description { get; set; }
-        public string fileName    { get; set; }
-    }
-    
-    public class IcsBuilderController {
-        
-        public string getIcs() {
             DateTime DateStart = DateTime.Now;
             DateTime DateEnd   = DateStart.AddMinutes(105);
 
@@ -61,5 +50,4 @@ namespace root {
             return CalendarItem;
         }
     }
-
 }

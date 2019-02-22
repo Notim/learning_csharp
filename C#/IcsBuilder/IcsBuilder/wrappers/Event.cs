@@ -1,30 +1,25 @@
-BEGIN:VCALENDAR
-	PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
-	VERSION:2.0
-	METHOD:PUBLISH
-	X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+namespace root.wrappers {
 
-	BEGIN:VTIMEZONE
+    public class Event {
+        public string classification { get; set; }
+        public string description    { get; set; }
+        public string dtStamp        { get; set; }
+        public string dateEnd        { get; set; }
+        public string dateStart      { get; set; }
+        public string lastModified   { get; set; }
+        public string location       { get; set; }
+        public string priority       { get; set; }
+        public string sequence       { get; set; }
+        public string summary        { get; set; }
+        public string transparency    { get; set; }
+        public string uid    { get; set; }
 
-		TZID:E. South America Standard Time
-		
-		BEGIN:STANDARD
-			DTSTART:16010217T235959
-			RRULE:FREQ=YEARLY;BYDAY=3SA;BYMONTH=2
-			TZOFFSETFROM:-0200
-			TZOFFSETTO:-0300
-		END:STANDARD
+    }
 
-		BEGIN:DAYLIGHT
-			DTSTART:16011103T235959
-			RRULE:FREQ=YEARLY;BYDAY=1SA;BYMONTH=11
-			TZOFFSETFROM:-0300
-			TZOFFSETTO:-0200
-		END:DAYLIGHT
+}
 
-	END:VTIMEZONE
-
-	BEGIN:VEVENT
+/*
+ BEGIN:VEVENT
 		CLASS:PUBLIC
 		CREATED:20190219T143720Z
 		DESCRIPTION: \n
@@ -37,8 +32,9 @@ BEGIN:VCALENDAR
 		SEQUENCE:0
 		SUMMARY;LANGUAGE=pt-br:ADWWA DAD
 		TRANSP:OPAQUE
+
 		UID:040000008200E00074C5B7101A82E00800000000C097E76B47C8D40100000000000000001000000069228D3627028349A83D369930382229
-	
+
 		X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 		X-MICROSOFT-CDO-IMPORTANCE:1
 		X-MICROSOFT-DISALLOW-COUNTER:FALSE
@@ -51,4 +47,4 @@ BEGIN:VCALENDAR
 			DESCRIPTION:Reminder
 		END:VALARM
 	END:VEVENT
-END:VCALENDAR
+ */
