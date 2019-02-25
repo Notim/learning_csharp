@@ -6,7 +6,6 @@
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="FluentMail" t="IncludeRecursive">
         <e p="FluentMail.csproj" t="IncludeRecursive" />
-        <e p="Program.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
