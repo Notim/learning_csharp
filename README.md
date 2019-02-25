@@ -5,6 +5,7 @@ Esse repositório é para colocar todo histórico do que eu desenvolvi em ASP do
 
 -- ORM - Entity Framework Core 2.1 - OK
 -- ICS service
+-- CSV service
 -- FTP service  
 -- SMTP service  
 -- SMS service
