@@ -7,9 +7,11 @@ Esse repositório é para colocar todo histórico do que eu desenvolvi em ASP do
 -- ICS service
 -- CSV service
 -- FTP service  
--- SMTP service  
+-- SMTP service
+-- FTP service
+-- SMTP service - FluentMail
 -- SMS service
--- Auth  
+-- Auth
 -- Cache
 -- DI
 -- FluentValidator
