@@ -1,0 +1,11 @@
+/home/joao/Github/Notim/learning_csharp/C#/FluentMail/FluentMail/obj/Debug/netcoreapp2.2/FluentMail.csprojAssemblyReference.cache
+/home/joao/Github/Notim/learning_csharp/C#/FluentMail/FluentMail/obj/Debug/netcoreapp2.2/FluentMail.csproj.CoreCompileInputs.cache
+/home/joao/Github/Notim/learning_csharp/C#/FluentMail/FluentMail/obj/Debug/netcoreapp2.2/FluentMail.AssemblyInfoInputs.cache
+/home/joao/Github/Notim/learning_csharp/C#/FluentMail/FluentMail/obj/Debug/netcoreapp2.2/FluentMail.AssemblyInfo.cs
+/home/joao/Github/Notim/learning_csharp/C#/FluentMail/FluentMail/bin/Debug/netcoreapp2.2/FluentMail.deps.json
+/home/joao/Github/Notim/learning_csharp/C#/FluentMail/FluentMail/bin/Debug/netcoreapp2.2/FluentMail.runtimeconfig.json
+/home/joao/Github/Notim/learning_csharp/C#/FluentMail/FluentMail/bin/Debug/netcoreapp2.2/FluentMail.runtimeconfig.dev.json
+/home/joao/Github/Notim/learning_csharp/C#/FluentMail/FluentMail/bin/Debug/netcoreapp2.2/FluentMail.dll
+/home/joao/Github/Notim/learning_csharp/C#/FluentMail/FluentMail/bin/Debug/netcoreapp2.2/FluentMail.pdb
+/home/joao/Github/Notim/learning_csharp/C#/FluentMail/FluentMail/obj/Debug/netcoreapp2.2/FluentMail.dll
+/home/joao/Github/Notim/learning_csharp/C#/FluentMail/FluentMail/obj/Debug/netcoreapp2.2/FluentMail.pdb

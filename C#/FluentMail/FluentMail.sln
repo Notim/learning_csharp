@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentMail", "FluentMail\FluentMail.csproj", "{35FC239A-E679-468F-948A-352C66C29983}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{AD4C0281-63E8-45F9-A830-61D423907F44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{35FC239A-E679-468F-948A-352C66C29983}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35FC239A-E679-468F-948A-352C66C29983}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35FC239A-E679-468F-948A-352C66C29983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD4C0281-63E8-45F9-A830-61D423907F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4C0281-63E8-45F9-A830-61D423907F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4C0281-63E8-45F9-A830-61D423907F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4C0281-63E8-45F9-A830-61D423907F44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
