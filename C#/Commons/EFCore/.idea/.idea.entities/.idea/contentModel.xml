@@ -148,33 +148,6 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
       </e>
-      <e p="UTIL" t="IncludeRecursive">
-        <e p="Extensions" t="Include">
-          <e p="IntExtensions.cs" t="Include" />
-          <e p="StringExtensions.cs" t="Include" />
-        </e>
-        <e p="Populate" t="Include">
-          <e p="Data" t="Include">
-            <e p="mailproviders" t="Include" />
-            <e p="names" t="Include" />
-            <e p="surnames" t="Include" />
-          </e>
-          <e p="GenerateNames.cs" t="Include" />
-        </e>
-        <e p="UTIL.csproj" t="IncludeRecursive" />
-        <e p="Wrappers" t="Include">
-          <e p="GenericReturn.cs" t="Include" />
-          <e p="GenericReturnExtensions.cs" t="Include" />
-        </e>
-        <e p="bin" t="ExcludeRecursive" />
-        <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
-            <e p="netcoreapp2.2" t="Include">
-              <e p="UTIL.AssemblyInfo.cs" t="Include" />
-            </e>
-          </e>
-        </e>
-      </e>
       <e p="entities" t="IncludeRecursive">
         <e p="Program.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />

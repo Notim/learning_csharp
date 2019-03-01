@@ -5,6 +5,8 @@ using System.Linq;
 using DAL.Configuration;
 using DAL.Entities;
 
+using UTIL.Wrappers;
+
 namespace program {
     
     class Program {
@@ -15,6 +17,15 @@ namespace program {
         
         static void Main(string[] args) {
             var Program = new Program();
+            var Util = new GenericReturn();
+            Util.SetError(true)
+                .AddMessage("hi")
+                .AddMessage(
+                    "hi",
+                    "hello"
+                );
+    
+            Console.WriteLine(Util.error.ToString(), Util.messageList.FirstOrDefault());
             
             Program.login();
         }

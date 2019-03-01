@@ -16,7 +16,12 @@
 
     <ItemGroup>
       <ProjectReference Include="..\DAL\DAL.csproj" />
-      <ProjectReference Include="..\UTIL\UTIL.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="Utils, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\..\..\Utils\Utils\obj\Debug\netcoreapp2.2\Utils.dll</HintPath>
+      </Reference>
     </ItemGroup>
 
 </Project>

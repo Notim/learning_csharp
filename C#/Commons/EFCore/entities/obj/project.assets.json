@@ -1278,16 +1278,6 @@
         "runtime": {
           "bin/placeholder/DAL.dll": {}
         }
-      },
-      "UTIL/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
-        "compile": {
-          "bin/placeholder/UTIL.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/UTIL.dll": {}
-        }
       }
     }
   },
@@ -4411,11 +4401,6 @@
       "type": "project",
       "path": "../DAL/DAL.csproj",
       "msbuildProject": "../DAL/DAL.csproj"
-    },
-    "UTIL/1.0.0": {
-      "type": "project",
-      "path": "../UTIL/UTIL.csproj",
-      "msbuildProject": "../UTIL/UTIL.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4427,8 +4412,7 @@
       "Microsoft.EntityFrameworkCore.Sqlite >= 3.0.0-preview.19074.3",
       "Microsoft.EntityFrameworkCore.Sqlite.Core >= 3.0.0-preview.19074.3",
       "Microsoft.NETCore.App >= 2.2.0",
-      "System.Data.SQLite.Core >= 1.0.109.2",
-      "UTIL >= 1.0.0"
+      "System.Data.SQLite.Core >= 1.0.109.2"
     ]
   },
   "packageFolders": {
@@ -4444,7 +4428,7 @@
       "outputPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/entities/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/joao/.config/NuGet/NuGet.Config"
+        "/home/joao/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -4457,9 +4441,6 @@
           "projectReferences": {
             "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/DAL/DAL.csproj": {
               "projectPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/DAL/DAL.csproj"
-            },
-            "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/UTIL/UTIL.csproj": {
-              "projectPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/UTIL/UTIL.csproj"
             }
           }
         }

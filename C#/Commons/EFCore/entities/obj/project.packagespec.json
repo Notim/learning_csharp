@@ -14,9 +14,6 @@
         "projectReferences": {
           "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/DAL/DAL.csproj": {
             "projectPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/DAL/DAL.csproj"
-          },
-          "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/UTIL/UTIL.csproj": {
-            "projectPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/UTIL/UTIL.csproj"
           }
         }
       }

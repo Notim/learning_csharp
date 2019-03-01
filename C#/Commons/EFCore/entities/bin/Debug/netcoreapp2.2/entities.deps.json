@@ -15,7 +15,7 @@
           "Microsoft.EntityFrameworkCore.Sqlite": "3.0.0-preview.19074.3",
           "Microsoft.EntityFrameworkCore.Sqlite.Core": "3.0.0-preview.19074.3",
           "System.Data.SQLite.Core": "1.0.109.2",
-          "UTIL": "1.0.0"
+          "Utils": "1.0.0.0"
         },
         "runtime": {
           "entities.dll": {}
@@ -889,9 +889,12 @@
           "DAL.dll": {}
         }
       },
-      "UTIL/1.0.0": {
+      "Utils/1.0.0.0": {
         "runtime": {
-          "UTIL.dll": {}
+          "Utils.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -1446,8 +1449,8 @@
       "serviceable": false,
       "sha512": ""
     },
-    "UTIL/1.0.0": {
-      "type": "project",
+    "Utils/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

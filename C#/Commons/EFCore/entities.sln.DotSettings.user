@@ -7,4 +7,5 @@
 	<s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/AutoDetectedNamingRules/=TypesAndNamespaces/@EntryIndexedValue">&lt;Policy Inspect="True" Prefix="" Suffix="" Style="AaBb" /&gt;</s:String>
 	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
   &lt;Assembly Path="/home/joao/.nuget/packages/microsoft.entityframeworkcore.design/3.0.0-preview.19074.3/lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll" /&gt;
+  &lt;Assembly Path="/home/joao/Github/Notim/learning_csharp/C#/Utils/Utils/obj/Debug/netcoreapp2.2/Utils.dll" /&gt;
 &lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>

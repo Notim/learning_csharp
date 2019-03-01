@@ -4404,7 +4404,7 @@
       "outputPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/DAL/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/joao/.config/NuGet/NuGet.Config"
+        "/home/joao/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

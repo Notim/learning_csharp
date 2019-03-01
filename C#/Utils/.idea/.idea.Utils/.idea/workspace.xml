@@ -1,77 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c2f981d-a073-487f-a1c6-0c541478e59a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/.idea/.idea.UTIL/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/UTIL/.idea/.idea.UTIL/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/.idea/.idea.UTIL/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/.idea/.idea.UTIL/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/.idea/.idea.UTIL/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/.idea/.idea.UTIL/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/.idea/.idea.UTIL/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/.idea/.idea.UTIL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/UTIL/.idea/.idea.UTIL/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/.idea/.idea.UTIL/riderModule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL.sln.DotSettings.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL/Extensions/IntExtensions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL/Extensions/StringExtensions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL/Populate/Data/mailproviders" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL/Populate/Data/names" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL/Populate/Data/surnames" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL/Populate/GenerateNames.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL/UTIL.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL/Wrappers/GenericReturn.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL/Wrappers/GenericReturnExtensions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL/bin/Debug/netcoreapp2.2/UTIL.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL/obj/Debug/netcoreapp2.2/UTIL.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL/obj/Debug/netcoreapp2.2/UTIL.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL/obj/Debug/netcoreapp2.2/UTIL.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL/obj/Debug/netcoreapp2.2/UTIL.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL/obj/Debug/netcoreapp2.2/UTIL.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL/obj/Debug/netcoreapp2.2/UTIL.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL/obj/UTIL.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL/obj/UTIL.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL/obj/UTIL.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/UTIL/UTIL/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/.idea/.idea.telephoneBook/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/.idea/.idea.telephoneBook/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/.idea/.idea.telephoneBook/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/.idea/.idea.telephoneBook/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/.idea/.idea.telephoneBook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/.idea/.idea.telephoneBook/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/API/obj/API.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/API/obj/API.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/API/obj/API.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/API/obj/API.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/API/obj/Debug/netcoreapp2.2/API.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/API/obj/Debug/netcoreapp2.2/API.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/API/obj/Debug/netcoreapp2.2/API.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/API/obj/Debug/netcoreapp2.2/API.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/API/obj/Debug/netcoreapp2.2/API.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/API/obj/Debug/netcoreapp2.2/API.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/API/obj/Debug/netcoreapp2.2/API.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/API/obj/Debug/netcoreapp2.2/API.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/API/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/API/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/API/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/API/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/BLL/obj/BLL.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/BLL/obj/BLL.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/BLL/obj/BLL.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/BLL/obj/BLL.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/BLL/obj/Debug/netcoreapp2.2/BLL.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/BLL/obj/Debug/netcoreapp2.2/BLL.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/BLL/obj/Debug/netcoreapp2.2/BLL.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/BLL/obj/Debug/netcoreapp2.2/BLL.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/BLL/obj/Debug/netcoreapp2.2/BLL.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/BLL/obj/Debug/netcoreapp2.2/BLL.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/BLL/obj/Debug/netcoreapp2.2/BLL.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/BLL/obj/Debug/netcoreapp2.2/BLL.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/BLL/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/BLL/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/BLL/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/BLL/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/DAL/obj/DAL.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/DAL/obj/DAL.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/DAL/obj/DAL.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/DAL/obj/DAL.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/DAL/obj/Debug/netcoreapp2.2/DAL.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/DAL/obj/Debug/netcoreapp2.2/DAL.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/DAL/obj/Debug/netcoreapp2.2/DAL.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/DAL/obj/Debug/netcoreapp2.2/DAL.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/DAL/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/DAL/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/DAL/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/DAL/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/UTIL/Populate/Data/MailProviders.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/UTIL/Populate/Data/MailProviders.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/UTIL/Populate/Data/mailproviders" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/UTIL/Populate/Data/names" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/UTIL/Populate/Data/surnames" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/UTIL/Wrappers/GenericReturn.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/UTIL/Wrappers/GenericReturn.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/UTIL/Wrappers/GenericReturnExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/UTIL/Wrappers/GenericReturnExtensions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/UTIL/obj/Debug/netcoreapp2.2/UTIL.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/UTIL/obj/Debug/netcoreapp2.2/UTIL.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/UTIL/obj/Debug/netcoreapp2.2/UTIL.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/UTIL/obj/Debug/netcoreapp2.2/UTIL.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/UTIL/obj/UTIL.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/UTIL/obj/UTIL.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/UTIL/obj/UTIL.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/UTIL/obj/UTIL.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/UTIL/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/UTIL/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/UTIL/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/UTIL/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Commons/telephoneBook/telephoneBook.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/../Commons/telephoneBook/telephoneBook.sln.DotSettings.user" afterDir="false" />
-    </list>
+    <list default="true" id="9c2f981d-a073-487f-a1c6-0c541478e59a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,21 +35,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Utils/Wrappers/GenericReturn.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+            <state>
               <folding>
-                <marker date="1551455390433" expanded="false" signature="6:105" ph="..." />
-                <marker date="1551455390433" expanded="true" signature="131:2233" ph="{...}" />
-                <marker date="1551455390433" expanded="true" signature="165:791" ph="{...}" />
-                <marker date="1551455390433" expanded="true" signature="451:785" ph="{...}" />
-                <marker date="1551455390433" expanded="true" signature="555:620" ph="{...}" />
-                <marker date="1551455390433" expanded="true" signature="690:744" ph="{...}" />
-                <marker date="1551455390433" expanded="true" signature="827:2230" ph="{...}" />
-                <marker date="1551455390433" expanded="true" signature="856:2224" ph="{...}" />
-                <marker date="1551455390433" expanded="true" signature="870:991" ph="/* a classe GenericReturn tem tres jeitos de usar ... */" />
-                <marker date="1551455390433" expanded="true" signature="1408:1485" ph="{...}" />
-                <marker date="1551455390433" expanded="true" signature="1507:1556" ph="{...}" />
-                <marker date="1551455390433" expanded="true" signature="2028:2177" ph="{...}" />
+                <marker date="1551456086850" expanded="true" signature="6:52" ph="..." />
+                <marker date="1551456086850" expanded="true" signature="78:2180" ph="{...}" />
+                <marker date="1551456086850" expanded="true" signature="112:738" ph="{...}" />
+                <marker date="1551456086850" expanded="true" signature="398:732" ph="{...}" />
+                <marker date="1551456086850" expanded="true" signature="502:567" ph="{...}" />
+                <marker date="1551456086850" expanded="true" signature="637:691" ph="{...}" />
+                <marker date="1551456086850" expanded="true" signature="774:2177" ph="{...}" />
+                <marker date="1551456086850" expanded="true" signature="803:2171" ph="{...}" />
+                <marker date="1551456086850" expanded="true" signature="817:938" ph="/* a classe GenericReturn tem tres jeitos de usar ... */" />
+                <marker date="1551456086850" expanded="true" signature="1355:1432" ph="{...}" />
+                <marker date="1551456086850" expanded="true" signature="1454:1503" ph="{...}" />
+                <marker date="1551456086850" expanded="true" signature="1975:2124" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -128,8 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Utils/Wrappers/GenericReturnExtensions.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+            <state relative-caret-position="-99">
+              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
               <folding>
                 <marker date="1551455582133" expanded="true" signature="44:815" ph="{...}" />
                 <marker date="1551455582133" expanded="true" signature="95:812" ph="{...}" />
@@ -161,8 +90,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Utils/Populate/GenerateNames.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+            <state relative-caret-position="688">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
               <folding>
                 <marker date="1551455390420" expanded="false" signature="6:93" ph="..." />
                 <marker date="1551455390420" expanded="true" signature="118:1571" ph="{...}" />
@@ -177,15 +106,43 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Utils/Populate/Data/MailProviders.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="113" column="1" lean-forward="true" selection-start-line="113" selection-start-column="1" selection-end-line="113" selection-end-column="1" />
+            <state relative-caret-position="221">
+              <caret line="110" column="9" lean-forward="true" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
               <folding>
                 <marker date="1551455890223" expanded="true" signature="58:4333" ph="{...}" />
                 <marker date="1551455890223" expanded="true" signature="100:4330" ph="{...}" />
                 <marker date="1551455890223" expanded="true" signature="181:4324" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Utils/Populate/Data/Names.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="413" column="34" selection-start-line="413" selection-start-column="34" selection-end-line="413" selection-end-column="34" />
+              <folding>
+                <marker date="1551456003450" expanded="true" signature="58:15396" ph="{...}" />
+                <marker date="1551456003450" expanded="true" signature="92:15393" ph="{...}" />
+                <marker date="1551456003450" expanded="true" signature="171:15387" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Utils/Populate/Data/SurNames.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="137" column="31" selection-start-line="137" selection-start-column="31" selection-end-line="137" selection-end-column="31" />
+              <folding>
+                <marker date="1551456027523" expanded="true" signature="58:8485" ph="{...}" />
+                <marker date="1551456027523" expanded="true" signature="95:8482" ph="{...}" />
+                <marker date="1551456027523" expanded="true" signature="179:8476" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -199,6 +156,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Utils/Extensions/IntExtensions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Utils/Extensions/StringExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Utils/Populate/Data/Names.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Utils/Populate/Data/SurNames.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Utils/Populate/Data/MailProviders.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Utils/Populate/GenerateNames.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Utils/Wrappers/GenericReturn.cs" root0="FORCE_HIGHLIGHTING" />
@@ -210,6 +169,9 @@
         <option value="$PROJECT_DIR$/Utils/Class1.cs" />
         <option value="$PROJECT_DIR$/Utils/Wrappers/GenericReturnExtensions.cs" />
         <option value="$PROJECT_DIR$/Utils/Populate/Data/MailProviders.cs" />
+        <option value="$PROJECT_DIR$/Utils/Populate/Data/Names.cs" />
+        <option value="$PROJECT_DIR$/Utils/Populate/Data/SurNames.cs" />
+        <option value="$PROJECT_DIR$/Utils/Wrappers/GenericReturn.cs" />
       </list>
     </option>
   </component>
@@ -275,6 +237,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Commons/EFCore/entities.sln" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
@@ -301,12 +264,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551455307492</updated>
-      <workItem from="1551455309345" duration="578000" />
+      <workItem from="1551455309345" duration="773000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="578000" />
+    <option name="totallyTimeSpent" value="773000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -324,16 +287,16 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3298969" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Build" visible="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Build" weight="0.3298969" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -379,16 +342,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Utils/Extensions/StringExtensions.cs">
+    <entry file="file://$PROJECT_DIR$/Utils/Populate/Data/Names.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="109">
+          <caret line="413" column="34" selection-start-line="413" selection-start-column="34" selection-end-line="413" selection-end-column="34" />
           <folding>
-            <marker date="1551455390373" expanded="true" signature="28:409" ph="{...}" />
-            <marker date="1551455390373" expanded="true" signature="72:406" ph="{...}" />
-            <marker date="1551455390373" expanded="true" signature="125:173" ph="{...}" />
-            <marker date="1551455390373" expanded="true" signature="232:283" ph="{...}" />
-            <marker date="1551455390373" expanded="true" signature="339:399" ph="{...}" />
+            <marker date="1551456003450" expanded="true" signature="58:15396" ph="{...}" />
+            <marker date="1551456003450" expanded="true" signature="92:15393" ph="{...}" />
+            <marker date="1551456003450" expanded="true" signature="171:15387" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -404,10 +365,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/Extensions/StringExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <marker date="1551455390373" expanded="true" signature="28:409" ph="{...}" />
+            <marker date="1551455390373" expanded="true" signature="72:406" ph="{...}" />
+            <marker date="1551455390373" expanded="true" signature="125:173" ph="{...}" />
+            <marker date="1551455390373" expanded="true" signature="232:283" ph="{...}" />
+            <marker date="1551455390373" expanded="true" signature="339:399" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/Populate/Data/MailProviders.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="110" column="9" lean-forward="true" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
+          <folding>
+            <marker date="1551455890223" expanded="true" signature="58:4333" ph="{...}" />
+            <marker date="1551455890223" expanded="true" signature="100:4330" ph="{...}" />
+            <marker date="1551455890223" expanded="true" signature="181:4324" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/Wrappers/GenericReturn.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1551456086850" expanded="true" signature="6:52" ph="..." />
+            <marker date="1551456086850" expanded="true" signature="78:2180" ph="{...}" />
+            <marker date="1551456086850" expanded="true" signature="112:738" ph="{...}" />
+            <marker date="1551456086850" expanded="true" signature="398:732" ph="{...}" />
+            <marker date="1551456086850" expanded="true" signature="502:567" ph="{...}" />
+            <marker date="1551456086850" expanded="true" signature="637:691" ph="{...}" />
+            <marker date="1551456086850" expanded="true" signature="774:2177" ph="{...}" />
+            <marker date="1551456086850" expanded="true" signature="803:2171" ph="{...}" />
+            <marker date="1551456086850" expanded="true" signature="817:938" ph="/* a classe GenericReturn tem tres jeitos de usar ... */" />
+            <marker date="1551456086850" expanded="true" signature="1355:1432" ph="{...}" />
+            <marker date="1551456086850" expanded="true" signature="1454:1503" ph="{...}" />
+            <marker date="1551456086850" expanded="true" signature="1975:2124" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Utils/Wrappers/GenericReturnExtensions.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        <state relative-caret-position="-99">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
           <folding>
             <marker date="1551455582133" expanded="true" signature="44:815" ph="{...}" />
             <marker date="1551455582133" expanded="true" signature="95:812" ph="{...}" />
@@ -419,31 +426,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Utils/Wrappers/GenericReturn.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
-          <folding>
-            <marker date="1551455390433" expanded="false" signature="6:105" ph="..." />
-            <marker date="1551455390433" expanded="true" signature="131:2233" ph="{...}" />
-            <marker date="1551455390433" expanded="true" signature="165:791" ph="{...}" />
-            <marker date="1551455390433" expanded="true" signature="451:785" ph="{...}" />
-            <marker date="1551455390433" expanded="true" signature="555:620" ph="{...}" />
-            <marker date="1551455390433" expanded="true" signature="690:744" ph="{...}" />
-            <marker date="1551455390433" expanded="true" signature="827:2230" ph="{...}" />
-            <marker date="1551455390433" expanded="true" signature="856:2224" ph="{...}" />
-            <marker date="1551455390433" expanded="true" signature="870:991" ph="/* a classe GenericReturn tem tres jeitos de usar ... */" />
-            <marker date="1551455390433" expanded="true" signature="1408:1485" ph="{...}" />
-            <marker date="1551455390433" expanded="true" signature="1507:1556" ph="{...}" />
-            <marker date="1551455390433" expanded="true" signature="2028:2177" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Utils/Populate/GenerateNames.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        <state relative-caret-position="688">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
           <folding>
             <marker date="1551455390420" expanded="false" signature="6:93" ph="..." />
             <marker date="1551455390420" expanded="true" signature="118:1571" ph="{...}" />
@@ -457,14 +443,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Utils/Populate/Data/MailProviders.cs">
+    <entry file="file://$PROJECT_DIR$/Utils/Populate/Data/SurNames.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="113" column="1" lean-forward="true" selection-start-line="113" selection-start-column="1" selection-end-line="113" selection-end-column="1" />
+        <state relative-caret-position="176">
+          <caret line="137" column="31" selection-start-line="137" selection-start-column="31" selection-end-line="137" selection-end-column="31" />
           <folding>
-            <marker date="1551455890223" expanded="true" signature="58:4333" ph="{...}" />
-            <marker date="1551455890223" expanded="true" signature="100:4330" ph="{...}" />
-            <marker date="1551455890223" expanded="true" signature="181:4324" ph="{...}" />
+            <marker date="1551456027523" expanded="true" signature="58:8485" ph="{...}" />
+            <marker date="1551456027523" expanded="true" signature="95:8482" ph="{...}" />
+            <marker date="1551456027523" expanded="true" signature="179:8476" ph="{...}" />
           </folding>
         </state>
       </provider>
