@@ -53,7 +53,11 @@ namespace UTIL.Wrappers {
             // usando metodos extensions fluent
             GenReturn = GenReturn.SetError(true)
                                  .AddMessage("Value1")
-                                 .AddMessage("Value2")
+                                 .AddMessage(
+                                     "Value2", 
+                                     "value3", 
+                                     "value4"
+                                 )
                                  .AddInfo(
                                      new {
                                          value1 = 5,

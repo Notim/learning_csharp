@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/UTIL/UTIL.csproj",
-    "projectName": "UTIL",
-    "projectPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/UTIL/UTIL.csproj",
-    "outputPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/UTIL/obj/",
+    "projectUniqueName": "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/Handlers/Handlers.fsproj",
+    "projectName": "Handlers",
+    "projectPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/Handlers/Handlers.fsproj",
+    "outputPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/Handlers/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp2.2"
@@ -13,16 +13,15 @@
       "netcoreapp2.2": {
         "projectReferences": {}
       }
-    },
-    "warningProperties": {
-      "warnAsError": [
-        "NU1605"
-      ]
     }
   },
   "frameworks": {
     "netcoreapp2.2": {
       "dependencies": {
+        "FSharp.Core": {
+          "target": "Package",
+          "version": "[4.5.2, )"
+        },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",
           "target": "Package",

@@ -1,3 +1,5 @@
+using System.Linq;
+
 namespace UTIL.Wrappers {
 
     public static class GenericReturnExtensions {
@@ -9,6 +11,15 @@ namespace UTIL.Wrappers {
 
         public static GenericReturn AddMessage(this GenericReturn GenRet, string message) {
             GenRet.messageList.Add(message);
+
+            return GenRet;
+        }
+        
+        public static GenericReturn AddMessage(this GenericReturn GenRet, params string[] messages) {
+            foreach (var message in messages) {
+             
+                GenRet.messageList.Add(message);
+            }
 
             return GenRet;
         }

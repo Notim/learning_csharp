@@ -4437,11 +4437,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/joao/Github/learning_csharp/C#/entities/entities/entities.csproj",
+      "projectUniqueName": "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/entities/entities.csproj",
       "projectName": "entities",
-      "projectPath": "/home/joao/Github/learning_csharp/C#/entities/entities/entities.csproj",
+      "projectPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/entities/entities.csproj",
       "packagesPath": "/home/joao/.nuget/packages/",
-      "outputPath": "/home/joao/Github/learning_csharp/C#/entities/entities/obj/",
+      "outputPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/entities/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/joao/.config/NuGet/NuGet.Config"
@@ -4455,11 +4455,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/home/joao/Github/learning_csharp/C#/entities/DAL/DAL.csproj": {
-              "projectPath": "/home/joao/Github/learning_csharp/C#/entities/DAL/DAL.csproj"
+            "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/DAL/DAL.csproj": {
+              "projectPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/DAL/DAL.csproj"
             },
-            "/home/joao/Github/learning_csharp/C#/entities/UTIL/UTIL.csproj": {
-              "projectPath": "/home/joao/Github/learning_csharp/C#/entities/UTIL/UTIL.csproj"
+            "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/UTIL/UTIL.csproj": {
+              "projectPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/UTIL/UTIL.csproj"
             }
           }
         }

@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTIL", "UTIL\UTIL.csproj", "{49D7DDBF-C31C-4838-B560-F6EB41C8E468}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Handlers", "Handlers\Handlers.fsproj", "{454C8376-3E75-46F9-9695-098272845713}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{49D7DDBF-C31C-4838-B560-F6EB41C8E468}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49D7DDBF-C31C-4838-B560-F6EB41C8E468}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49D7DDBF-C31C-4838-B560-F6EB41C8E468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{454C8376-3E75-46F9-9695-098272845713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454C8376-3E75-46F9-9695-098272845713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454C8376-3E75-46F9-9695-098272845713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454C8376-3E75-46F9-9695-098272845713}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
