@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="$USER_HOME$/.Rider2018.3/system/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_telephoneBook.-954741266.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_telephoneBook.-1485412705.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="API" t="IncludeRecursive">
         <e p="API.csproj" t="IncludeRecursive" />
@@ -102,9 +102,6 @@
             <e p="MailProviders.cs" t="Include" />
             <e p="Names.cs" t="Include" />
             <e p="SurNames.cs" t="Include" />
-            <e p="mailproviders" t="Include" />
-            <e p="names" t="Include" />
-            <e p="surnames" t="Include" />
           </e>
           <e p="GenerateNames.cs" t="Include" />
         </e>

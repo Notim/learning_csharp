@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/joao/Github/learning_csharp/C#/telephoneBook/API/API.csproj",
+    "projectUniqueName": "/home/joao/Github/Notim/learning_csharp/C#/Commons/telephoneBook/API/API.csproj",
     "projectName": "API",
-    "projectPath": "/home/joao/Github/learning_csharp/C#/telephoneBook/API/API.csproj",
-    "outputPath": "/home/joao/Github/learning_csharp/C#/telephoneBook/API/obj/",
+    "projectPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/telephoneBook/API/API.csproj",
+    "outputPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/telephoneBook/API/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp2.2"
@@ -12,11 +12,11 @@
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {
-          "/home/joao/Github/learning_csharp/C#/telephoneBook/BLL/BLL.csproj": {
-            "projectPath": "/home/joao/Github/learning_csharp/C#/telephoneBook/BLL/BLL.csproj"
+          "/home/joao/Github/Notim/learning_csharp/C#/Commons/telephoneBook/BLL/BLL.csproj": {
+            "projectPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/telephoneBook/BLL/BLL.csproj"
           },
-          "/home/joao/Github/learning_csharp/C#/telephoneBook/UTIL/UTIL.csproj": {
-            "projectPath": "/home/joao/Github/learning_csharp/C#/telephoneBook/UTIL/UTIL.csproj"
+          "/home/joao/Github/Notim/learning_csharp/C#/Commons/telephoneBook/UTIL/UTIL.csproj": {
+            "projectPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/telephoneBook/UTIL/UTIL.csproj"
           }
         }
       }

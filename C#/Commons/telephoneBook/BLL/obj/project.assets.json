@@ -3516,11 +3516,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/joao/Github/learning_csharp/C#/telephoneBook/BLL/BLL.csproj",
+      "projectUniqueName": "/home/joao/Github/Notim/learning_csharp/C#/Commons/telephoneBook/BLL/BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "/home/joao/Github/learning_csharp/C#/telephoneBook/BLL/BLL.csproj",
+      "projectPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/telephoneBook/BLL/BLL.csproj",
       "packagesPath": "/home/joao/.nuget/packages/",
-      "outputPath": "/home/joao/Github/learning_csharp/C#/telephoneBook/BLL/obj/",
+      "outputPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/telephoneBook/BLL/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/joao/.config/NuGet/NuGet.Config"
@@ -3534,8 +3534,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/home/joao/Github/learning_csharp/C#/telephoneBook/DAL/DAL.csproj": {
-              "projectPath": "/home/joao/Github/learning_csharp/C#/telephoneBook/DAL/DAL.csproj"
+            "/home/joao/Github/Notim/learning_csharp/C#/Commons/telephoneBook/DAL/DAL.csproj": {
+              "projectPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/telephoneBook/DAL/DAL.csproj"
             }
           }
         }

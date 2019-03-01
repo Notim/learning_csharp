@@ -2,37 +2,9 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="$USER_HOME$/.Rider2018.3/system/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_UTIL.1641865618.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_UTIL.-1372195709.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
-      <e p="UTIL" t="IncludeRecursive">
-        <e p="Extensions" t="Include">
-          <e p="IntExtensions.cs" t="Include" />
-          <e p="StringExtensions.cs" t="Include" />
-        </e>
-        <e p="Populate" t="Include">
-          <e p="Data" t="Include">
-            <e p="mailproviders" t="Include" />
-            <e p="names" t="Include" />
-            <e p="surnames" t="Include" />
-          </e>
-          <e p="GenerateNames.cs" t="Include" />
-        </e>
-        <e p="UTIL.csproj" t="IncludeRecursive" />
-        <e p="Wrappers" t="Include">
-          <e p="GenericReturn.cs" t="Include" />
-          <e p="GenericReturnExtensions.cs" t="Include" />
-        </e>
-        <e p="bin" t="ExcludeRecursive" />
-        <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
-            <e p="netcoreapp2.2" t="Include">
-              <e p="UTIL.AssemblyInfo.cs" t="Include" />
-            </e>
-          </e>
-        </e>
-      </e>
       <e p="UTIL.sln" t="IncludeFlat" />
-      <e p="packages" t="ExcludeRecursive" />
     </e>
   </component>
 </project>

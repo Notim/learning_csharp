@@ -1,0 +1,9 @@
+/home/joao/Github/Notim/learning_csharp/C#/Utils/Utils/bin/Debug/netcoreapp2.2/Utils.deps.json
+/home/joao/Github/Notim/learning_csharp/C#/Utils/Utils/bin/Debug/netcoreapp2.2/Utils.dll
+/home/joao/Github/Notim/learning_csharp/C#/Utils/Utils/bin/Debug/netcoreapp2.2/Utils.pdb
+/home/joao/Github/Notim/learning_csharp/C#/Utils/Utils/obj/Debug/netcoreapp2.2/Utils.csprojAssemblyReference.cache
+/home/joao/Github/Notim/learning_csharp/C#/Utils/Utils/obj/Debug/netcoreapp2.2/Utils.csproj.CoreCompileInputs.cache
+/home/joao/Github/Notim/learning_csharp/C#/Utils/Utils/obj/Debug/netcoreapp2.2/Utils.AssemblyInfoInputs.cache
+/home/joao/Github/Notim/learning_csharp/C#/Utils/Utils/obj/Debug/netcoreapp2.2/Utils.AssemblyInfo.cs
+/home/joao/Github/Notim/learning_csharp/C#/Utils/Utils/obj/Debug/netcoreapp2.2/Utils.dll
+/home/joao/Github/Notim/learning_csharp/C#/Utils/Utils/obj/Debug/netcoreapp2.2/Utils.pdb

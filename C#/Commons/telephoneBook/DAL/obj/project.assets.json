@@ -3498,11 +3498,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/joao/Github/learning_csharp/C#/telephoneBook/DAL/DAL.csproj",
+      "projectUniqueName": "/home/joao/Github/Notim/learning_csharp/C#/Commons/telephoneBook/DAL/DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "/home/joao/Github/learning_csharp/C#/telephoneBook/DAL/DAL.csproj",
+      "projectPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/telephoneBook/DAL/DAL.csproj",
       "packagesPath": "/home/joao/.nuget/packages/",
-      "outputPath": "/home/joao/Github/learning_csharp/C#/telephoneBook/DAL/obj/",
+      "outputPath": "/home/joao/Github/Notim/learning_csharp/C#/Commons/telephoneBook/DAL/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/joao/.config/NuGet/NuGet.Config"
