@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a0d6a42-bec3-4ce1-a605-52f4db2af45a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mongo.db/Core/MongoDataContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo.db/Core/MongoOptions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo.db/Core/MongoRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo.db/Entities/Locator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo.db/Entities/Person.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UTIL/.idea/.idea.UTIL/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UTIL/.idea/.idea.UTIL/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mongo.db/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+              <folding>
+                <marker date="1561996026896" expanded="true" signature="6:122" ph="..." />
+                <marker date="1561996026896" expanded="true" signature="143:1997" ph="{...}" />
+                <marker date="1561996026896" expanded="true" signature="184:359" ph="{...}" />
+                <marker date="1561996026896" expanded="true" signature="234:353" ph="{...}" />
+                <marker date="1561996026896" expanded="true" signature="385:1995" ph="{...}" />
+                <marker date="1561996026896" expanded="true" signature="416:1989" ph="{...}" />
+                <marker date="1561996026896" expanded="true" signature="499:642" ph="{...}" />
+                <marker date="1561996026896" expanded="true" signature="795:1020" ph="{...}" />
+                <marker date="1561996026896" expanded="true" signature="1109:1330" ph="{...}" />
+                <marker date="1561996026896" expanded="true" signature="1886:1964" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CDE64D88-9F35-4862-98A0-A3C52BBE6ED8/44/48628bfa/IMongoCollectionExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="787" column="32" lean-forward="true" selection-start-line="786" selection-start-column="6" selection-end-line="787" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mongo.db/Entities/Locator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <marker date="1561737729050" expanded="true" signature="6:65" ph="..." />
+                <marker date="1561737729050" expanded="true" signature="95:494" ph="{...}" />
+                <marker date="1561737729050" expanded="true" signature="122:492" ph="{...}" />
+                <marker date="1561737729050" expanded="true" signature="390:486" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mongo.db/Entities/Person.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+              <folding>
+                <marker date="1561737674906" expanded="true" signature="6:65" ph="..." />
+                <marker date="1561737674906" expanded="true" signature="95:497" ph="{...}" />
+                <marker date="1561737674906" expanded="true" signature="122:494" ph="{...}" />
+                <marker date="1561737674906" expanded="true" signature="391:488" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mongo.db/Core/MongoDataContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <folding>
+                <marker date="1561995682500" expanded="true" signature="6:41" ph="..." />
+                <marker date="1561995682500" expanded="true" signature="67:685" ph="{...}" />
+                <marker date="1561995682500" expanded="true" signature="104:682" ph="{...}" />
+                <marker date="1561995682500" expanded="true" signature="284:422" ph="{...}" />
+                <marker date="1561995682500" expanded="true" signature="478:562" ph="{...}" />
+                <marker date="1561995682500" expanded="true" signature="612:676" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mongo.db/Core/MongoRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding>
+                <marker date="1561995699326" expanded="true" signature="6:67" ph="..." />
+                <marker date="1561995699326" expanded="true" signature="93:491" ph="{...}" />
+                <marker date="1561995699326" expanded="true" signature="129:488" ph="{...}" />
+                <marker date="1561995699326" expanded="true" signature="251:303" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mongo.db/Core/MongoOptions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <marker date="1561995433716" expanded="true" signature="24:168" ph="{...}" />
+                <marker date="1561995433716" expanded="true" signature="57:165" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CDE64D88-9F35-4862-98A0-A3C52BBE6ED8/d9/ebbc0b13/MongoCollectionBase`1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="250" column="24" selection-start-line="250" selection-start-column="24" selection-end-line="250" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/mongo.db/Core/MongoDataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CDE64D88-9F35-4862-98A0-A3C52BBE6ED8/bf/847bcc38/MongoClientBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FEA0F8C7-5335-4307-B570-E93E87157609/58/783bf66e/BsonExtensionMethods.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/mongo.db/Entities/Locator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/mongo.db/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CDE64D88-9F35-4862-98A0-A3C52BBE6ED8/d9/ebbc0b13/MongoCollectionBase`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CDE64D88-9F35-4862-98A0-A3C52BBE6ED8/ae/22acd37e/IMongoCollection`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CDE64D88-9F35-4862-98A0-A3C52BBE6ED8/f7/f638cce2/IMongoClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CDE64D88-9F35-4862-98A0-A3C52BBE6ED8/82/34eabe38/MongoCollectionImpl`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CDE64D88-9F35-4862-98A0-A3C52BBE6ED8/7c/8f83b1aa/MongoClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CDE64D88-9F35-4862-98A0-A3C52BBE6ED8/44/48628bfa/IMongoCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/mongo.db/Core/MongoOptions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/mongo.db/Entities/Person.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/mongo.db/Core/MongoRepository.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mongo.db/Entities/Person.cs" />
+        <option value="$PROJECT_DIR$/mongo.db/Entities/Locator.cs" />
+        <option value="$PROJECT_DIR$/mongo.db/Core.cs" />
+        <option value="$PROJECT_DIR$/mongo.db/Core/MongoOptions.cs" />
+        <option value="$PROJECT_DIR$/mongo.db/Core/MongoDataContext.cs" />
+        <option value="$PROJECT_DIR$/mongo.db/Core/Repository.cs" />
+        <option value="$PROJECT_DIR$/mongo.db/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.mongo.db/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="27" />
+    <option name="y" value="38" />
+    <option name="width" value="1314" />
+    <option name="height" value="681" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="mongo.db" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="mongo.db" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="mongo.db" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="mongo.db" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="mongo.db" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Core" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Sinctec/Sinclog.microservices/sinclog.microservices/Integracoes/MeliAuthorization/MeliAuthorization.sln" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/mongo.db/bin/Debug/netcoreapp2.2/mongo.db.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mongo.db" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/mongo.db/mongo.db.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a0d6a42-bec3-4ce1-a605-52f4db2af45a" name="Default Changelist" comment="" />
+      <created>1561478621640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561478621640</updated>
+      <workItem from="1561478628102" duration="43000" />
+      <workItem from="1561478910874" duration="8308000" />
+      <workItem from="1561650914741" duration="2459000" />
+      <workItem from="1561673730650" duration="2892000" />
+      <workItem from="1561737414447" duration="4863000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18565000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="26" width="1368" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21363637" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Change Signature" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.328125" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.51903117" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.38062283" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" visible="true" weight="0.328125" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.328125" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CDE64D88-9F35-4862-98A0-A3C52BBE6ED8/82/34eabe38/MongoCollectionImpl`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CDE64D88-9F35-4862-98A0-A3C52BBE6ED8/ae/22acd37e/IMongoCollection`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CDE64D88-9F35-4862-98A0-A3C52BBE6ED8/f7/f638cce2/IMongoClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CDE64D88-9F35-4862-98A0-A3C52BBE6ED8/bf/847bcc38/MongoClientBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CDE64D88-9F35-4862-98A0-A3C52BBE6ED8/7c/8f83b1aa/MongoClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CDE64D88-9F35-4862-98A0-A3C52BBE6ED8/d9/ebbc0b13/MongoCollectionBase`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="250" column="24" selection-start-line="250" selection-start-column="24" selection-end-line="250" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CDE64D88-9F35-4862-98A0-A3C52BBE6ED8/44/48628bfa/IMongoCollectionExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="787" column="32" lean-forward="true" selection-start-line="786" selection-start-column="6" selection-end-line="787" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FEA0F8C7-5335-4307-B570-E93E87157609/58/783bf66e/BsonExtensionMethods.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="136" column="44" selection-start-line="136" selection-start-column="32" selection-end-line="136" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo.db/Entities/Locator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <marker date="1561737729050" expanded="true" signature="6:65" ph="..." />
+            <marker date="1561737729050" expanded="true" signature="95:494" ph="{...}" />
+            <marker date="1561737729050" expanded="true" signature="122:492" ph="{...}" />
+            <marker date="1561737729050" expanded="true" signature="390:486" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo.db/Entities/Person.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+          <folding>
+            <marker date="1561737674906" expanded="true" signature="6:65" ph="..." />
+            <marker date="1561737674906" expanded="true" signature="95:497" ph="{...}" />
+            <marker date="1561737674906" expanded="true" signature="122:494" ph="{...}" />
+            <marker date="1561737674906" expanded="true" signature="391:488" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo.db/Core/MongoDataContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <marker date="1561995682500" expanded="true" signature="6:41" ph="..." />
+            <marker date="1561995682500" expanded="true" signature="67:685" ph="{...}" />
+            <marker date="1561995682500" expanded="true" signature="104:682" ph="{...}" />
+            <marker date="1561995682500" expanded="true" signature="284:422" ph="{...}" />
+            <marker date="1561995682500" expanded="true" signature="478:562" ph="{...}" />
+            <marker date="1561995682500" expanded="true" signature="612:676" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo.db/Core/MongoOptions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <marker date="1561995433716" expanded="true" signature="24:168" ph="{...}" />
+            <marker date="1561995433716" expanded="true" signature="57:165" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo.db/Core/MongoRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <marker date="1561995699326" expanded="true" signature="6:67" ph="..." />
+            <marker date="1561995699326" expanded="true" signature="93:491" ph="{...}" />
+            <marker date="1561995699326" expanded="true" signature="129:488" ph="{...}" />
+            <marker date="1561995699326" expanded="true" signature="251:303" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo.db/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <marker date="1561996026896" expanded="true" signature="6:122" ph="..." />
+            <marker date="1561996026896" expanded="true" signature="143:1997" ph="{...}" />
+            <marker date="1561996026896" expanded="true" signature="184:359" ph="{...}" />
+            <marker date="1561996026896" expanded="true" signature="234:353" ph="{...}" />
+            <marker date="1561996026896" expanded="true" signature="385:1995" ph="{...}" />
+            <marker date="1561996026896" expanded="true" signature="416:1989" ph="{...}" />
+            <marker date="1561996026896" expanded="true" signature="499:642" ph="{...}" />
+            <marker date="1561996026896" expanded="true" signature="795:1020" ph="{...}" />
+            <marker date="1561996026896" expanded="true" signature="1109:1330" ph="{...}" />
+            <marker date="1561996026896" expanded="true" signature="1886:1964" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
