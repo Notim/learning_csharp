@@ -9,7 +9,7 @@ namespace Investimentos {
         static void Main(string[] args) {
             var Account = new BankAccount {Balance = 500000};
 
-            Console.WriteLine(InvestmentDirector.Invest(Account, new AggressiveProfileStrategy()).Balance);
+            Console.WriteLine(InvestmentDirector.Invest(Account, new ConservativeProfileStrategy()).Balance.ToString("C"));
         }
     }
 

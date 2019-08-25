@@ -700,7 +700,7 @@
       "outputPath": "/home/notim/GitHub/Notim/learning_csharp/Design patterns/001 - StrategyPattern/Investimentos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/notim/.config/NuGet/NuGet.Config"
+        "/home/notim/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
