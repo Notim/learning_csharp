@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orcamento", "Orcamento\Orcamento.csproj", "{492160FD-A2B5-4059-A7EC-70E9814987AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Investimentos", "Investimentos\Investimentos.csproj", "{3C9DFA4C-6B42-476D-A86B-C7B7115BCE83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{492160FD-A2B5-4059-A7EC-70E9814987AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{492160FD-A2B5-4059-A7EC-70E9814987AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{492160FD-A2B5-4059-A7EC-70E9814987AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{492160FD-A2B5-4059-A7EC-70E9814987AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C9DFA4C-6B42-476D-A86B-C7B7115BCE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9DFA4C-6B42-476D-A86B-C7B7115BCE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9DFA4C-6B42-476D-A86B-C7B7115BCE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9DFA4C-6B42-476D-A86B-C7B7115BCE83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

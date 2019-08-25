@@ -1,0 +1,9 @@
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/Core/bin/Debug/netcoreapp2.2/Core.deps.json
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/Core/bin/Debug/netcoreapp2.2/Core.dll
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/Core/bin/Debug/netcoreapp2.2/Core.pdb
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/Core/obj/Debug/netcoreapp2.2/Core.csprojAssemblyReference.cache
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/Core/obj/Debug/netcoreapp2.2/Core.csproj.CoreCompileInputs.cache
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/Core/obj/Debug/netcoreapp2.2/Core.AssemblyInfoInputs.cache
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/Core/obj/Debug/netcoreapp2.2/Core.AssemblyInfo.cs
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/Core/obj/Debug/netcoreapp2.2/Core.dll
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/Core/obj/Debug/netcoreapp2.2/Core.pdb

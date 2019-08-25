@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.2/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.2/system/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_StrategyPattern.-1570358199.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Investimentos" t="IncludeRecursive">
+        <e p="Entities" t="Include">
+          <e p="BankAccount.cs" t="Include" />
+        </e>
+        <e p="Investimentos.csproj" t="IncludeRecursive" />
+        <e p="InvestmentDirector.cs" t="Include" />
+        <e p="InvestorProfiles" t="Include">
+          <e p="IInvestorProfileStrategy.cs" t="Include" />
+          <e p="Vendors" t="Include">
+            <e p="AggressiveProfileStrategy.cs" t="Include" />
+            <e p="ConservativeProfileStrategy.cs" t="Include" />
+            <e p="ModerateProfileStrategy.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Investimentos.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Orcamento" t="IncludeRecursive">
+        <e p="Budget.cs" t="Include" />
+        <e p="BudgetCalculator.cs" t="Include" />
+        <e p="Orcamento.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="README.md" t="Include" />
+        <e p="Taxes" t="Include">
+          <e p="ITax.cs" t="Include" />
+          <e p="vendors" t="Include">
+            <e p="ICCC.cs" t="Include" />
+            <e p="ICMS.cs" t="Include" />
+            <e p="ISS.cs" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Orcamento.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="StrategyPattern.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

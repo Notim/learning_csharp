@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.2/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.2/system/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_ChainOfResponsability.1601743563.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="App" t="IncludeRecursive">
+        <e p="App.csproj" t="IncludeRecursive" />
+        <e p="CalculadorOrcamento" t="Include">
+          <e p="Entities" t="Include">
+            <e p="Item.cs" t="Include" />
+            <e p="Orcamento.cs" t="Include" />
+          </e>
+          <e p="Services" t="Include">
+            <e p="CalculadoraDescontos" t="Include">
+              <e p="CalculadoraDescontos.cs" t="Include" />
+              <e p="DescontosChain" t="Include">
+                <e p="DescontoChainNodeAbstract.cs" t="Include" />
+                <e p="Vendors" t="Include">
+                  <e p="DefaulDescontoChainNode.cs" t="Include" />
+                  <e p="DescontoDezMaisDeCinco.cs" t="Include" />
+                  <e p="DescontoPorCincoItens.cs" t="Include" />
+                  <e p="DescontoPorMaisDeQuinhentosReais.cs" t="Include" />
+                  <e p="DescontoVendaCasada.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="ConsultaContaBancaria" t="Include">
+          <e p="Entities" t="Include">
+            <e p="Conta.cs" t="Include" />
+            <e p="FormatoDocumentoEnum.cs" t="Include" />
+            <e p="Requisicao.cs" t="Include" />
+          </e>
+          <e p="Services" t="Include">
+            <e p="ConsultaBanco.cs" t="Include" />
+            <e p="ConversorDocumento" t="Include">
+              <e p="FormatosDocumentoChain" t="Include">
+                <e p="DescontoChainNodeAbstract.cs" t="Include" />
+                <e p="Vendors" t="Include">
+                  <e p="CSVConverterChainNode.cs" t="Include" />
+                  <e p="JsonConverterChainNode.cs" t="Include" />
+                  <e p="PipeConverterChainNode.cs" t="Include" />
+                  <e p="PorCentoConverterChainNode.cs" t="Include" />
+                  <e p="UknownConverterChainNode.cs" t="Include" />
+                  <e p="XMLConverterChainNode.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="ContaBancariaConsultaProgram.cs" t="Include" />
+        <e p="OrcamentoProgram.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="App.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="ChainOfResponsability.sln" t="IncludeFlat" />
+      <e p="Core" t="IncludeRecursive">
+        <e p="Core.csproj" t="IncludeRecursive" />
+        <e p="Interfaces" t="Include">
+          <e p="GenericChainRepository" t="Include">
+            <e p="ChainNodeVendors" t="Include">
+              <e p="DefaultChainNode.cs" t="Include" />
+              <e p="DefaultChainNodeAbstract.cs" t="Include" />
+            </e>
+            <e p="ChainRepository.cs" t="Include" />
+            <e p="IChainNode.cs" t="Include" />
+            <e p="IChainRepository.cs" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

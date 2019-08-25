@@ -1,0 +1,11 @@
+/home/notim/GitHub/Notim/learning_csharp/C#/Commons/Redis/Redis/bin/Debug/netcoreapp2.2/Redis.deps.json
+/home/notim/GitHub/Notim/learning_csharp/C#/Commons/Redis/Redis/bin/Debug/netcoreapp2.2/Redis.runtimeconfig.json
+/home/notim/GitHub/Notim/learning_csharp/C#/Commons/Redis/Redis/bin/Debug/netcoreapp2.2/Redis.runtimeconfig.dev.json
+/home/notim/GitHub/Notim/learning_csharp/C#/Commons/Redis/Redis/bin/Debug/netcoreapp2.2/Redis.dll
+/home/notim/GitHub/Notim/learning_csharp/C#/Commons/Redis/Redis/bin/Debug/netcoreapp2.2/Redis.pdb
+/home/notim/GitHub/Notim/learning_csharp/C#/Commons/Redis/Redis/obj/Debug/netcoreapp2.2/Redis.csprojAssemblyReference.cache
+/home/notim/GitHub/Notim/learning_csharp/C#/Commons/Redis/Redis/obj/Debug/netcoreapp2.2/Redis.csproj.CoreCompileInputs.cache
+/home/notim/GitHub/Notim/learning_csharp/C#/Commons/Redis/Redis/obj/Debug/netcoreapp2.2/Redis.AssemblyInfoInputs.cache
+/home/notim/GitHub/Notim/learning_csharp/C#/Commons/Redis/Redis/obj/Debug/netcoreapp2.2/Redis.AssemblyInfo.cs
+/home/notim/GitHub/Notim/learning_csharp/C#/Commons/Redis/Redis/obj/Debug/netcoreapp2.2/Redis.dll
+/home/notim/GitHub/Notim/learning_csharp/C#/Commons/Redis/Redis/obj/Debug/netcoreapp2.2/Redis.pdb

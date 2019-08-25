@@ -1,0 +1,14 @@
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/CalculadorDescontos/bin/Debug/netcoreapp2.2/CalculadorDescontos.deps.json
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/CalculadorDescontos/bin/Debug/netcoreapp2.2/CalculadorDescontos.runtimeconfig.json
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/CalculadorDescontos/bin/Debug/netcoreapp2.2/CalculadorDescontos.runtimeconfig.dev.json
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/CalculadorDescontos/bin/Debug/netcoreapp2.2/CalculadorDescontos.dll
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/CalculadorDescontos/bin/Debug/netcoreapp2.2/CalculadorDescontos.pdb
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/CalculadorDescontos/obj/Debug/netcoreapp2.2/CalculadorDescontos.csprojAssemblyReference.cache
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/CalculadorDescontos/obj/Debug/netcoreapp2.2/CalculadorDescontos.csproj.CoreCompileInputs.cache
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/CalculadorDescontos/obj/Debug/netcoreapp2.2/CalculadorDescontos.AssemblyInfoInputs.cache
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/CalculadorDescontos/obj/Debug/netcoreapp2.2/CalculadorDescontos.AssemblyInfo.cs
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/CalculadorDescontos/obj/Debug/netcoreapp2.2/CalculadorDescontos.dll
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/CalculadorDescontos/obj/Debug/netcoreapp2.2/CalculadorDescontos.pdb
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/CalculadorDescontos/bin/Debug/netcoreapp2.2/Core.dll
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/CalculadorDescontos/bin/Debug/netcoreapp2.2/Core.pdb
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/CalculadorDescontos/obj/Debug/netcoreapp2.2/CalculadorDescontos.csproj.CopyComplete

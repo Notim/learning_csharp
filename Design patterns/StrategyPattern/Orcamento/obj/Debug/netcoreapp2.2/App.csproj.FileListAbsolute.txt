@@ -1,0 +1,11 @@
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/StrategyPattern/App/bin/Debug/netcoreapp2.2/App.deps.json
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/StrategyPattern/App/bin/Debug/netcoreapp2.2/App.runtimeconfig.json
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/StrategyPattern/App/bin/Debug/netcoreapp2.2/App.runtimeconfig.dev.json
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/StrategyPattern/App/bin/Debug/netcoreapp2.2/App.dll
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/StrategyPattern/App/bin/Debug/netcoreapp2.2/App.pdb
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/StrategyPattern/App/obj/Debug/netcoreapp2.2/App.csprojAssemblyReference.cache
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/StrategyPattern/App/obj/Debug/netcoreapp2.2/App.csproj.CoreCompileInputs.cache
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/StrategyPattern/App/obj/Debug/netcoreapp2.2/App.AssemblyInfoInputs.cache
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/StrategyPattern/App/obj/Debug/netcoreapp2.2/App.AssemblyInfo.cs
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/StrategyPattern/App/obj/Debug/netcoreapp2.2/App.dll
+/home/notim/GitHub/Notim/learning_csharp/Design patterns/StrategyPattern/App/obj/Debug/netcoreapp2.2/App.pdb

@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0091a22f-b6f2-4a45-bded-b1d5d4887794" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Web/Controllers/hubs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/.idea/.idea.Application/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/.idea/.idea.Application/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/.idea/.idea.Application/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/.idea/.idea.Application/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/.idea/.idea.Application/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/.idea/.idea.Application/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/Application.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/Controllers/HomeController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/Models/ErrorViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/Startup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/Views/Home/Index.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/Views/Home/Privacy.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/Views/Shared/Error.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/Views/Shared/_CookieConsentPartial.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/Views/Shared/_Layout.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/Views/Shared/_ValidationScriptsPartial.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/Views/_ViewImports.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/Views/_ViewStart.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/WEB.System.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/bin/Debug/netcoreapp2.2/WEB.System.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/bin/Debug/netcoreapp2.2/WEB.System.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/bin/Debug/netcoreapp2.2/WEB.System.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/Debug/netcoreapp2.2/WEB.System.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/Debug/netcoreapp2.2/WEB.System.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/Debug/netcoreapp2.2/WEB.System.RazorAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/Debug/netcoreapp2.2/WEB.System.RazorAssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/Debug/netcoreapp2.2/WEB.System.RazorCoreGenerate.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/Debug/netcoreapp2.2/WEB.System.RazorTargetAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/Debug/netcoreapp2.2/WEB.System.RazorTargetAssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/Debug/netcoreapp2.2/WEB.System.TagHelpers.input.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/Debug/netcoreapp2.2/WEB.System.TagHelpers.output.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/Debug/netcoreapp2.2/WEB.System.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/Debug/netcoreapp2.2/WEB.System.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/Debug/netcoreapp2.2/WEB.System.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/Debug/netcoreapp2.2/WEB.System.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/Debug/netcoreapp2.2/WEB.System.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/WEB.System.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/WEB.System.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/WEB.System.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/css/site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/js/site.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/lib/bootstrap/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/lib/bootstrap/dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/lib/bootstrap/dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/lib/jquery-validation/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/lib/jquery-validation/dist/additional-methods.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/lib/jquery-validation/dist/jquery.validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/lib/jquery/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/lib/jquery/dist/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/Application/WEB.System/wwwroot/lib/jquery/dist/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/app.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/bin/Debug/netcoreapp2.1/ASP .NET CORE.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/bin/Debug/netcoreapp2.1/ASP .NET CORE.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/bin/Debug/netcoreapp2.1/ASP .NET CORE.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/bin/Debug/netcoreapp2.1/app.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/bin/Debug/netcoreapp2.1/app.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/bin/Debug/netcoreapp2.1/app.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/obj/ASP .NET CORE.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/obj/ASP .NET CORE.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/obj/ASP .NET CORE.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/obj/Debug/netcoreapp2.1/ASP .NET CORE.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/obj/Debug/netcoreapp2.1/ASP .NET CORE.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/obj/Debug/netcoreapp2.1/ASP .NET CORE.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/obj/Debug/netcoreapp2.1/ASP .NET CORE.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/obj/Debug/netcoreapp2.1/ASP .NET CORE.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/obj/Debug/netcoreapp2.1/ASP .NET CORE.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/obj/Debug/netcoreapp2.1/app.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/obj/Debug/netcoreapp2.1/app.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/obj/Debug/netcoreapp2.1/app.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/obj/Debug/netcoreapp2.1/app.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/obj/Debug/netcoreapp2.1/app.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/obj/Debug/netcoreapp2.1/app.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/obj/app.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/obj/app.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/obj/app.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-001-simple-console-app/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/.idea/.idea.002/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/.idea/.idea.002/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/.idea/.idea.002/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/.idea/.idea.002/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/.idea/.idea.002/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/.idea/.idea.002/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/.idea/.idea.Learning/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/.idea/.idea.Learning/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/.idea/.idea.Learning/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/.idea/.idea.Learning/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/.idea/.idea.Learning/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/.idea/.idea.Learning/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/.idea/.idea.Learning/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/Learning.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/bin/Debug/netcoreapp2.1/002.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/bin/Debug/netcoreapp2.1/002.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/bin/Debug/netcoreapp2.1/002.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/bin/Debug/netcoreapp2.1/Learning.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/bin/Debug/netcoreapp2.1/Learning.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/bin/Debug/netcoreapp2.1/Learning.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/obj/002.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/obj/002.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/obj/002.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/obj/Debug/netcoreapp2.1/002.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/obj/Debug/netcoreapp2.1/002.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/obj/Debug/netcoreapp2.1/002.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/obj/Debug/netcoreapp2.1/002.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/obj/Debug/netcoreapp2.1/002.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/obj/Debug/netcoreapp2.1/002.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/obj/Debug/netcoreapp2.1/Learning.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/obj/Debug/netcoreapp2.1/Learning.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/obj/Debug/netcoreapp2.1/Learning.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/obj/Debug/netcoreapp2.1/Learning.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/obj/Debug/netcoreapp2.1/Learning.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/obj/Debug/netcoreapp2.1/Learning.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/obj/Learning.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/obj/Learning.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/obj/Learning.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-002-hosting-startup(Core1.0)/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/.idea/.idea.Application/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/.idea/.idea.Application/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/.idea/.idea.Application/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/.idea/.idea.Application/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/.idea/.idea.Application/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/.idea/.idea.Application/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/.idea/.idea.Application/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/.idea/.idea.aula-003-hosting-startup-webconfig(Core2.0)/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/.idea/.idea.aula-003-hosting-startup-webconfig(Core2.0)/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/.idea/.idea.aula-003-hosting-startup-webconfig(Core2.0)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/.idea/.idea.aula-003-hosting-startup-webconfig(Core2.0)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/.idea/.idea.aula-003-hosting-startup-webconfig(Core2.0)/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/.idea/.idea.aula-003-hosting-startup-webconfig(Core2.0)/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/Application.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/bin/Debug/netcoreapp2.2/Application.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/bin/Debug/netcoreapp2.2/Application.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/bin/Debug/netcoreapp2.2/Application.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/obj/Application.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/obj/Application.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/obj/Application.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/obj/Debug/netcoreapp2.2/Application.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/obj/Debug/netcoreapp2.2/Application.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/obj/Debug/netcoreapp2.2/Application.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/obj/Debug/netcoreapp2.2/Application.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/obj/Debug/netcoreapp2.2/Application.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/obj/Debug/netcoreapp2.2/Application.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/obj/aula-003-hosting-startup-webconfig(Core2.0).csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/obj/aula-003-hosting-startup-webconfig(Core2.0).csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/obj/aula-003-hosting-startup-webconfig(Core2.0).csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-003-hosting-startup-webconfig(Core2.0)/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/.idea/.idea.aula-004/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/.idea/.idea.aula-004/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/.idea/.idea.aula-004/.idea/dictionaries/joao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/.idea/.idea.aula-004/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/.idea/.idea.aula-004/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/.idea/.idea.aula-004/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/.idea/.idea.aula-004/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/.idea/.idea.aula-004/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/.idea/.idea.aula-004/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/css/site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/js/site.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/lib/bootstrap/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/lib/bootstrap/dist/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/lib/bootstrap/dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/lib/bootstrap/dist/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/lib/bootstrap/dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/lib/bootstrap/dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/lib/bootstrap/dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/lib/bootstrap/dist/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/lib/bootstrap/dist/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/lib/bootstrap/dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/lib/bootstrap/dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/lib/jquery-validation-unobtrusive/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/lib/jquery-validation/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/lib/jquery-validation/dist/additional-methods.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/lib/jquery-validation/dist/additional-methods.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/lib/jquery-validation/dist/jquery.validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/lib/jquery-validation/dist/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/lib/jquery/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/lib/jquery/dist/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Assets/lib/jquery/dist/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Controllers/HomeController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/DI_example/Interface/IConnectionRepository.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/DI_example/Services/ConnectionRepository.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Helpers/HtmlUtils.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Models/ErrorViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Startup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Views/Home/Identity.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Views/Home/Index.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Views/Home/Privacy.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Views/Shared/CookieConsentPartial.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Views/Shared/Error.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Views/Shared/ValidationScriptsPartial.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Views/Shared/master-page.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Views/Shared/partial-footer.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Views/_ViewImports.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/Views/_ViewStart.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/aula-004.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/bin/Debug/netcoreapp2.2/aula-004.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/bin/Debug/netcoreapp2.2/aula-004.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/bin/Debug/netcoreapp2.2/aula-004.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/Razor/Views/Shared/CookieConsentPartial.g.cshtml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/Razor/Views/Shared/ValidationScriptsPartial.g.cshtml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/Razor/Views/Shared/master-page.g.cshtml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/Razor/Views/Shared/partial-footer.g.cshtml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/aula-004.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/aula-004.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/aula-004.RazorAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/aula-004.RazorAssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/aula-004.RazorCoreGenerate.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/aula-004.RazorTargetAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/aula-004.RazorTargetAssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/aula-004.TagHelpers.input.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/aula-004.TagHelpers.output.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/aula-004.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/aula-004.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/aula-004.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/aula-004.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/Debug/netcoreapp2.2/aula-004.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/aula-004.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/aula-004.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/aula-004.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../udemy/aula-004/obj/project.packagespec.json" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Web/Controllers/hubs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Web/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Web/Controllers/HomeController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.WebSocket/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.WebSocket/.idea/indexLayout.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="27" />
+    <option name="y" value="38" />
+    <option name="width" value="1314" />
+    <option name="height" value="681" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <autoscrollFromSource SolutionExplorer="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.WebSocket">
+    <configuration name="WebSocket" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/WebSocket/WebSocket.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="WebSocket" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebSocket: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/WebSocket/WebSocket.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0091a22f-b6f2-4a45-bded-b1d5d4887794" name="Default Changelist" comment="" />
+      <created>1565625131864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565625131864</updated>
+      <workItem from="1565625139015" duration="593000" />
+      <workItem from="1565625847160" duration="260000" />
+      <workItem from="1565712668421" duration="61000" />
+      <workItem from="1565712762276" duration="205000" />
+      <workItem from="1565713006314" duration="245000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1364000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="26" width="1368" height="743" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2659091" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3296875" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="REST Client" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" visible="true" weight="0.29375" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Web/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1565826230870" expanded="true" signature="6:77" ph="..." />
+            <marker date="1565826230870" expanded="true" signature="105:572" ph="{...}" />
+            <marker date="1565826230870" expanded="true" signature="153:569" ph="{...}" />
+            <marker date="1565826230870" expanded="true" signature="192:230" ph="{...}" />
+            <marker date="1565826230870" expanded="true" signature="271:309" ph="{...}" />
+            <marker date="1565826230870" expanded="true" signature="441:563" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/Controllers/hubs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1565626210013" expanded="false" signature="6:66" ph="..." />
+            <marker date="1565626210013" expanded="true" signature="95:292" ph="{...}" />
+            <marker date="1565626210013" expanded="true" signature="129:289" ph="{...}" />
+            <marker date="1565626210013" expanded="true" signature="198:283" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSocket.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
