@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Model" />
+      <Folder Include="Model\Financeiro\Dtos" />
+      <Folder Include="Model\Financeiro\Wrappers" />
+    </ItemGroup>
+
+</Project>
