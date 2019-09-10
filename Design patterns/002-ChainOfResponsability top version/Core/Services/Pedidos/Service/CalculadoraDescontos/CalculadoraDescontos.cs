@@ -17,6 +17,11 @@ namespace Core.Services.Pedidos.Service.CalculadoraDescontos {
         }
 
         public OrcamentoDTO CalcularDescontos() {
+            var d1 = new DescontoPorCincoItens();
+            var d2 = new DescontoDezMaisDeCinco();
+            d1.Next = d2;
+            d2.Next = new DescontoVendaCasada();
+            
             return this.chainDiscountRepository
                        .Next(new DescontoPorMaisDeQuinhentosReais())
                        .AddNodes(

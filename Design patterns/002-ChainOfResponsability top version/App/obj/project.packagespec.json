@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/App/App.csproj",
+    "projectUniqueName": "/home/notim/GitHub/Notim/learning_csharp/Design patterns/002-ChainOfResponsability top version/App/App.csproj",
     "projectName": "App",
-    "projectPath": "/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/App/App.csproj",
-    "outputPath": "/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/App/obj/",
+    "projectPath": "/home/notim/GitHub/Notim/learning_csharp/Design patterns/002-ChainOfResponsability top version/App/App.csproj",
+    "outputPath": "/home/notim/GitHub/Notim/learning_csharp/Design patterns/002-ChainOfResponsability top version/App/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp2.2"
@@ -15,8 +15,8 @@
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {
-          "/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/Core/Core.csproj": {
-            "projectPath": "/home/notim/GitHub/Notim/learning_csharp/Design patterns/ChainOfResponsability/Core/Core.csproj"
+          "/home/notim/GitHub/Notim/learning_csharp/Design patterns/002-ChainOfResponsability top version/Core/Core.csproj": {
+            "projectPath": "/home/notim/GitHub/Notim/learning_csharp/Design patterns/002-ChainOfResponsability top version/Core/Core.csproj"
           }
         }
       }
