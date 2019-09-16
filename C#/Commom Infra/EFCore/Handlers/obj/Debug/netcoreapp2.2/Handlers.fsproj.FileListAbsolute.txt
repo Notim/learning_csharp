@@ -1,8 +1,0 @@
-/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/Handlers/bin/Debug/netcoreapp2.2/Handlers.deps.json
-/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/Handlers/bin/Debug/netcoreapp2.2/Handlers.dll
-/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/Handlers/bin/Debug/netcoreapp2.2/Handlers.pdb
-/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/Handlers/obj/Debug/netcoreapp2.2/Handlers.fsprojAssemblyReference.cache
-/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/Handlers/obj/Debug/netcoreapp2.2/Handlers.AssemblyInfoInputs.cache
-/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/Handlers/obj/Debug/netcoreapp2.2/Handlers.AssemblyInfo.fs
-/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/Handlers/obj/Debug/netcoreapp2.2/Handlers.dll
-/home/joao/Github/Notim/learning_csharp/C#/Commons/EFCore/Handlers/obj/Debug/netcoreapp2.2/Handlers.pdb

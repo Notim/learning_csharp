@@ -1,4 +1,0 @@
-/home/joao/Github/Notim/learning_csharp/C#/IcsBuilder/IcsBuilder/obj/Debug/netcoreapp2.2/IcsBuilder.csprojAssemblyReference.cache
-/home/joao/Github/Notim/learning_csharp/C#/IcsBuilder/IcsBuilder/obj/Debug/netcoreapp2.2/IcsBuilder.csproj.CoreCompileInputs.cache
-/home/joao/Github/Notim/learning_csharp/C#/IcsBuilder/IcsBuilder/obj/Debug/netcoreapp2.2/IcsBuilder.AssemblyInfoInputs.cache
-/home/joao/Github/Notim/learning_csharp/C#/IcsBuilder/IcsBuilder/obj/Debug/netcoreapp2.2/IcsBuilder.AssemblyInfo.cs
