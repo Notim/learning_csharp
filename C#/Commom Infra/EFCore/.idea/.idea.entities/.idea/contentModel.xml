@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.2/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.2/system/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_entities.-1223313870.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="DAL" t="IncludeRecursive">
+        <e p="Aluno" t="Include">
+          <e p="Entities" t="Include">
+            <e p="Aluno.cs" t="Include" />
+          </e>
+          <e p="ModelBuilder" t="Include">
+            <e p="AlunoModelBuilder.cs" t="Include" />
+          </e>
+          <e p="Repository" t="Include">
+            <e p="DataContext.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Atividade" t="Include">
+          <e p="Entities" t="Include">
+            <e p="Atividade.cs" t="Include" />
+            <e p="AtividadeEntrega.cs" t="Include" />
+            <e p="AtividadeVinculada.cs" t="Include" />
+            <e p="StatusAtividade.cs" t="Include" />
+            <e p="StatusAtividadeEntrega.cs" t="Include" />
+            <e p="TipoAtividade.cs" t="Include" />
+          </e>
+          <e p="ModelBuilder" t="Include">
+            <e p="AtividadeEntregaModelBuilder.cs" t="Include" />
+            <e p="AtividadeModelBuilder.cs" t="Include" />
+            <e p="AtividadeVinculadaModelBuilder.cs" t="Include" />
+            <e p="StatusAtividadeEntregaModelBuilder.cs" t="Include" />
+            <e p="StatusAtividadeModelBuilder.cs" t="Include" />
+            <e p="TipoAtividadeModelBuilder.cs" t="Include" />
+          </e>
+          <e p="Repository" t="Include">
+            <e p="DataContext.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Coordenador" t="Include">
+          <e p="Entities" t="Include">
+            <e p="Coordenador.cs" t="Include" />
+          </e>
+          <e p="ModelBuilder" t="Include">
+            <e p="CoordenadorModelBuilder.cs" t="Include" />
+          </e>
+          <e p="Repository" t="Include">
+            <e p="DataContext.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Core" t="Include">
+          <e p="Base" t="Include">
+            <e p="DefaultContext.cs" t="Include" />
+            <e p="DefaultEntity.cs" t="Include" />
+          </e>
+          <e p="Connections.cs" t="Include" />
+          <e p="EntitiesCore.cs" t="Include" />
+          <e p="ModelCreating.cs" t="Include" />
+          <e p="ToMigrateSqlServer.cs" t="Include" />
+        </e>
+        <e p="Curso" t="Include">
+          <e p="Entities" t="Include">
+            <e p="Curso.cs" t="Include" />
+          </e>
+          <e p="ModelBuilder" t="Include">
+            <e p="CoordenadorModelBuilder.cs" t="Include" />
+          </e>
+          <e p="Repository" t="Include">
+            <e p="DataContext.cs" t="Include" />
+          </e>
+        </e>
+        <e p="DAL.csproj" t="IncludeRecursive" />
+        <e p="Disciplina" t="Include">
+          <e p="Entities" t="Include">
+            <e p="Disciplina.cs" t="Include" />
+            <e p="DisciplinaOfertada.cs" t="Include" />
+            <e p="StatusDisciplina.cs" t="Include" />
+          </e>
+          <e p="ModelBuilder" t="Include">
+            <e p="DisciplinaModelBuilder.cs" t="Include" />
+            <e p="DisciplinaOfertadaModelBuilder .cs" t="Include" />
+            <e p="StatusDisciplinaModelBuilder.cs" t="Include" />
+          </e>
+          <e p="Repository" t="Include">
+            <e p="DataContext.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Matricula" t="Include">
+          <e p="Entities" t="Include">
+            <e p="SolicitacaoMatricula.cs" t="Include" />
+            <e p="StatusSolicitacaoMatricula.cs" t="Include" />
+          </e>
+          <e p="ModelBuilder" t="Include">
+            <e p="SolicitacaoMatriculaModelBuilder.cs" t="Include" />
+            <e p="StatusSolicitacaoMatriculaModelBuilder.cs" t="Include" />
+          </e>
+          <e p="Repository" t="Include">
+            <e p="DataContext.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Mensagem" t="Include">
+          <e p="Entities" t="Include">
+            <e p="Mensagem.cs" t="Include" />
+            <e p="StatusMensagem.cs" t="Include" />
+          </e>
+          <e p="ModelBuilder" t="Include">
+            <e p="MensagemModelBuilder.cs" t="Include" />
+            <e p="StatusMensagemModelBuilder.cs" t="Include" />
+          </e>
+          <e p="Repository" t="Include">
+            <e p="DataContext.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Professor" t="Include">
+          <e p="Entities" t="Include">
+            <e p="Professor.cs" t="Include" />
+          </e>
+          <e p="ModelBuilder" t="Include">
+            <e p="ProfessorModelBuilder.cs" t="Include" />
+          </e>
+          <e p="Repository" t="Include">
+            <e p="DataContext.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Usuario" t="Include">
+          <e p="Entities" t="Include">
+            <e p="Usuario.cs" t="Include" />
+          </e>
+          <e p="ModelBuilder" t="Include">
+            <e p="UsuarioModelBuilder.cs" t="Include" />
+          </e>
+          <e p="Repository" t="Include">
+            <e p="DataContext.cs" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="DAL.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Handlers" t="IncludeRecursive">
+        <e p="Handlers.fsproj" t="IncludeRecursive" />
+        <e p="Library.fs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="entities" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="data.sql" t="Include" />
+        <e p="entities.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="entities.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="entities.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
